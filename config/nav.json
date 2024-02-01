@@ -781,6 +781,54 @@
 						"is_show": true
 					},
 					{
+						"title": "HDmoli",
+						"url": "https://molicp.com/",
+						"icon": "https://img.fre123.com/i/2023/11/25/6561ae6e55df8.png",
+						"description": "HDMOLI 提供免费、高品质、同时支持电脑和移动设备的影视剧在线观看网站",
+						"suffix": true,
+						"is_show": true
+					},
+					{
+						"title": "LIBVIO",
+						"url": "https://www.libvio.me/",
+						"icon": "https://img.fre123.com/i/2024/01/06/659829e49995c.png",
+						"description": "海外影视资源为主的老牌在线影视资源网站",
+						"suffix": true,
+						"is_show": true
+					},
+					{
+						"title": "JoJo 影视",
+						"url": "https://jiohub.top/",
+						"icon": "https://img.fre123.com/i/2023/11/25/6561af1988649.png",
+						"description": "努力打造为最好的海外热门影视剧在线观看站点",
+						"suffix": true,
+						"is_show": true
+					},
+					{
+						"title": "低端影视",
+						"url": "https://ddys.pro/",
+						"icon": "https://img.fre123.com/i/2023/11/25/6561aeddd0eb6.png",
+						"description": "超清在线视频站",
+						"suffix": true,
+						"is_show": true
+					},
+					{
+						"title": "NO 视频",
+						"url": "https://www.novipnoad.net/",
+						"icon": "https://img.fre123.com/i/2024/01/06/65983049921a2.png",
+						"description": "主打海外影视剧资源，不负追剧好时光。",
+						"suffix": true,
+						"is_show": true
+					},
+					{
+						"title": "在线之家",
+						"url": "https://www.zxzjhd.com/",
+						"icon": "https://img.fre123.com/i/2024/01/06/659830c0e152c.png",
+						"description": "在线观看最新美剧|最新韩剧|天天美剧|人人美剧",
+						"suffix": true,
+						"is_show": true
+					},
+					{
 						"title": "腐剧TV",
 						"url": "https://fujumtv.com/",
 						"icon": "https://img.fre123.com/i/2024/01/06/65982b424d966.png",
@@ -992,60 +1040,6 @@
 						"icon": "https://klyingshi.com/wp-content/uploads/2022/10/ic_launcher.jpg",
 						"description": "一个提供在线高清视频资源的影视平台。",
 						"suffix": false,
-						"is_show": true
-					}
-				]
-			},
-			{
-				"tab_name": "美日韩剧",
-				"upper_right_corner": {},
-				"details": [
-					{
-						"title": "HDmoli",
-						"url": "https://molicp.com/",
-						"icon": "https://img.fre123.com/i/2023/11/25/6561ae6e55df8.png",
-						"description": "HDMOLI 提供免费、高品质、同时支持电脑和移动设备的影视剧在线观看网站",
-						"suffix": true,
-						"is_show": true
-					},
-					{
-						"title": "LIBVIO",
-						"url": "https://www.libvio.me/",
-						"icon": "https://img.fre123.com/i/2024/01/06/659829e49995c.png",
-						"description": "海外影视资源为主的老牌在线影视资源网站",
-						"suffix": true,
-						"is_show": true
-					},
-					{
-						"title": "JoJo 影视",
-						"url": "https://jiohub.top/",
-						"icon": "https://img.fre123.com/i/2023/11/25/6561af1988649.png",
-						"description": "努力打造为最好的海外热门影视剧在线观看站点",
-						"suffix": true,
-						"is_show": true
-					},
-					{
-						"title": "低端影视",
-						"url": "https://ddys.pro/",
-						"icon": "https://img.fre123.com/i/2023/11/25/6561aeddd0eb6.png",
-						"description": "超清在线视频站",
-						"suffix": true,
-						"is_show": true
-					},
-					{
-						"title": "NO 视频",
-						"url": "https://www.novipnoad.net/",
-						"icon": "https://img.fre123.com/i/2024/01/06/65983049921a2.png",
-						"description": "主打海外影视剧资源，不负追剧好时光。",
-						"suffix": true,
-						"is_show": true
-					},
-					{
-						"title": "在线之家",
-						"url": "https://www.zxzjhd.com/",
-						"icon": "https://img.fre123.com/i/2024/01/06/659830c0e152c.png",
-						"description": "在线观看最新美剧|最新韩剧|天天美剧|人人美剧",
-						"suffix": true,
 						"is_show": true
 					}
 				]
@@ -1457,7 +1451,7 @@
 					{
 						"title": "owlook",
 						"url": "https://www.owlook.com.cn/",
-						"icon": "https://www.owlook.com.cn/static/novels/img/logo_home.png",
+						"icon": "http://p1.music.126.net/fHx7obV9bjipvSpqlf4B7g==/109951164856361756.jpg?param=140y140",
 						"description": "owllook支持在线阅读，提供检索服务，最清新简洁的阅读体验，无广告，页面清爽，免费全本小说",
 						"suffix": false,
 						"is_show": true
@@ -3281,7 +3275,143 @@
 							"description": "提供各类网站建设的开源代码",
 							"suffix": false,
 							"is_show": true
-					}
+					},
+					{
+						"title": "在线工具",
+						"url": "https://tool.lu/",
+						"icon": "https://tool.lu/favicon.ico",
+						"description": "包含多种实用的在线工具。",
+						"suffix": false,
+						"is_show": true
+						},
+						{
+						"title": "MikuTools",
+						"url": "https://tools.miku.ac/",
+						"icon": "https://mikutools.cdn.hatsune.tech/icons/icon_512x512.3ecd30.png",
+						"description": "提供各种实用的网络工具及实用计算器。",
+						"suffix": false,
+						"is_show": true
+						},
+						{
+						"title": "兔二工具",
+						"url": "https://www.tool22.com/",
+						"icon": "http://p1.music.126.net/1kMip1GVq7wJAHuFHEecSg==/109951165721363752.jpg?param=140y140",
+						"description": "一个包含多种实用工具的综合性网站。",
+						"suffix": false,
+						"is_show": true
+						},
+						{
+						"title": "最强工具人在线工具箱",
+						"url": "https://www.toolfk.com/",
+						"icon": "https://www.toolfk.com/tools/images/icon.png",
+						"description": "包含多种实用工具和在线代码编译器。",
+						"suffix": false,
+						"is_show": true
+						},
+						{
+						"title": "孟坤工具箱网页版",
+						"url": "http://tool.mkblog.cn/",
+						"icon": "http://tool.mkblog.cn/favicon.ico",
+						"description": "提供多种工具，如图片压缩、代码格式化等。",
+						"suffix": false,
+						"is_show": true
+						},
+						{
+						"title": "在线工具资料箱",
+						"url": "https://www.toolzl.com/",
+						"icon": "https://www.toolzl.com/favicon.ico",
+						"description": "含多种实用的在线工具和教程资料。",
+						"suffix": false,
+						"is_show": true
+						},
+						{
+						"title": "精准云工具_在线工具大全",
+						"url": "https://jingzhunyun.com/",
+						"icon": "http://p1.music.126.net/mQy3lRj6YJ0TW3fM9v85YA==/6643249256145165.jpg?param=140y140",
+						"description": "包含多种实用小工具的工具栏。",
+						"suffix": false,
+						"is_show": true
+						},
+						{
+						"title": "爱资料工具",
+						"url": "https://www.toolnb.com/",
+						"icon": "https://www.toolnb.com/favicon.ico",
+						"description": "提供各类实用的在线工具和软件下载",
+						"suffix": false,
+						"is_show": true
+						},
+						{
+						"title": "菜鸟工具",
+						"url": "https://c.runoob.com/",
+						"icon": "http://p1.music.126.net/FWMoeZhny3azCVN7kmQb1A==/109951168665495966.jpg?param=140y140",
+						"description": "一个适合初学者的在线编程工具和学习平台",
+						"suffix": false,
+						"is_show": true
+						},
+						{
+						"title": "77工具",
+						"url": "https://www.tool77.com/",
+						"icon": "https://www.tool77.com/media/image/favicon.ico",
+						"description": "提供各类实用的在线工具和软件资源下载",
+						"suffix": false,
+						"is_show": true
+						},
+						{
+							"title": "Greasy Fork --用户脚本大全",
+							"url": "https://greasyfork.org/zh-CN",
+							"icon": "https://greasyfork.org/vite/assets/blacklogo16-37ZGLlXh.png",
+							"description": "一个用户脚本分享平台，提供各类实用的浏览器扩展和脚本",
+							"suffix": false,
+							"is_show": true
+						},
+						{
+							"title": "Wormhole - 私密文件共享",
+							"url": "https://wormhole.app/",
+							"icon": "http://p1.music.126.net/4ciYzusSlhsJlbZFt6lBow==/109951168743764848.jpg?param=140y140",
+							"description": "可以实现一对一或多对多加密文件传输的在线工具",
+							"suffix": false,
+							"is_show": true
+						},
+						{
+							"title": "拷贝兔--文字分享工具",
+							"url": "https://cp.anyknew.com/",
+							"icon": "http://p1.music.126.net/s2AX478NlfihuO179PRY3w==/109951169148382683.jpg?param=140y140",
+							"description": "一个方便快捷的文字分享工具，支持多种平台。",
+							"suffix": false,
+							"is_show": true
+						},
+						{
+							"title": "轻松传 -传实时视频",
+							"url": "https://easychuan.cn/",
+							"icon": "http://p1.music.126.net/hxAortZZA9Inj1vM9BQsFQ==/109951168667094421.jpg?param=140y140",
+							"description": "一个支持实时视频传输的在线传输工具。",
+							"suffix": false,
+							"is_show": true
+						},
+						{
+							"title": "青蛙快传 - 超快云传输web工具",
+							"url": "https://cp.ciding.cc/",
+							"icon": "https://cp.ciding.cc/public/favicon.png",
+							"description": "一个超快速的云传输工具，支持多种文件类型。",
+							"suffix": false,
+							"is_show": true
+						},
+						{
+								"title": "快贴 - 真正的云剪贴板工具",
+								"url": "https://home.clipber.com/",
+								"icon": "https://kuaitie.cloud/assets/favicon.png",
+								"description": "在线剪贴板工具，可快速复制、转移和分享多种内容",
+								"suffix": false,
+								"is_show": true
+						},
+						{
+								"title": "在线工具导航",
+								"url": "https://xydh.fun/xixihaha",
+								"icon": "https://xydh.fun/favicon.ico",
+								"description": "提供各类实用的在线工具和资源导航",
+								"suffix": false,
+								"is_show": true
+						}
 				]
 			},
 			{
@@ -3511,148 +3641,6 @@
 						"is_show": true
 					}
 				]
-			},
-			{
-				"tab_name": "在线工具",
-				"upper_right_corner": {},
-				"details": [
-					{
-						"title": "在线工具",
-						"url": "https://tool.lu/",
-						"icon": "https://tool.lu/favicon.ico",
-						"description": "包含多种实用的在线工具。",
-						"suffix": false,
-						"is_show": true
-						},
-						{
-						"title": "MikuTools",
-						"url": "https://tools.miku.ac/",
-						"icon": "https://mikutools.cdn.hatsune.tech/icons/icon_512x512.3ecd30.png",
-						"description": "提供各种实用的网络工具及实用计算器。",
-						"suffix": false,
-						"is_show": true
-						},
-						{
-						"title": "兔二工具",
-						"url": "https://www.tool22.com/",
-						"icon": "http://p1.music.126.net/1kMip1GVq7wJAHuFHEecSg==/109951165721363752.jpg?param=140y140",
-						"description": "一个包含多种实用工具的综合性网站。",
-						"suffix": false,
-						"is_show": true
-						},
-						{
-						"title": "最强工具人在线工具箱",
-						"url": "https://www.toolfk.com/",
-						"icon": "https://www.toolfk.com/tools/images/icon.png",
-						"description": "包含多种实用工具和在线代码编译器。",
-						"suffix": false,
-						"is_show": true
-						},
-						{
-						"title": "孟坤工具箱网页版",
-						"url": "http://tool.mkblog.cn/",
-						"icon": "http://tool.mkblog.cn/favicon.ico",
-						"description": "提供多种工具，如图片压缩、代码格式化等。",
-						"suffix": false,
-						"is_show": true
-						},
-						{
-						"title": "在线工具资料箱",
-						"url": "https://www.toolzl.com/",
-						"icon": "https://www.toolzl.com/favicon.ico",
-						"description": "含多种实用的在线工具和教程资料。",
-						"suffix": false,
-						"is_show": true
-						},
-						{
-						"title": "精准云工具_在线工具大全",
-						"url": "https://jingzhunyun.com/",
-						"icon": "https://jingzhunyun.com/zb_users/upload/favicon.ico",
-						"description": "包含多种实用小工具的工具栏。",
-						"suffix": false,
-						"is_show": true
-						},
-						{
-						"title": "爱资料工具",
-						"url": "https://www.toolnb.com/",
-						"icon": "https://www.toolnb.com/favicon.ico",
-						"description": "提供各类实用的在线工具和软件下载",
-						"suffix": false,
-						"is_show": true
-						},
-						{
-						"title": "菜鸟工具",
-						"url": "https://c.runoob.com/",
-						"icon": "http://p1.music.126.net/FWMoeZhny3azCVN7kmQb1A==/109951168665495966.jpg?param=140y140",
-						"description": "一个适合初学者的在线编程工具和学习平台",
-						"suffix": false,
-						"is_show": true
-						},
-						{
-						"title": "77工具",
-						"url": "https://www.tool77.com/",
-						"icon": "https://www.tool77.com/media/image/favicon.ico",
-						"description": "提供各类实用的在线工具和软件资源下载",
-						"suffix": false,
-						"is_show": true
-						},
-						{
-							"title": "Greasy Fork --用户脚本大全",
-							"url": "https://greasyfork.org/zh-CN",
-							"icon": "https://greasyfork.org/vite/assets/blacklogo16-37ZGLlXh.png",
-							"description": "一个用户脚本分享平台，提供各类实用的浏览器扩展和脚本",
-							"suffix": false,
-							"is_show": true
-						},
-						{
-							"title": "Wormhole - 私密文件共享",
-							"url": "https://wormhole.app/",
-							"icon": "http://p1.music.126.net/4ciYzusSlhsJlbZFt6lBow==/109951168743764848.jpg?param=140y140",
-							"description": "可以实现一对一或多对多加密文件传输的在线工具",
-							"suffix": false,
-							"is_show": true
-						},
-						{
-							"title": "拷贝兔--文字分享工具",
-							"url": "https://cp.anyknew.com/",
-							"icon": "http://p1.music.126.net/s2AX478NlfihuO179PRY3w==/109951169148382683.jpg?param=140y140",
-							"description": "一个方便快捷的文字分享工具，支持多种平台。",
-							"suffix": false,
-							"is_show": true
-						},
-						{
-							"title": "轻松传 -传实时视频",
-							"url": "https://easychuan.cn/",
-							"icon": "http://p1.music.126.net/hxAortZZA9Inj1vM9BQsFQ==/109951168667094421.jpg?param=140y140",
-							"description": "一个支持实时视频传输的在线传输工具。",
-							"suffix": false,
-							"is_show": true
-						},
-						{
-							"title": "青蛙快传 - 超快云传输web工具",
-							"url": "https://cp.ciding.cc/",
-							"icon": "https://cp.ciding.cc/public/favicon.png",
-							"description": "一个超快速的云传输工具，支持多种文件类型。",
-							"suffix": false,
-							"is_show": true
-						},
-						{
-								"title": "快贴 - 真正的云剪贴板工具",
-								"url": "https://home.clipber.com/",
-								"icon": "https://kuaitie.cloud/assets/favicon.png",
-								"description": "在线剪贴板工具，可快速复制、转移和分享多种内容",
-								"suffix": false,
-								"is_show": true
-						},
-						{
-								"title": "在线工具导航",
-								"url": "https://xydh.fun/xixihaha",
-								"icon": "https://xydh.fun/favicon.ico",
-								"description": "提供各类实用的在线工具和资源导航",
-								"suffix": false,
-								"is_show": true
-						}
-				]
 			}
 		]
 	},
@@ -3774,6 +3762,158 @@
 						"url": "https://www.8kmm.com/ai",
 						"icon": "https://www.8kmm.com/img/logo_200.png",
 						"description": "《AI导航》发现最新的人工智能工具、服务、资源，来帮助你完成工作。在这里看见未来",
+						"suffix": false,
+						"is_show": true
+					},
+					{
+						"title": "AIGC知识库|首页",
+						"url": "https://svfdbeddg6y.feishu.cn/docx/UybjdSnKDood9ixMDAtcB02ynLg?from=from_copylink",
+						"icon": "https://www.ainav.cn/wp-content/uploads/2023/05/b8132-www.feishu.cn.png",
+						"description": "专业的AIGC知识库，小白自建。",
+						"suffix": false,
+						"is_show": true
+					},
+					{
+						"title": "ChatGPT知识库 | 一站式全方位、共享知识库",
+						"url": "https://flowus.cn/34cc0af2-8834-444c-bc2b-7d005676c524",
+						"icon": "https://img1.baidu.com/it/u=2599845237,1435313785&fm=253&app=138&size=w931&n=0&f=PNG&fmt=auto?sec=1694970000&t=be3f722d954919f46f9c724ff647b623",
+						"description": "专业的Chatgpt一站式全方位共享知识库，小白自建。",
+						"suffix": false,
+						"is_show": true
+					},
+					{
+						"title": "AI魔法师聚集地·ChatGPT·Midjourney",
+						"url": "https://www.yuque.com/popponyj/aigc",
+						"icon": "https://api.iowen.cn/favicon/yuque.com.png",
+						"description": "持续更新 AIGC 的相关资讯动态、应用工具、使用教程、变现案例！",
+						"suffix": false,
+						"is_show": true
+					},
+					{
+						"title": "AIGC首页 |飞书",
+						"url": "https://id8ex69uxy.feishu.cn/wiki/wikcniXUzbbkVvBq76Ahz56blag",
+						"icon": "https://www.ainav.cn/wp-content/uploads/2023/05/b8132-www.feishu.cn.png",
+						"description": "快速入手AIGC知识库，让知识更多人共享获得！",
+						"suffix": false,
+						"is_show": true
+					},
+					{
+						"title": "AIGC知识库丨一站式人工智能知识库",
+						"url": "https://www.yuque.com/gptcn/gpt/bq0ygp7rww10pmhu",
+						"icon": "https://api.iowen.cn/favicon/yuque.com.png",
+						"description": "AIGC快速入门上手！",
+						"suffix": false,
+						"is_show": true
+					},
+					{
+						"title": "Midjourney 知识库",
+						"url": "https://tob-design.yuque.com/kxcufk/mj/",
+						"icon": "https://api.iowen.cn/favicon/yuque.com.png",
+						"description": "一个设计团体发起的， AI 绘画爱好者社群，当然只是始于 AI绘画。 它慢慢的改变了 UI、 UX 设计的工作，从各个方面，各个维度……",
+						"suffix": false,
+						"is_show": true
+					},
+					{
+						"title": "Midjourney中文学习知识库",
+						"url": "https://learningprompt.wiki/docs/midjourney-learning-path",
+						"icon": "https://www.wanrenmi8.com/assets/images/mj5.png",
+						"description": "AI、思维导图、效率工具等合集系列介绍学习指南！",
+						"suffix": false,
+						"is_show": true
+					},
+					{
+						"title": "MJ关键词-命令-随时更新",
+						"url": "https://docs.qq.com/sheet/DRGtYVlFzZG15cGlm?tab=BB08J2",
+						"icon": "https://api.iowen.cn/favicon/docs.qq.com.png",
+						"description": "MJ相关提示词等，准确组词绘图！",
+						"suffix": false,
+						"is_show": true
+					},
+					{
+						"title": "可用 ChatGPT Web 合集",
+						"url": "https://www.yuque.com/popponyj/aigc/chatgpt-web",
+						"icon": "https://api.iowen.cn/favicon/yuque.com.png",
+						"description": "Chatgpt网址列表，介绍chatgpt使用等。",
+						"suffix": false,
+						"is_show": true
+					},
+					{
+						"title": "Stable Diffusion 知识库",
+						"url": "https://tob-design.yuque.com/kxcufk/sd/",
+						"icon": "https://api.iowen.cn/favicon/yuque.com.png",
+						"description": "这里是由 AICC 共建的StableDiffusion知识库；我们会在此记录学习SD的点点滴滴，将相关知识串连为一本书，供更多想要学习SD的朋友免费参考和学习。",
+						"suffix": false,
+						"is_show": true
+					},
+					{
+						"title": "sd相关资料网址",
+						"url": "https://docs.qq.com/doc/DWXlpWllRR2RhS2pm",
+						"icon": "https://api.iowen.cn/favicon/docs.qq.com.png",
+						"description": "sd相关模型资料等资源系列。",
+						"suffix": false,
+						"is_show": true
+					},
+					{
+						"title": "GPT/AIGC/LLM/NLP/ChatGPT学习知识库",
+						"url": "https://xinghuo.xfyun.cn/?ref=nav.liesys.com",
+						"icon": "https://www.ainav.cn/wp-content/uploads/2023/05/b8132-www.feishu.cn.png",
+						"description": "一个大模型基座学习知识库，全面详细讲述训练大模型知识等。",
+						"suffix": false,
+						"is_show": true
+					},
+					{
+						"title": "Chatgpt知识指南书",
+						"url": "https://chatgpt123.com/",
+						"icon": "https://www.ainav.cn/wp-content/uploads/2023/05/a8bd9-www.just2chat.cn.png",
+						"description": "Chatgpt导航站、资源站、中文社区等！",
+						"suffix": false,
+						"is_show": true
+					},
+					{
+						"title": "ChatGPT 引导语知识库",
+						"url": "https://prompts.fresns.cn/",
+						"icon": "https://cdn.fresns.cn/wiki/chatgpt/logo.png",
+						"description": "这里汇集了丰富的 ChatGPT 引导语、创意写作灵感与实用技巧。让我们帮助您激发无限创意，提升写作效率与质量。",
+						"suffix": false,
+						"is_show": true
+					},
+					{
+						"title": "DocsAI知识库·Notion",
+						"url": "https://diri1.notion.site/102f0a2a6dd649a0a69a1ebebed3a965",
+						"icon": "https://api.iowen.cn/favicon/notion.site.png",
+						"description": "一个AI知识库收纳之地",
+						"suffix": false,
+						"is_show": true
+					},
+					{
+						"title": "ChatGPT汇总列表",
+						"url": "https://ainav.org/",
+						"icon": "http://wz.aidaohang.com.cn/wp-content/uploads/2023/03/png-3.png",
+						"description": "最新最全的AI资讯汇总，ChatGPT 镜像 | ChatGPT 免注册公益网站汇总。",
+						"suffix": false,
+						"is_show": true
+					},
+					{
+						"title": "ChatGPT 指令大全",
+						"url": "https://www.explainthis.io/zh-hans/chatgpt",
+						"icon": "https://www.explainthis.io/img/logo.svg",
+						"description": "本站提供数百个精炼过的指令语句 (提示词)，让你充分发挥 ChatGPT 的强大功能。",
+						"suffix": false,
+						"is_show": true
+					},
+					{
+						"title": "一个工具AI/出海导航站的导航知识库",
+						"url": "https://www.gongju.one/",
+						"icon": "https://www.gongju.one/wp-content/uploads/2022/12/cropped-LOGO.png",
+						"description": "AI/出海工具站太多，只要记住，GongJu.One！",
+						"suffix": false,
+						"is_show": true
+					},
+					{
+						"title": "通往AGI之路",
+						"url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?chunked=false",
+						"icon": "https://api.iowen.cn/favicon/feishu.cn.png",
+						"description": "要实现通用人工智能(AGI)也许有很长的路要走，我们的目标是让每个人的学习过程少走弯路，让更多的人因AI而强大。",
 						"suffix": false,
 						"is_show": true
 					}
@@ -4006,11 +4146,131 @@
 							"description": "ChatGPT官方网站，众多API，GPT4等官方站点，需要魔法+账号才能使用。",
 							"suffix": false,
 							"is_show": true
+						},
+						{
+							"title": "Midjourany官方",
+							"url": "https://www.midjourney.com/",
+							"icon": "https://www.ainav.cn/wp-content/uploads/2023/03/2b878-www.midjourney.com.png",
+							"description": "一个由Midjourney研究实验室开发的人工智能程序，可根据文本生成图像",
+							"suffix": false,
+							"is_show": true
+						},
+						{
+							"title": "Stable Diffusion教程",
+							"url": "https://www.stablediffusion-cn.com/",
+							"icon": "https://www.ai-collection.cn/wp-content/uploads/2022/11/b2c0b-printidea.art.png",
+							"description": "SD模型下载|安装使用|技术使用文档中文官网",
+							"suffix": false,
+							"is_show": true
+						},
+						{
+							"title": "Scribble Diffusion",
+							"url": "https://scribblediffusion.com/",
+							"icon": "https://api.iowen.cn/favicon/toonme.com.png",
+							"description": "Turn your sketch into a refined image using AI",
+							"suffix": false,
+							"is_show": true
+						},
+						{
+							"title": "Stable Diffusion中文网",
+							"url": "https://www.stablediffusion.cn/",
+							"icon": "https://sd2.kouer.com/assets/addons/ask/img/logo.svg",
+							"description": "一个可以回答你关于SD模型绘画的综合性网站",
+							"suffix": false,
+							"is_show": true
+						},
+						{
+							"title": "XTimesAI绘画平台",
+							"url": "https://www.xtimesai.com/",
+							"icon": "https://api.liesys.com/favicon/www.xtimesai.com.png",
+							"description": "XTimesAI_AI模型交流学习平台，绘画平台！",
+							"suffix": false,
+							"is_show": true
+						},
+						{
+							"title": "知作-Beta绘画创作",
+							"url": "https://zizo.pro/index",
+							"icon": "https://api.iowen.cn/favicon/zizo.pro.png",
+							"description": "人工智能强力驱动，灵感创意、云盘、团队协作、批注审阅、交付展示，流程全面数字化，全新全能，随时随地。",
+							"suffix": false,
+							"is_show": true
+						},
+						{
+							"title": "模袋云AI-绘画",
+							"url": "https://www.modaiyun.com/mdy/ai#/inspiration-creation",
+							"icon": "https://api.iowen.cn/favicon/modaiyun.com.png",
+							"description": "免费的SD绘画在线平台，灵感社区等。",
+							"suffix": false,
+							"is_show": true
+						},
+						{
+							"title": "AIGC设计平台",
+							"url": "https://aigcfull.com/",
+							"icon": "https://api.liesys.com/favicon/aigcfull.com.png",
+							"description": "AIGC平台采用最新的AI算法和深度学习技术，为数字营销、创意设计等领域提供强有力的支持。",
+							"suffix": false,
+							"is_show": true
+						},
+						{
+							"title": "通义万相",
+							"url": "https://wanxiang.aliyun.com/",
+							"icon": "https://www.ainav.cn/wp-content/uploads/2023/09/290e4-wanx.aliyun.com.png",
+							"description": "阿里云通义大模型之一，专为AI绘画类",
+							"suffix": false,
+							"is_show": true
+						},
+						{
+							"title": "哩布哩布AI",
+							"url": "https://www.liblibai.com/",
+							"icon": "https://www.ainav.cn/wp-content/uploads/2023/07/e39c4-www.liblibai.com.png",
+							"description": "中国领先原创AI模型分享社区",
+							"suffix": false,
+							"is_show": true
+						},
+						{
+							"title": "意间AI",
+							"url": "http://www.yjai.art/",
+							"icon": "https://api.liesys.com/favicon/www.yjai.art.png",
+							"description": "意间AI是一个基于人工智能的绘画工具App，帮助用户用最新的AI技术创造令人惊艳的绘画作品。",
+							"suffix": false,
+							"is_show": true
+						},
+						{
+							"title": "数画AI",
+							"url": "https://shuxuehua.com/",
+							"icon": "https://api.liesys.com/favicon/shuxuehua.com.png",
+							"description": "数画是一款国产版ai绘画生成器，优秀的AI绘画软件，是国内罕见的AI作画生成网站！",
+							"suffix": false,
+							"is_show": true
+						},
+						{
+							"title": "创客贴AI画匠",
+							"url": "https://aiart.chuangkit.com/",
+							"icon": "https://api.liesys.com/favicon/aiart.chuangkit.com.png",
+							"description": "创客贴AI画匠是创客贴AI艺术创作平台，汇聚了多款AI创作辅助工具，迎接人机共创内容的新时代！",
+							"suffix": false,
+							"is_show": true
+						},
+						{
+							"title": "海艺AI",
+							"url": "http://seatart.ai/",
+							"icon": "https://www.ainav.cn/wp-content/uploads/2023/06/8BCB563DCBE7A49116BB5FD678AD7A0A.jpg",
+							"description": "免费A绘画工具，，轻松生成绘画作品，需要魔法",
+							"suffix": false,
+							"is_show": true
+						},
+						{
+							"title": "Free AI Image",
+							"url": "https://images.ylokh.xyz/",
+							"icon": "https://www.ainav.cn/wp-content/uploads/2023/07/50fed-www.aixx.ai.png",
+							"description": "Generate Images using AI",
+							"suffix": false,
+							"is_show": true
 						}
 				]
 			},
 			{
-				"tab_name": "AI写作",
+				"tab_name": "AI创作工具",
 				"upper_right_corner": {},
 				"details": [
 					{
@@ -4192,7 +4452,7 @@
 					{
 						"title": "AI PaperPass论文",
 						"url": "https://www.aipaperpass.com/?pic=mnpN",
-						"icon": "https://api.iowen.cn/favicon/aipaperpass.com.png",
+						"icon": "http://p1.music.126.net/uTmbNq7aJm7JTEAsUNCeDA==/109951166169282861.jpg?param=140y140",
 						"description": "AI论文写作平台10分钟生成3万字，免费千字大纲，可选开题报告。",
 						"suffix": false,
 						"is_show": true
@@ -4204,566 +4464,276 @@
 						"description": "AI赋能学术，深入论文科研场景，做真正实用、好用的科研辅助工具。",
 						"suffix": false,
 						"is_show": true
-					}
-				]
-			},
-				{
-						"tab_name": "AI绘画",
-						"upper_right_corner": {},
-						"details": [
-							{
-								"title": "Midjourany官方",
-								"url": "https://www.midjourney.com/",
-								"icon": "https://www.ainav.cn/wp-content/uploads/2023/03/2b878-www.midjourney.com.png",
-								"description": "一个由Midjourney研究实验室开发的人工智能程序，可根据文本生成图像",
-								"suffix": false,
-								"is_show": true
-							},
-							{
-								"title": "Stable Diffusion教程",
-								"url": "https://www.stablediffusion-cn.com/",
-								"icon": "https://www.ai-collection.cn/wp-content/uploads/2022/11/b2c0b-printidea.art.png",
-								"description": "SD模型下载|安装使用|技术使用文档中文官网",
-								"suffix": false,
-								"is_show": true
-							},
-							{
-								"title": "Scribble Diffusion",
-								"url": "https://scribblediffusion.com/",
-								"icon": "https://api.iowen.cn/favicon/toonme.com.png",
-								"description": "Turn your sketch into a refined image using AI",
-								"suffix": false,
-								"is_show": true
-							},
-							{
-								"title": "Stable Diffusion中文网",
-								"url": "https://www.stablediffusion.cn/",
-								"icon": "https://sd2.kouer.com/assets/addons/ask/img/logo.svg",
-								"description": "一个可以回答你关于SD模型绘画的综合性网站",
-								"suffix": false,
-								"is_show": true
-							},
-							{
-								"title": "XTimesAI绘画平台",
-								"url": "https://www.xtimesai.com/",
-								"icon": "https://api.liesys.com/favicon/www.xtimesai.com.png",
-								"description": "XTimesAI_AI模型交流学习平台，绘画平台！",
-								"suffix": false,
-								"is_show": true
-							},
-							{
-								"title": "知作-Beta绘画创作",
-								"url": "https://zizo.pro/index",
-								"icon": "https://api.iowen.cn/favicon/zizo.pro.png",
-								"description": "人工智能强力驱动，灵感创意、云盘、团队协作、批注审阅、交付展示，流程全面数字化，全新全能，随时随地。",
-								"suffix": false,
-								"is_show": true
-							},
-							{
-								"title": "模袋云AI-绘画",
-								"url": "https://www.modaiyun.com/mdy/ai#/inspiration-creation",
-								"icon": "https://api.iowen.cn/favicon/modaiyun.com.png",
-								"description": "免费的SD绘画在线平台，灵感社区等。",
-								"suffix": false,
-								"is_show": true
-							},
-							{
-								"title": "AIGC设计平台",
-								"url": "https://aigcfull.com/",
-								"icon": "https://api.liesys.com/favicon/aigcfull.com.png",
-								"description": "AIGC平台采用最新的AI算法和深度学习技术，为数字营销、创意设计等领域提供强有力的支持。",
-								"suffix": false,
-								"is_show": true
-							},
-							{
-								"title": "通义万相",
-								"url": "https://wanxiang.aliyun.com/",
-								"icon": "https://www.ainav.cn/wp-content/uploads/2023/09/290e4-wanx.aliyun.com.png",
-								"description": "阿里云通义大模型之一，专为AI绘画类",
-								"suffix": false,
-								"is_show": true
-							},
-							{
-								"title": "哩布哩布AI",
-								"url": "https://www.liblibai.com/",
-								"icon": "https://www.ainav.cn/wp-content/uploads/2023/07/e39c4-www.liblibai.com.png",
-								"description": "中国领先原创AI模型分享社区",
-								"suffix": false,
-								"is_show": true
-							},
-							{
-								"title": "意间AI",
-								"url": "http://www.yjai.art/",
-								"icon": "https://api.liesys.com/favicon/www.yjai.art.png",
-								"description": "意间AI是一个基于人工智能的绘画工具App，帮助用户用最新的AI技术创造令人惊艳的绘画作品。",
-								"suffix": false,
-								"is_show": true
-							},
-							{
-								"title": "数画AI",
-								"url": "https://shuxuehua.com/",
-								"icon": "https://api.liesys.com/favicon/shuxuehua.com.png",
-								"description": "数画是一款国产版ai绘画生成器，优秀的AI绘画软件，是国内罕见的AI作画生成网站！",
-								"suffix": false,
-								"is_show": true
-							},
-							{
-								"title": "创客贴AI画匠",
-								"url": "https://aiart.chuangkit.com/",
-								"icon": "https://api.liesys.com/favicon/aiart.chuangkit.com.png",
-								"description": "创客贴AI画匠是创客贴AI艺术创作平台，汇聚了多款AI创作辅助工具，迎接人机共创内容的新时代！",
-								"suffix": false,
-								"is_show": true
-							},
-							{
-								"title": "海艺AI",
-								"url": "http://seatart.ai/",
-								"icon": "https://www.ainav.cn/wp-content/uploads/2023/06/8BCB563DCBE7A49116BB5FD678AD7A0A.jpg",
-								"description": "免费A绘画工具，，轻松生成绘画作品，需要魔法",
-								"suffix": false,
-								"is_show": true
-							},
-							{
-								"title": "Free AI Image",
-								"url": "https://images.ylokh.xyz/",
-								"icon": "https://www.ainav.cn/wp-content/uploads/2023/07/50fed-www.aixx.ai.png",
-								"description": "Generate Images using AI",
-								"suffix": false,
-								"is_show": true
-							}
-						]
 					},
 					{
-						"tab_name": "AI工具",
-						"upper_right_corner": {},
-						"details": [
-							{
-								"title": "MJ提示词工具",
-								"url": "https://aijiaolian.chat/midjourney",
-								"icon": "https://ai.tboxn.com/wp-content/uploads/2023/06/200.png",
-								"description": "在线MidJourney提示词工具",
-								"suffix": false,
-								"is_show": true
-							},
-							{
-								"title": "AI提示词",
-								"url": "https://www.gpttsc.top/",
-								"icon": "https://ai.tboxn.com/wp-content/uploads/2023/05/promp.png",
-								"description": "ChatGPT提示词prompt大全",
-								"suffix": false,
-								"is_show": true
-							},
-							{
-								"title": "FlowGPT",
-								"url": "https://flowgpt.com/",
-								"icon": "https://api.iowen.cn/favicon/flowgpt.com.png",
-								"description": "ChagGPT指令大全，需要魔法访问！",
-								"suffix": false,
-								"is_show": true
-							},
-							{
-								"title": "Stable Diffusion Prompt Book",
-								"url": "https://openart.ai/promptbook",
-								"icon": "https://www.ainavpro.com/wp-content/uploads/2023/04/591680753909_.pic_.jpg",
-								"description": "Open AI官方提示词promptbook文档，需要魔法访问！",
-								"suffix": false,
-								"is_show": true
-							},
-							{
-								"title": "Civitai提示词",
-								"url": "https://civitai.com/",
-								"icon": "https://api.liesys.com/favicon/civitai.com.png",
-								"description": "Civitai是一个稳定扩散AI艺术模型的平台，收集了来自250多个创作者的1，700多个模型。",
-								"suffix": false,
-								"is_show": true
-							},
-							{
-								"title": "AI魔咒百科词典",
-								"url": "https://aitag.top/",
-								"icon": "https://api.iowen.cn/favicon/aitag.top.png",
-								"description": "魔咒百科词典——魔法导论必备工具, 简单易用的AI绘画tag生成器！",
-								"suffix": false,
-								"is_show": true
-							},
-							{
-								"title": "Replika",
-								"url": "https://replika.com/",
-								"icon": "https://ai.tboxn.com/wp-content/uploads/2023/02/434x0w.png",
-								"description": "AI聊天机器人伴侣",
-								"suffix": false,
-								"is_show": true
-							},
-							{
-								"title": "Auto-GPT",
-								"url": "https://github.com/torantulino/auto-gpt",
-								"icon": "https://ai.tboxn.com/wp-content/uploads/2023/04/auto_gpt_logo.png",
-								"description": "可以自我改进的人工智能，AI顶级boss，需要加速器上Github！",
-								"suffix": false,
-								"is_show": true
-							},
-							{
-								"title": "DreamAvatar",
-								"url": "https://www.dreamavatar.com/",
-								"icon": "https://www.dreamavatar.com/_next/static/media/logo.cc841921.svg",
-								"description": "AI生成工具！",
-								"suffix": false,
-								"is_show": true
-							},
-							{
-								"title": "闪剪",
-								"url": "https://shanjian.tv/",
-								"icon": "https://bhb-frontend.bhbcdn.com/static/files/47b69f2a6c308a65f2a0fc4bcd7151a4.png",
-								"description": "AI智能数字人智能剪辑，让数字人直播遍地开花！",
-								"suffix": false,
-								"is_show": true
-							},
-							{
-								"title": "Studio D-ID",
-								"url": "https://www.d-id.com",
-								"icon": "https://api.iowen.cn/favicon/www.d-id.com.png",
-								"description": "AI真人口播视频生成工具。",
-								"suffix": false,
-								"is_show": true
-							},
-							{
-								"title": "AI图片无损放大",
-								"url": "https://photoaid.com/en/tools/ai-image-enlarger",
-								"icon": "https://api.iowen.cn/favicon/photoaid.com.png",
-								"description": "AI图片照片无损放大超高清！关键还是免费没有限制的。",
-								"suffix": false,
-								"is_show": true
-							},
-							{
-								"title": "AI生成PPT【美图秀秀】",
-								"url": "https://www.x-design.com/ppt/",
-								"icon": "https://api.iowen.cn/favicon/x-design.com.png",
-								"description": "美图秀秀旗下智能设计与协作平台，超多免费高清海报模板素材，一键生成创意海报，可用于宣传、招聘、通知、广告等诸多场景。",
-								"suffix": false,
-								"is_show": true
-							},
-							{
-								"title": "AI抠图 bgSub版",
-								"url": "https://bgsub.cn/webapp/",
-								"icon": "https://api.iowen.cn/favicon/bgsub.cn.png",
-								"description": "BgSub版AI抠图，一键消除或者替换图像背景，无需上传图像。",
-								"suffix": false,
-								"is_show": true
-							},
-							{
-								"title": "AI抠图 在线版",
-								"url": "https://www.remove.bg/zh",
-								"icon": "https://api.iowen.cn/favicon/remove.bg.png",
-								"description": "在线快速AI自动抠图——remove.bg——Remove Image Background——无需登录与注册。",
-								"suffix": false,
-								"is_show": true
-							},
-							{
-								"title": "AI生成海报",
-								"url": "https://designer.microsoft.com/invite",
-								"icon": "https://api.iowen.cn/favicon/designer.microsoft.com.png",
-								"description": "Microsoft Designer，一个微软自家的AI海报设计站，可以自己更改生成的设计方案，并可能会生成视频。",
-								"suffix": false,
-								"is_show": true
-							},
-							{
-								"title": "360鸿图",
-								"url": "https://api.8kmm.com/get.php?url=tu.360.cn",
-								"icon": "https://api.8kmm.com/get.php?url=tu.360.cn",
-								"description": "360旗下AI绘图工具。可以输入中文关键词来生成图片。",
-								"suffix": false,
-								"is_show": true
-							},
-							{
-								"title": "Vispunk图像处理",
-								"url": "https://vispunk.com/",
-								"icon": "https://i.8kmm.com/2023/09/vispunk-removebg-preview.webp",
-								"description": "一款独特的 AI 图像生成工具，通过拖放操作，让您轻松创建具有完美构图的图像。",
-								"suffix": false,
-								"is_show": true
-							},
-							{
-								"title": "Image+",
-								"url": "https://image.plus/",
-								"icon": "https://i.8kmm.com/2023/08/image.plus_.webp",
-								"description": "一款免费无限量的人工智能图片生成器。",
-								"suffix": false,
-								"is_show": true
-							},
-							{
-								"title": "Freehand意绘图片",
-								"url": "https://freehands.cn/",
-								"icon": "https://api.8kmm.com/get.php?url=freehands.cn",
-								"description": "一款免费的AI绘图工具，支持中文，支持选择绘画的风格和尺寸大小，使用无需注册登录。",
-								"suffix": false,
-								"is_show": true
-							},
-							{
-								"title": "PixAI图片生成",
-								"url": "https://pixai.art/",
-								"icon": "https://i.8kmm.com/2023/06/pixai.png",
-								"description": "",
-								"suffix": false,
-								"is_show": true
-							},
-							{
-								"title": "AI思维导图【妙办画板】",
-								"url": "https://imiaoban.com/ai/mind",
-								"icon": "https://api.iowen.cn/favicon/imiaoban.com.png",
-								"description": "妙办画板，专门为您研发的画图软件工具，实现专业绘图软件工才能绘制的示意图、思维导图、流程图、组织架构图、脑图、关系图、结构图等。",
-								"suffix": false,
-								"is_show": true
-							},
-							{
-								"title": "AI生成PPT【灵感版】",
-								"url": "https://ai.linganoffice.com/",
-								"icon": "https://p3dk.nikong.cn/static/img/idea.31246197.png",
-								"description": "在线生成PPT，整体效果还不错，虽然比较简陋，但至少大纲帮你列好了，下载PPT的时候有点问题，只支持PDF格式",
-								"suffix": false,
-								"is_show": true
-							},
-							{
-								"title": "AI生成海报",
-								"url": "https://designer.microsoft.com/invite",
-								"icon": "https://api.iowen.cn/favicon/designer.microsoft.com.png",
-								"description": "一个微软自家的AI海报设计站，可以自己更改生成的设计方案，并可能会生成视频",
-								"suffix": false,
-								"is_show": true
-							},
-							{
-								"title": "AI产品海报",
-								"url": "https://flair.ai/",
-								"icon": "https://api.iowen.cn/favicon/flair.ai.png",
-								"description": "优秀的产品海报AI辅助设计工具",
-								"suffix": false,
-								"is_show": true
-							},
-							{
-								"title": "AI办公【WPS AI】【内测】",
-								"url": "https://ai.wps.cn/",
-								"icon": "https://api.iowen.cn/favicon/ai.wps.cn.png",
-								"description": "WPS AI是由金山办公发布的具备大语言模型能力的人工智能应用，为用户提供智能文档写作、阅读理解和问答、智能人机交互的能力",
-								"suffix": false,
-								"is_show": true
-							},
-							{
-								"title": "AI周报生成器",
-								"url": "https://weeklyreport.avemaria.fun/zh",
-								"icon": "https://api.iowen.cn/favicon/weeklyreport.avemaria.fun.png",
-								"description": "简单描述工作内容，AI帮你生成完整周报。生成有点慢，还请多试几次，耐心等待",
-								"suffix": false,
-								"is_show": true
-							},
-							{
-								"title": "AI做简历",
-								"url": "https://www.chzhkeji.com/app/word_list.html",
-								"icon": "https://api.iowen.cn/favicon/www.chzhkeji.com.png",
-								"description": "海量简历模板免费选择——在线AI简历一键生成",
-								"suffix": false,
-								"is_show": true
-							},
-							{
-								"title": "AI生成思维导图",
-								"url": "https://duomosmart.com/",
-								"icon": "https://api.iowen.cn/favicon/duomosmart.com.png",
-								"description": "【多墨智能】输入关键词一键生成思维导图",
-								"suffix": false,
-								"is_show": true
-							},
-							{
-								"title": "AI求职",
-								"url": "https://www.explainthis.io/zh-hans/tools",
-								"icon": "https://api.iowen.cn/favicon/www.explainthis.io.png",
-								"description": "【AI帮助求职】最全面的前端和后端工程面试准备材料和职业建议。免费的！",
-								"suffix": false,
-								"is_show": true
-							},
-							{
-								"title": "AI翻译",
-								"url": "https://www.deepl.com/translator",
-								"icon": "https://api.iowen.cn/favicon/www.deepl.com.png",
-								"description": "DeepL——声称全世界最精准的机器翻译——DeepL比同类竞争对手准确三倍以上！",
-								"suffix": false,
-								"is_show": true
-							},
-							{
-								"title": "AI营销",
-								"url": "https://copyai.cn/",
-								"icon": "https://api.iowen.cn/favicon/copyai.cn.png",
-								"description": "copydoneAI智能生成海量营销文案，可适应国内及海外各类营销平台风格，覆盖丰富的产品类型，一键可得海量文案及创作灵感！",
-								"suffix": false,
-								"is_show": true
-							},
-							{
-								"title": "AI去水印",
-								"url": "https://quququ.cn/",
-								"icon": "https://api.iowen.cn/favicon/quququ.cn.png",
-								"description": "在线免费去水印",
-								"suffix": false,
-								"is_show": true
-							}
-						]
+						"title": "MJ提示词工具",
+						"url": "https://aijiaolian.chat/midjourney",
+						"icon": "https://ai.tboxn.com/wp-content/uploads/2023/06/200.png",
+						"description": "在线MidJourney提示词工具",
+						"suffix": false,
+						"is_show": true
 					},
 					{
-						"tab_name": "AI优质内容",
-						"upper_right_corner": {},
-						"details": [
-							{
-								"title": "AIGC知识库|首页",
-								"url": "https://svfdbeddg6y.feishu.cn/docx/UybjdSnKDood9ixMDAtcB02ynLg?from=from_copylink",
-								"icon": "https://www.ainav.cn/wp-content/uploads/2023/05/b8132-www.feishu.cn.png",
-								"description": "专业的AIGC知识库，小白自建。",
-								"suffix": false,
-								"is_show": true
-							},
-							{
-								"title": "ChatGPT知识库 | 一站式全方位、共享知识库",
-								"url": "https://flowus.cn/34cc0af2-8834-444c-bc2b-7d005676c524",
-								"icon": "https://img1.baidu.com/it/u=2599845237,1435313785&fm=253&app=138&size=w931&n=0&f=PNG&fmt=auto?sec=1694970000&t=be3f722d954919f46f9c724ff647b623",
-								"description": "专业的Chatgpt一站式全方位共享知识库，小白自建。",
-								"suffix": false,
-								"is_show": true
-							},
-							{
-								"title": "AI魔法师聚集地·ChatGPT·Midjourney",
-								"url": "https://www.yuque.com/popponyj/aigc",
-								"icon": "https://api.iowen.cn/favicon/yuque.com.png",
-								"description": "持续更新 AIGC 的相关资讯动态、应用工具、使用教程、变现案例！",
-								"suffix": false,
-								"is_show": true
-							},
-							{
-								"title": "AIGC首页 |飞书",
-								"url": "https://id8ex69uxy.feishu.cn/wiki/wikcniXUzbbkVvBq76Ahz56blag",
-								"icon": "https://www.ainav.cn/wp-content/uploads/2023/05/b8132-www.feishu.cn.png",
-								"description": "快速入手AIGC知识库，让知识更多人共享获得！",
-								"suffix": false,
-								"is_show": true
-							},
-							{
-								"title": "AIGC知识库丨一站式人工智能知识库",
-								"url": "https://www.yuque.com/gptcn/gpt/bq0ygp7rww10pmhu",
-								"icon": "https://api.iowen.cn/favicon/yuque.com.png",
-								"description": "AIGC快速入门上手！",
-								"suffix": false,
-								"is_show": true
-							},
-							{
-								"title": "Midjourney 知识库",
-								"url": "https://tob-design.yuque.com/kxcufk/mj/",
-								"icon": "https://api.iowen.cn/favicon/yuque.com.png",
-								"description": "一个设计团体发起的， AI 绘画爱好者社群，当然只是始于 AI绘画。 它慢慢的改变了 UI、 UX 设计的工作，从各个方面，各个维度……",
-								"suffix": false,
-								"is_show": true
-							},
-							{
-								"title": "Midjourney中文学习知识库",
-								"url": "https://learningprompt.wiki/docs/midjourney-learning-path",
-								"icon": "https://www.wanrenmi8.com/assets/images/mj5.png",
-								"description": "AI、思维导图、效率工具等合集系列介绍学习指南！",
-								"suffix": false,
-								"is_show": true
-							},
-							{
-								"title": "MJ关键词-命令-随时更新",
-								"url": "https://docs.qq.com/sheet/DRGtYVlFzZG15cGlm?tab=BB08J2",
-								"icon": "https://api.iowen.cn/favicon/docs.qq.com.png",
-								"description": "MJ相关提示词等，准确组词绘图！",
-								"suffix": false,
-								"is_show": true
-							},
-							{
-								"title": "可用 ChatGPT Web 合集",
-								"url": "https://www.yuque.com/popponyj/aigc/chatgpt-web",
-								"icon": "https://api.iowen.cn/favicon/yuque.com.png",
-								"description": "Chatgpt网址列表，介绍chatgpt使用等。",
-								"suffix": false,
-								"is_show": true
-							},
-							{
-								"title": "Stable Diffusion 知识库",
-								"url": "https://tob-design.yuque.com/kxcufk/sd/",
-								"icon": "https://api.iowen.cn/favicon/yuque.com.png",
-								"description": "这里是由 AICC 共建的StableDiffusion知识库；我们会在此记录学习SD的点点滴滴，将相关知识串连为一本书，供更多想要学习SD的朋友免费参考和学习。",
-								"suffix": false,
-								"is_show": true
-							},
-							{
-								"title": "sd相关资料网址",
-								"url": "https://docs.qq.com/doc/DWXlpWllRR2RhS2pm",
-								"icon": "https://api.iowen.cn/favicon/docs.qq.com.png",
-								"description": "sd相关模型资料等资源系列。",
-								"suffix": false,
-								"is_show": true
-							},
-							{
-								"title": "GPT/AIGC/LLM/NLP/ChatGPT学习知识库",
-								"url": "https://xinghuo.xfyun.cn/?ref=nav.liesys.com",
-								"icon": "https://www.ainav.cn/wp-content/uploads/2023/05/b8132-www.feishu.cn.png",
-								"description": "一个大模型基座学习知识库，全面详细讲述训练大模型知识等。",
-								"suffix": false,
-								"is_show": true
-							},
-							{
-								"title": "Chatgpt知识指南书",
-								"url": "https://chatgpt123.com/",
-								"icon": "https://www.ainav.cn/wp-content/uploads/2023/05/a8bd9-www.just2chat.cn.png",
-								"description": "Chatgpt导航站、资源站、中文社区等！",
-								"suffix": false,
-								"is_show": true
-							},
-							{
-								"title": "ChatGPT 引导语知识库",
-								"url": "https://prompts.fresns.cn/",
-								"icon": "https://cdn.fresns.cn/wiki/chatgpt/logo.png",
-								"description": "这里汇集了丰富的 ChatGPT 引导语、创意写作灵感与实用技巧。让我们帮助您激发无限创意，提升写作效率与质量。",
-								"suffix": false,
-								"is_show": true
-							},
-							{
-								"title": "DocsAI知识库·Notion",
-								"url": "https://diri1.notion.site/102f0a2a6dd649a0a69a1ebebed3a965",
-								"icon": "https://api.iowen.cn/favicon/notion.site.png",
-								"description": "一个AI知识库收纳之地",
-								"suffix": false,
-								"is_show": true
-							},
-							{
-								"title": "ChatGPT汇总列表",
-								"url": "https://ainav.org/",
-								"icon": "http://wz.aidaohang.com.cn/wp-content/uploads/2023/03/png-3.png",
-								"description": "最新最全的AI资讯汇总，ChatGPT 镜像 | ChatGPT 免注册公益网站汇总。",
-								"suffix": false,
-								"is_show": true
-							},
-							{
-								"title": "ChatGPT 指令大全",
-								"url": "https://www.explainthis.io/zh-hans/chatgpt",
-								"icon": "https://www.explainthis.io/img/logo.svg",
-								"description": "本站提供数百个精炼过的指令语句 (提示词)，让你充分发挥 ChatGPT 的强大功能。",
-								"suffix": false,
-								"is_show": true
-							},
-							{
-								"title": "一个工具AI/出海导航站的导航知识库",
-								"url": "https://www.gongju.one/",
-								"icon": "https://www.gongju.one/wp-content/uploads/2022/12/cropped-LOGO.png",
-								"description": "AI/出海工具站太多，只要记住，GongJu.One！",
-								"suffix": false,
-								"is_show": true
-							},
-							{
-								"title": "通往AGI之路",
-								"url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?chunked=false",
-								"icon": "https://api.iowen.cn/favicon/feishu.cn.png",
-								"description": "要实现通用人工智能(AGI)也许有很长的路要走，我们的目标是让每个人的学习过程少走弯路，让更多的人因AI而强大。",
-								"suffix": false,
-								"is_show": true
-							}
-						]
+						"title": "AI提示词",
+						"url": "https://www.gpttsc.top/",
+						"icon": "https://ai.tboxn.com/wp-content/uploads/2023/05/promp.png",
+						"description": "ChatGPT提示词prompt大全",
+						"suffix": false,
+						"is_show": true
+					},
+					{
+						"title": "FlowGPT",
+						"url": "https://flowgpt.com/",
+						"icon": "https://api.iowen.cn/favicon/flowgpt.com.png",
+						"description": "ChagGPT指令大全，需要魔法访问！",
+						"suffix": false,
+						"is_show": true
+					},
+					{
+						"title": "Stable Diffusion Prompt Book",
+						"url": "https://openart.ai/promptbook",
+						"icon": "https://www.ainavpro.com/wp-content/uploads/2023/04/591680753909_.pic_.jpg",
+						"description": "Open AI官方提示词promptbook文档，需要魔法访问！",
+						"suffix": false,
+						"is_show": true
+					},
+					{
+						"title": "Civitai提示词",
+						"url": "https://civitai.com/",
+						"icon": "https://api.liesys.com/favicon/civitai.com.png",
+						"description": "Civitai是一个稳定扩散AI艺术模型的平台，收集了来自250多个创作者的1，700多个模型。",
+						"suffix": false,
+						"is_show": true
+					},
+					{
+						"title": "AI魔咒百科词典",
+						"url": "https://aitag.top/",
+						"icon": "https://api.iowen.cn/favicon/aitag.top.png",
+						"description": "魔咒百科词典——魔法导论必备工具, 简单易用的AI绘画tag生成器！",
+						"suffix": false,
+						"is_show": true
+					},
+					{
+						"title": "Replika",
+						"url": "https://replika.com/",
+						"icon": "https://ai.tboxn.com/wp-content/uploads/2023/02/434x0w.png",
+						"description": "AI聊天机器人伴侣",
+						"suffix": false,
+						"is_show": true
+					},
+					{
+						"title": "Auto-GPT",
+						"url": "https://github.com/torantulino/auto-gpt",
+						"icon": "https://ai.tboxn.com/wp-content/uploads/2023/04/auto_gpt_logo.png",
+						"description": "可以自我改进的人工智能，AI顶级boss，需要加速器上Github！",
+						"suffix": false,
+						"is_show": true
+					},
+					{
+						"title": "DreamAvatar",
+						"url": "https://www.dreamavatar.com/",
+						"icon": "https://www.dreamavatar.com/_next/static/media/logo.cc841921.svg",
+						"description": "AI生成工具！",
+						"suffix": false,
+						"is_show": true
+					},
+					{
+						"title": "闪剪",
+						"url": "https://shanjian.tv/",
+						"icon": "https://bhb-frontend.bhbcdn.com/static/files/47b69f2a6c308a65f2a0fc4bcd7151a4.png",
+						"description": "AI智能数字人智能剪辑，让数字人直播遍地开花！",
+						"suffix": false,
+						"is_show": true
+					},
+					{
+						"title": "Studio D-ID",
+						"url": "https://www.d-id.com",
+						"icon": "https://api.iowen.cn/favicon/www.d-id.com.png",
+						"description": "AI真人口播视频生成工具。",
+						"suffix": false,
+						"is_show": true
+					},
+					{
+						"title": "AI图片无损放大",
+						"url": "https://photoaid.com/en/tools/ai-image-enlarger",
+						"icon": "https://api.iowen.cn/favicon/photoaid.com.png",
+						"description": "AI图片照片无损放大超高清！关键还是免费没有限制的。",
+						"suffix": false,
+						"is_show": true
+					},
+					{
+						"title": "AI生成PPT【美图秀秀】",
+						"url": "https://www.x-design.com/ppt/",
+						"icon": "https://api.iowen.cn/favicon/x-design.com.png",
+						"description": "美图秀秀旗下智能设计与协作平台，超多免费高清海报模板素材，一键生成创意海报，可用于宣传、招聘、通知、广告等诸多场景。",
+						"suffix": false,
+						"is_show": true
+					},
+					{
+						"title": "AI抠图 bgSub版",
+						"url": "https://bgsub.cn/webapp/",
+						"icon": "https://api.iowen.cn/favicon/bgsub.cn.png",
+						"description": "BgSub版AI抠图，一键消除或者替换图像背景，无需上传图像。",
+						"suffix": false,
+						"is_show": true
+					},
+					{
+						"title": "AI抠图 在线版",
+						"url": "https://www.remove.bg/zh",
+						"icon": "https://api.iowen.cn/favicon/remove.bg.png",
+						"description": "在线快速AI自动抠图——remove.bg——Remove Image Background——无需登录与注册。",
+						"suffix": false,
+						"is_show": true
+					},
+					{
+						"title": "AI生成海报",
+						"url": "https://designer.microsoft.com/invite",
+						"icon": "https://api.iowen.cn/favicon/designer.microsoft.com.png",
+						"description": "Microsoft Designer，一个微软自家的AI海报设计站，可以自己更改生成的设计方案，并可能会生成视频。",
+						"suffix": false,
+						"is_show": true
+					},
+					{
+						"title": "360鸿图",
+						"url": "https://api.8kmm.com/get.php?url=tu.360.cn",
+						"icon": "https://api.8kmm.com/get.php?url=tu.360.cn",
+						"description": "360旗下AI绘图工具。可以输入中文关键词来生成图片。",
+						"suffix": false,
+						"is_show": true
+					},
+					{
+						"title": "Vispunk图像处理",
+						"url": "https://vispunk.com/",
+						"icon": "https://i.8kmm.com/2023/09/vispunk-removebg-preview.webp",
+						"description": "一款独特的 AI 图像生成工具，通过拖放操作，让您轻松创建具有完美构图的图像。",
+						"suffix": false,
+						"is_show": true
+					},
+					{
+						"title": "Image+",
+						"url": "https://image.plus/",
+						"icon": "https://i.8kmm.com/2023/08/image.plus_.webp",
+						"description": "一款免费无限量的人工智能图片生成器。",
+						"suffix": false,
+						"is_show": true
+					},
+					{
+						"title": "Freehand意绘图片",
+						"url": "https://freehands.cn/",
+						"icon": "https://api.8kmm.com/get.php?url=freehands.cn",
+						"description": "一款免费的AI绘图工具，支持中文，支持选择绘画的风格和尺寸大小，使用无需注册登录。",
+						"suffix": false,
+						"is_show": true
+					},
+					{
+						"title": "PixAI图片生成",
+						"url": "https://pixai.art/",
+						"icon": "https://i.8kmm.com/2023/06/pixai.png",
+						"description": "",
+						"suffix": false,
+						"is_show": true
+					},
+					{
+						"title": "AI思维导图【妙办画板】",
+						"url": "https://imiaoban.com/ai/mind",
+						"icon": "https://api.iowen.cn/favicon/imiaoban.com.png",
+						"description": "妙办画板，专门为您研发的画图软件工具，实现专业绘图软件工才能绘制的示意图、思维导图、流程图、组织架构图、脑图、关系图、结构图等。",
+						"suffix": false,
+						"is_show": true
+					},
+					{
+						"title": "AI生成PPT【灵感版】",
+						"url": "https://ai.linganoffice.com/",
+						"icon": "https://p3dk.nikong.cn/static/img/idea.31246197.png",
+						"description": "在线生成PPT，整体效果还不错，虽然比较简陋，但至少大纲帮你列好了，下载PPT的时候有点问题，只支持PDF格式",
+						"suffix": false,
+						"is_show": true
+					},
+					{
+						"title": "AI生成海报",
+						"url": "https://designer.microsoft.com/invite",
+						"icon": "https://api.iowen.cn/favicon/designer.microsoft.com.png",
+						"description": "一个微软自家的AI海报设计站，可以自己更改生成的设计方案，并可能会生成视频",
+						"suffix": false,
+						"is_show": true
+					},
+					{
+						"title": "AI产品海报",
+						"url": "https://flair.ai/",
+						"icon": "https://api.iowen.cn/favicon/flair.ai.png",
+						"description": "优秀的产品海报AI辅助设计工具",
+						"suffix": false,
+						"is_show": true
+					},
+					{
+						"title": "AI办公【WPS AI】【内测】",
+						"url": "https://ai.wps.cn/",
+						"icon": "https://api.iowen.cn/favicon/ai.wps.cn.png",
+						"description": "WPS AI是由金山办公发布的具备大语言模型能力的人工智能应用，为用户提供智能文档写作、阅读理解和问答、智能人机交互的能力",
+						"suffix": false,
+						"is_show": true
+					},
+					{
+						"title": "AI周报生成器",
+						"url": "https://weeklyreport.avemaria.fun/zh",
+						"icon": "https://api.iowen.cn/favicon/weeklyreport.avemaria.fun.png",
+						"description": "简单描述工作内容，AI帮你生成完整周报。生成有点慢，还请多试几次，耐心等待",
+						"suffix": false,
+						"is_show": true
+					},
+					{
+						"title": "AI做简历",
+						"url": "https://www.chzhkeji.com/app/word_list.html",
+						"icon": "https://api.iowen.cn/favicon/www.chzhkeji.com.png",
+						"description": "海量简历模板免费选择——在线AI简历一键生成",
+						"suffix": false,
+						"is_show": true
+					},
+					{
+						"title": "AI生成思维导图",
+						"url": "https://duomosmart.com/",
+						"icon": "https://api.iowen.cn/favicon/duomosmart.com.png",
+						"description": "【多墨智能】输入关键词一键生成思维导图",
+						"suffix": false,
+						"is_show": true
+					},
+					{
+						"title": "AI求职",
+						"url": "https://www.explainthis.io/zh-hans/tools",
+						"icon": "https://api.iowen.cn/favicon/www.explainthis.io.png",
+						"description": "【AI帮助求职】最全面的前端和后端工程面试准备材料和职业建议。免费的！",
+						"suffix": false,
+						"is_show": true
+					},
+					{
+						"title": "AI翻译",
+						"url": "https://www.deepl.com/translator",
+						"icon": "https://api.iowen.cn/favicon/www.deepl.com.png",
+						"description": "DeepL——声称全世界最精准的机器翻译——DeepL比同类竞争对手准确三倍以上！",
+						"suffix": false,
+						"is_show": true
+					},
+					{
+						"title": "AI营销",
+						"url": "https://copyai.cn/",
+						"icon": "https://api.iowen.cn/favicon/copyai.cn.png",
+						"description": "copydoneAI智能生成海量营销文案，可适应国内及海外各类营销平台风格，覆盖丰富的产品类型，一键可得海量文案及创作灵感！",
+						"suffix": false,
+						"is_show": true
+					},
+					{
+						"title": "AI去水印",
+						"url": "https://quququ.cn/",
+						"icon": "https://api.iowen.cn/favicon/quququ.cn.png",
+						"description": "在线免费去水印",
+						"suffix": false,
+						"is_show": true
 					}
 				]
-			},
-			{
+			}
+		]
+	},
+	{
 				"group_name": "游戏娱乐",
 				"style": 1,
 				"style_des": "标准风格",
@@ -4951,7 +4921,7 @@
 								{
 									"title": "人生重开模拟器",
 									"url": "https://static.oschina.net/trytry/life-restart/view/",
-									"icon": "https://static.oschina.net/favicon.ico",
+									"icon": "https://nav.lxyq.link/images/logos/github.png",
 									"description": "让你在虚拟世界中重新选择人生道路",
 									"suffix": false,
 									"is_show": true

@@ -1,0 +1,5289 @@
+[
+	{
+		"group_name": "新闻资讯",
+		"style": 1,
+		"style_des": "标准风格",
+		"tab_list": [
+			{
+				"tab_name": "新闻热点",
+				"upper_right_corner": {
+					"title": "热榜资讯汇总>>>",
+					"url": "https://rss.lxyq.link//news"
+				},
+				"details": [
+					{
+						"title": "微博热搜",
+						"ori_url": "https://s.weibo.com/top/summary",
+						"url": "https://rss.lxyq.link//news/weibo",
+						"icon": "https://img.fre123.com/i/2023/12/05/656f27339b3b8.png",
+						"description": "与世界分享你的瞬间 ",
+						"suffix": false,
+						"is_show": true
+					},
+					{
+						"title": "今日头条",
+						"ori_url": "https://www.toutiao.com/",
+						"url": "https://rss.lxyq.link//news/toutiao",
+						"icon": "https://img.fre123.com/i/2023/12/05/656f276c1711f.png",
+						"description": "个性化资讯推荐",
+						"suffix": false,
+						"is_show": true
+					},
+					{
+						"title": "抖音热点",
+						"ori_url": "https://www.douyin.com/hot",
+						"url": "https://rss.lxyq.link//news/douyin",
+						"icon": "https://img.fre123.com/i/2023/12/05/656f27e4dccaa.png",
+						"description": "发现身边的新鲜事",
+						"suffix": false,
+						"is_show": true
+					},
+					{
+						"title": "腾讯新闻",
+						"ori_url": "https://news.qq.com/",
+						"url": "https://rss.lxyq.link//news/teng_xun_xin_wen",
+						"icon": "https://img.fre123.com/i/2023/12/05/656f2809bfa0f.png",
+						"description": "中国最大新闻平台",
+						"suffix": false,
+						"is_show": true
+					},
+					{
+						"title": "微信热文",
+						"ori_url": "https://tophub.today/n/WnBe01o371",
+						"url": "https://rss.lxyq.link//news/douywei_xin_re_wenin",
+						"icon": "https://img.fre123.com/i/2023/12/05/656f469aecf87.png",
+						"description": "热门文章与资讯推荐",
+						"suffix": false,
+						"is_show": false
+					},
+					{
+						"title": "ReadHub",
+						"ori_url": "https://readhub.cn/",
+						"url": "https://rss.lxyq.link//news/readhub",
+						"icon": "https://img.fre123.com/i/2023/12/05/656f410bee9c5.png",
+						"description": "全球科技新闻聚合",
+						"suffix": false,
+						"is_show": true
+					},
+					{
+						"title": "抽屉热榜",
+						"ori_url": "https://dig.chouti.com/",
+						"url": "https://rss.lxyq.link//news/chouti",
+						"icon": "https://img.fre123.com/i/2023/12/07/65716d24e228f.png",
+						"description": "热门内容，一网打尽",
+						"suffix": false,
+						"is_show": true
+					},
+					{
+						"title": "百度热搜",
+						"ori_url": "https://top.baidu.com/board",
+						"url": "https://rss.lxyq.link//news/baidu",
+						"icon": "https://img.fre123.com/i/2023/12/05/656f27c6a0285.png",
+						"description": "百度热搜以数亿用户海量的真实数据为基础，通过专业的数据挖掘方法，计算关键词的热搜指数，旨在建立权威、全面、热门、时效的各类关键词排行榜，引领热词阅读时代。",
+						"suffix": false,
+						"is_show": true
+					},
+					{
+						"title": "新浪新闻",
+						"ori_url": "https://www.sina.com.cn/",
+						"url": "https://rss.lxyq.link//news/xin_lang_xin_wen",
+						"icon": "https://img.fre123.com/i/2023/12/05/656f27339b3b8.png",
+						"description": "中文新闻综合门户",
+						"suffix": false,
+						"is_show": true
+					},
+					{
+						"title": "网易热榜",
+						"ori_url": "https://news.163.com/",
+						"url": "https://rss.lxyq.link//news/163_news",
+						"icon": "https://img.fre123.com/i/2023/12/07/6570a591763a0.jpg",
+						"description": "新闻与资讯平台",
+						"suffix": false,
+						"is_show": true
+					},
+					{
+						"title": "知乎热榜",
+						"ori_url": "https://www.zhihu.com/billboard",
+						"url": "https://rss.lxyq.link//news/zhihu_news",
+						"icon": "https://img.fre123.com/i/2023/12/05/656f2f1be65bf.png",
+						"description": "知识问答与热门话题",
+						"suffix": false,
+						"is_show": true
+					},
+					{
+						"title": "哔哩哔哩",
+						"ori_url": "https://www.bilibili.com/v/popular/all/",
+						"url": "https://rss.lxyq.link//news/bilibili",
+						"icon": "https://img.fre123.com/i/2023/12/06/656f51c78c7db.png",
+						"description": "弹幕视频，二次元文化",
+						"suffix": false,
+						"is_show": false
+					},
+					{
+						"title": "36氪",
+						"ori_url": "https://36kr.com/",
+						"url": "https://rss.lxyq.link//news/36kr",
+						"icon": "https://img.fre123.com/i/2023/12/05/656f27b9ecfcb.png",
+						"description": "创业与科技新闻，洞察商业价值",
+						"suffix": false,
+						"is_show": false
+					},
+					{
+						"title": "爱范儿",
+						"ori_url": "https://www.ifanr.com/",
+						"url": "https://rss.lxyq.link//news/ifanr",
+						"icon": "https://img.fre123.com/i/2023/12/05/656f28335cfd0.png",
+						"description": "科技与数码生活，热爱创新",
+						"suffix": false,
+						"is_show": false
+					},
+					{
+						"title": "IT之家",
+						"ori_url": "https://www.ithome.com/list/",
+						"url": "https://rss.lxyq.link//news/ithome",
+						"icon": "https://img.fre123.com/i/2023/12/05/656f2746dca0f.png",
+						"description": "科技新闻与评测专家",
+						"suffix": false,
+						"is_show": false
+					},
+					{
+						"title": "澎湃新闻",
+						"ori_url": "https://www.thepaper.cn/",
+						"url": "https://rss.lxyq.link//news/thepaper",
+						"icon": "https://img.fre123.com/i/2023/12/05/656f27acb144c.png",
+						"description": "独立、深度、观点",
+						"suffix": false,
+						"is_show": false
+					},
+					{
+						"title": "虎嗅资讯",
+						"ori_url": "https://www.huxiu.com/article/",
+						"url": "https://rss.lxyq.link//news/huxiu",
+						"icon": "https://img.fre123.com/i/2023/12/05/656f277d17855.png",
+						"description": "商业观察与创新洞察",
+						"suffix": false,
+						"is_show": false
+					}
+				]
+			},
+			{
+				"upper_right_corner": {
+					"title": "技术资讯汇总>>>",
+					"url": "https://rss.lxyq.link//tech"
+				},
+				"tab_name": "技术资讯",
+				"details": [
+					{
+						"title": "Hacker News",
+						"ori_url": "https://news.ycombinator.com/",
+						"url": "https://rss.lxyq.link//tech/ycombinator",
+						"icon": "https://img.fre123.com/i/2023/12/12/657738fb0da11.png",
+						"description": "程序员和创业者的热门新闻网站",
+						"suffix": false,
+						"is_show": true
+					},
+					{
+						"title": "Github",
+						"ori_url": "https://github.com",
+						"url": "https://rss.lxyq.link//tech/github_trending",
+						"icon": "https://img.fre123.com/i/2023/12/12/65773615a03a5.png",
+						"description": "全球最大的代码托管平台，共享开源项目",
+						"suffix": false,
+						"is_show": true
+					},
+					{
+						"title": "Stack Overflow",
+						"ori_url": "https://stackoverflow.com/",
+						"url": "https://rss.lxyq.link//tech/stackoverflow",
+						"icon": "https://img.fre123.com/i/2023/12/12/65773ed583ad3.png",
+						"description": "开发者问答社区，解决编程难题",
+						"suffix": false,
+						"is_show": true
+					},
+					{
+						"title": "V2EX",
+						"ori_url": "https://www.v2ex.com/?tab=hot",
+						"url": "https://rss.lxyq.link//tech/v2ex",
+						"icon": "https://img.fre123.com/i/2023/12/12/657733214ec3f.png",
+						"description": "程序员社区，分享与讨论",
+						"suffix": false,
+						"is_show": true
+					},
+					{
+						"title": "DEV",
+						"ori_url": "https://dev.to/",
+						"url": "https://rss.lxyq.link//tech/dev_to",
+						"icon": "https://img.fre123.com/i/2023/12/12/65773605a7d3f.png",
+						"description": "开发者社区，探索编程世界",
+						"suffix": false,
+						"is_show": true
+					},
+					{
+						"title": "掘金",
+						"ori_url": "https://juejin.cn/hot/articles",
+						"url": "https://rss.lxyq.link//tech/juejin_trending_all_weekly",
+						"icon": "https://img.fre123.com/i/2023/12/12/6577329c73a89.png",
+						"description": "技术社区，发现优质内容",
+						"suffix": false,
+						"is_show": true
+					},
+					{
+						"title": "博客园",
+						"ori_url": "https://www.cnblogs.com/aggsite/topviews",
+						"url": "https://rss.lxyq.link//tech/cnblogs_topviews",
+						"icon": "https://img.fre123.com/i/2023/12/12/65773305be49d.png",
+						"description": "程序员社区，知识交流平台",
+						"suffix": false,
+						"is_show": true
+					},
+					{
+						"title": "CSDN",
+						"ori_url": "https://blog.csdn.net/rank/list",
+						"url": "https://rss.lxyq.link//tech/csdnnews",
+						"icon": "https://img.fre123.com/i/2023/12/12/65773339badda.png",
+						"description": "IT技术社区，知识传播平台",
+						"suffix": false,
+						"is_show": true
+					},
+					{
+						"title": "开源中国",
+						"ori_url": "https://www.oschina.net/news",
+						"url": "https://rss.lxyq.link//tech/oschina_news",
+						"icon": "https://img.fre123.com/i/2023/12/12/65773357604e7.png",
+						"description": "开源技术社区，共享创新精神",
+						"suffix": false,
+						"is_show": true
+					},
+					{
+						"title": "Segmentfault",
+						"ori_url": "https://segmentfault.com/news",
+						"url": "https://rss.lxyq.link//tech/segmentfault_news",
+						"icon": "https://img.fre123.com/i/2023/12/12/6577354f59e5d.png",
+						"description": "开发者问答社区，解决问题互助",
+						"suffix": false,
+						"is_show": true
+					},
+					{
+						"title": "InfoQ",
+						"ori_url": "https://www.infoq.cn/",
+						"url": "https://rss.lxyq.link//tech/infoq",
+						"icon": "https://img.fre123.com/i/2023/12/12/65773588b7b52.png",
+						"description": "技术资讯平台，深度洞察行业动态",
+						"suffix": false,
+						"is_show": false
+					},
+					{
+						"title": "机器之心",
+						"ori_url": "https://www.jiqizhixin.com/",
+						"url": "https://rss.lxyq.link//tech/jiqizhixin",
+						"icon": "https://img.fre123.com/i/2023/12/12/657741a779223.png",
+						"description": "人工智能科技媒体，探索智能世界",
+						"suffix": false,
+						"is_show": false
+					},
+					{
+						"title": "量子位",
+						"ori_url": "https://www.qbitai.com/category/%e8%b5%84%e8%ae%af",
+						"url": "https://rss.lxyq.link//tech/qbitai",
+						"icon": "https://img.fre123.com/i/2023/12/12/6577368408291.png",
+						"description": "科技资讯平台，前沿科技动态解读",
+						"suffix": false,
+						"is_show": false
+					},
+					{
+						"title": "湾区日报",
+						"ori_url": "https://www.wanqu.co/",
+						"url": "https://rss.lxyq.link//tech/wanqu",
+						"icon": "https://img.fre123.com/i/2023/12/12/65773eb7cded4.png",
+						"description": "科技创新资讯，关注湾区科技动态",
+						"suffix": false,
+						"is_show": false
+					},
+					{
+						"title": "小众软件",
+						"ori_url": "https://www.appinn.com/",
+						"url": "https://rss.lxyq.link//tech/appinn",
+						"icon": "https://img.fre123.com/i/2023/12/12/65773dd163b37.jpeg",
+						"description": "探索独特应用，发现小众精品软件",
+						"suffix": false,
+						"is_show": false
+					}
+				]
+			},
+			{
+				"upper_right_corner": {
+					"title": "精选周刊大全>>>",
+					"url": "https://rss.lxyq.link//weekly"
+				},
+				"tab_name": "技术周刊",
+				"details": [
+					{
+						"title": "阮一峰的周刊",
+						"url": "https://rss.lxyq.link//weekly/ruanyifeng_weekly",
+						"icon": "https://img.fre123.com/i/2023/12/07/6570a316b2e86.jpeg",
+						"description": "这里记录每周值得分享的科技内容，周五发布",
+						"suffix": true,
+						"is_show": true
+					},
+					{
+						"title": "老胡的信息周刊",
+						"url": "https://rss.lxyq.link//weekly/howie6879_weekly",
+						"icon": "https://img.fre123.com/i/2023/12/07/6570a33fcae2f.jpeg",
+						"description": "记录老胡每周看到的优质资源，包含项目、软件、资料、网站",
+						"suffix": true,
+						"is_show": true
+					},
+					{
+						"title": "HelloGitHub",
+						"url": "https://rss.lxyq.link//weekly/hellogithub",
+						"icon": "https://img.fre123.com/i/2023/12/05/656f22c38002e.png",
+						"description": "「HelloGitHub 月刊」分享 GitHub 上有趣、入门级的开源项目，每月 28 号发布最新一期",
+						"suffix": true,
+						"is_show": true
+					},
+					{
+						"title": "独立开发变现周刊",
+						"url": "https://rss.lxyq.link//weekly/ezindie",
+						"icon": "https://img.fre123.com/i/2023/12/05/656f421fa8770.png",
+						"description": "独立开发变现相关的技术、工具、交流等，彼此促进成长，快速落地各自的产品，实现持续盈利",
+						"suffix": true,
+						"is_show": true
+					},
+					{
+						"title": "二丫讲梵",
+						"url": "https://rss.lxyq.link//weekly/eryajf",
+						"icon": "https://img.fre123.com/i/2023/12/05/656f225463402.png",
+						"description": "周刊内容以运维技术和Go语言周边为主，辅以GitHub上优秀项目或他人优秀经验",
+						"suffix": true,
+						"is_show": true
+					},
+					{
+						"title": "AIGC Weekly",
+						"url": "https://rss.lxyq.link//weekly/aigc_weekly",
+						"icon": "https://img.fre123.com/i/2023/12/05/656f1e30d4262.ico",
+						"description": "每周一更新，主要介绍上周AIGC领域发布的一些产品以及值得关注的研究成果",
+						"suffix": true,
+						"is_show": true
+					},
+					{
+						"title": "小棉袄的百味人生",
+						"url": "https://rss.lxyq.link//weekly/haikuoshijie",
+						"icon": "https://img.fre123.com/i/2023/12/05/656f25ba8b44f.png",
+						"description": "小棉袄的博客，嗅觉浏览器、海阔视界开发者的博客",
+						"suffix": true,
+						"is_show": true
+					},
+					{
+						"title": "不死鸟月刊分享",
+						"url": "https://rss.lxyq.link//weekly/businiaofenxiang",
+						"icon": "https://img.fre123.com/i/2023/12/05/656f21aa7baaf.png",
+						"description": "分享为王",
+						"suffix": true,
+						"is_show": true
+					},
+					{
+						"title": "1Link.Fun",
+						"url": "https://rss.lxyq.link//weekly/1link_fun",
+						"icon": "https://img.fre123.com/i/2023/12/05/656f20f645b6e.png",
+						"description": "1Link.Fun 科技周刊，每周更新 10 条有趣的链接",
+						"suffix": true,
+						"is_show": true
+					},
+					{
+						"title": "Go语言爱好者周刊",
+						"url": "https://rss.lxyq.link//weekly/studygolang",
+						"icon": "https://img.fre123.com/i/2023/12/05/656f227ae1a30.png",
+						"description": "记录每周值得分享的 Go 语言相关内容，周日发布",
+						"suffix": true,
+						"is_show": true
+					},
+
+					{
+						"title": "破茧日报",
+						"url": "https://rss.lxyq.link//weekly/guozh",
+						"icon": "https://img.fre123.com/i/2023/12/05/656f2385d1ec1.jpeg",
+						"description": "破茧日报，老郭种树",
+						"suffix": true,
+						"is_show": false
+					},
+					{
+						"title": "老司机 iOS 周报",
+						"url": "https://rss.lxyq.link//weekly/lao_si_ji_ios_zhou_kan",
+						"icon": "https://img.fre123.com/i/2023/12/05/656f228744f01.png",
+						"description": "对于 iOS 开发者有价值的信息",
+						"suffix": true,
+						"is_show": false
+					},
+					{
+						"title": "MDH 前端周刊",
+						"url": "https://rss.lxyq.link//weekly/mdh_weekly",
+						"icon": "https://img.fre123.com/i/2023/12/05/656f234394894.png",
+						"description": "前端技术周刊",
+						"suffix": true,
+						"is_show": false
+					},
+
+					{
+						"title": "Python 潮流周刊",
+						"url": "https://rss.lxyq.link//weekly/pythoncat_weekly",
+						"icon": "https://img.fre123.com/i/2023/12/05/656f23ae79f38.png",
+						"description": "Python技术周刊",
+						"suffix": true,
+						"is_show": false
+					},
+					{
+						"title": "Web 技术周刊",
+						"url": "https://rss.lxyq.link//weekly/fe_weekly",
+						"icon": "https://img.fre123.com/i/2023/12/05/656f2543dff40.png",
+						"description": "汇总平时看到的好文章，前端技术 & 产品研发为主",
+						"suffix": true,
+						"is_show": false
+					}
+				]
+			}
+		]
+	},
+	{
+		"group_name": "影视资源",
+		"style": 1,
+		"style_des": "标准风格",
+		"tab_list": [
+			{
+				"tab_name": "在线影视",
+				"upper_right_corner": {},
+				"details": [
+					{
+						"title": "好戏vip蓝光影院",
+						"url": "https://haoxi.vip",
+						"icon": "https://ldbbs.ldmnq.com/bbs/topic/images/2023-11/13fd1dd3-3695-4147-8d55-c9a133e3f283.png",
+						"description": "简洁、高清无广告，蓝光源，强烈推荐影视站点",
+						"suffix": true,
+						"is_show": true
+					},
+					{
+						"title": "Free OK",
+						"url": "https://www.freeok.vip/",
+						"icon": "https://img.fre123.com/i/2024/01/06/6598318075d36.jpg",
+						"description": "提供最新动漫番剧、电影、电视剧、综艺蓝光资源免费在线观看服务，不卡无广告，每天第一时间更新！",
+						"suffix": true,
+						"is_show": true
+					},
+					{
+						"title": "往往影视-蓝光自建源",
+						"url": "https://www.wwys.pro/",
+						"icon": "https://www.wwys.pro/img/hei.png",
+						"description": "提供免费最新电影、电视剧、动漫等优质视频资源。",
+						"suffix": false,
+						"is_show": true
+					},
+					{
+						"title": "美益达影视_VIP电影电视剧",
+						"url": "https://www.wtianmao.com/",
+						"icon": "http://p2.music.126.net/khPdkd2uXvB8xbiiYByJVw==/109951165837887565.jpg?param=140y140",
+						"description": "提供免费最新电影、电视剧、动漫等优质视频资源。",
+						"suffix": false,
+						"is_show": true
+					},
+					{
+						"title": "追影猫-让追剧随心所欲",
+						"url": "https://zhuiyingmao2.com/",
+						"icon": "https://zhuiyingmao2.com/mxtheme/images/logo2.png",
+						"description": "提供免费最新电影、电视剧、动漫等优质视频资源。",
+						"suffix": false,
+						"is_show": true
+					},
+					{
+						"title": "爱看剧_追剧不花一分钱！",
+						"url": "https://www.ikanju.cc/",
+						"icon": "https://www.ikanju.cc/static/ds3/img/favicon.png",
+						"description": "提供免费最新电影、电视剧、动漫等优质视频资源。",
+						"suffix": false,
+						"is_show": true
+					},
+					{
+						"title": "可可影视_最新Netflix新剧",
+						"url": "https://www.keke1.app/",
+						"icon": "https://static.vukfnqr.com/images/p/keke/logo_horizontal.png?ver=231126",
+						"description": "提供免费最新电影、电视剧、动漫等优质视频资源。",
+						"suffix": false,
+						"is_show": true
+					},
+					{
+						"title": "荔枝电影网-高清免费",
+						"url": "https://www.wclyzz.com/",
+						"icon": "http://p2.music.126.net/_maMFcRbjX5Pgy-jZTf6cg==/109951163674078407.jpg?param=140y140",
+						"description": "提供免费最新电影、电视剧、动漫等优质视频资源。",
+						"suffix": false,
+						"is_show": true
+					}, 
+					{
+						"title": "蛋蛋剧 - 高清蓝光影视免费",
+						"url": "https://dandanju.me/",
+						"icon": "https://dandanju.me/favicon.ico",
+						"description": "提供免费最新电影、电视剧、动漫等优质视频资源。",
+						"suffix": false,
+						"is_show": true
+					},
+					{
+						"title": "HDmoli - 高品质在线影视",
+						"url": "https://www.hdmoli.pro/",
+						"icon": "https://www.hdmoli.pro/static/img/logo.png",
+						"description": "提供免费最新电影、电视剧、动漫等优质视频资源。",
+						"suffix": false,
+						"is_show": true
+					},
+					{
+						"title": "琉璃影院- 高清蓝光影视免费",
+						"url": "https://www.liuliyy.com/",
+						"icon": "http://p2.music.126.net/P_CPl0PsdbYkDxxA7KC4_A==/109951166172055304.jpg?param=140y140",
+						"description": "提供免费最新电影、电视剧、动漫等优质视频资源。",
+						"suffix": false,
+						"is_show": true
+					},
+					{
+						"title": "电视家影院-热门影视",
+						"url": "https://www.dianshijia.cc/",
+						"icon": "https://www.dianshijia.cc/upload/mxprocms/20230924-1/57fa178ac702be4e625970163305997e.png",
+						"description": "提供免费最新电影、电视剧、动漫等优质视频资源。",
+						"suffix": false,
+						"is_show": true
+					},
+					{
+						"title": "星辰影院-高清影视",
+						"url": "https://www.kanjuxc.com/",
+						"icon": "https://www.kanjuxc.com/templets/default/images/img/favicon.ico",
+						"description": "提供免费最新电影、电视剧、动漫等优质视频资源。",
+						"suffix": false,
+						"is_show": true
+					},
+					{
+						"title": "一百万电影",
+						"url": "https://www.ybwdy.com/",
+						"icon": "https://www.ybwdy.com/mxtheme/images/favicon.png",
+						"description": "一个提供各类电影、电视剧、综艺等资源的影视导航网站。",
+						"suffix": false,
+						"is_show": true
+					},
+					{
+						"title": "9U电影院",
+						"url": "https://www.9udy.com/",
+						"icon": "https://s3.bmp.ovh/imgs/2022/08/02/65764de7ab632ac5.png",
+						"description": "提供免费最新电影、电视剧、动漫等优质视频资源。",
+						"suffix": false,
+						"is_show": true
+					},
+					{
+						"title": "奈飞中文影视 - 奈飞中文网",
+						"url": "https://netfly.tv/",
+						"icon": "https://netfly.tv/upload/mxprocms/20230323-1/c7afca178efda19128c59cdeacb0c2ce.png",
+						"description": "提供免费最新电影、电视剧、动漫等优质视频资源。",
+						"suffix": false,
+						"is_show": true
+					},
+					{
+						"title": "555影院",
+						"url": "https://555ys.cc/",
+						"icon": "https://555ys.cc/upload/mxprocms/20231224-1/663803c66ed20290e6fbda130e17d65a.png",
+						"description": "一个提供各类高清电影、电视剧等资源的影视导航网站。",
+						"suffix": false,
+						"is_show": true
+					},
+					{
+						"title": "麻花视频",
+						"url": "https://www.mahuage2.com/",
+						"icon": "https://www.mahuage2.com/template/conch/asset/img/favicon.png",
+						"description": "一个提供各种类型影视资源的网站，包括电影、电视剧、综艺、动漫等。",
+						"suffix": false,
+						"is_show": true
+					},
+					{
+						"title": "COKEMV影视",
+						"url": "https://www.cokemv.fun/",
+						"icon": "https://www.cokemv.fun/mxtheme/images/favicon.png",
+						"description": "一个提供高清无广告在线观看电影及电视剧等资源的网站。",
+						"suffix": false,
+						"is_show": true
+					},
+					{
+						"title": "天空影视",
+						"url": "https://www.tkyywz2.com/",
+						"icon": "https://www.tkyywz2.com/template/mytheme/statics/image/20230205/3ded1f154.jpg",
+						"description": "一个提供最新电影、电视剧、综艺等资源的导航网站。",
+						"suffix": false,
+						"is_show": true
+					},
+					{
+						"title": "大米星球",
+						"url": "https://dmdy5.vip/",
+						"icon": "https://ugc.hitv.com/1/22101302373440A2E346E1415C87955C155B224B5Qzkx/dRaWOH0.png",
+						"description": "一个提供高清无广告在线观看电影、电视剧等资源的网站。",
+						"suffix": false,
+						"is_show": true
+					},
+					{
+						"title": "高清mp4吧",
+						"url": "https://m.mp4pa.com/",
+						"icon": "https://www.mp4br.com/upload/site/20240106-1/b500eb234b0a69e34567956ca7e4e5be.png",
+						"description": "一个提供最新电影、电视剧等资源的导航网站，支持在线观看以及下载。",
+						"suffix": false,
+						"is_show": true
+					},
+					{
+						"title": "8K影视",
+						"url": "http://www.8kvod.com/",
+						"icon": "http://www.8kvod.com/template/mytheme/statics/image/20210121/188e68bdf.png",
+						"description": "8K影视之光，高清在线播放",
+						"suffix": false,
+						"is_show": true
+					},
+					{
+						"title": "厂长资源",
+						"url": "https://czzy01.com/",
+						"icon": "https://gimg3.baidu.com/gimg/app=2028&src=img.py1080p.com//2020/05/cropped-90b07fe57d6142-32x32.png",
+						"description": "一个提供各类电影、电视剧、综艺等资源的影视导航网站。",
+						"suffix": false,
+						"is_show": true
+					},
+					{
+						"title": "O先生的影视库",
+						"url": "https://www.osirmovie.com/",
+						"icon": "https://www.osirmovie.com/template/xiaozhuti/img/ioc.png",
+						"description": "各种影视合集聚集地，在线播放",
+						"suffix": false,
+						"is_show": true
+					},
+					{
+						"title": "33好看影视",
+						"url": "https://www.ylwt33.com/",
+						"icon": "http://p2.music.126.net/WhaYZ2tvkVQJSkmXL9FzzA==/109951165563896271.jpg?param=140y140",
+						"description": "提供电影、电视剧、综艺等多种类型的优质视频资源。",
+						"suffix": false,
+						"is_show": true
+					},
+					{
+						"title": "真不卡影院 - 免费电影",
+						"url": "https://bktg.net/",
+						"icon": "https://www.hggyyds.com/favicon.ico",
+						"description": "提供免费最新电影、电视剧、动漫等优质视频资源。",
+						"suffix": false,
+						"is_show": true
+					},
+					{
+						"title": "不卡云播影视",
+						"url": "https://www.bkyb.net/",
+						"icon": "https://www.ksksl.com/template/kuhei/assets/icon/apple-touch-icon-120x120-precomposed.png",
+						"description": "提供免费最新电影、电视剧、动漫等优质视频资源。",
+						"suffix": false,
+						"is_show": true
+					},
+					{
+						"title": "疯狗电影_最新电影",
+						"url": "http://www.fenggoudy3.com/",
+						"icon": "http://www.fenggoudy3.com/favicon.ico",
+						"description": "提供免费最新电影、电视剧、动漫等优质视频资源。",
+						"suffix": false,
+						"is_show": true
+					},
+					{
+						"title": "最新美剧_好莱坞电影",
+						"url": "https://www.ksksl.com/",
+						"icon": "https://www.ksksl.com/template/kuhei/assets/icon/apple-touch-icon-120x120-precomposed.png",
+						"description": "供最新美剧、好莱坞电影等海量优质视频资源，每日更新。",
+						"suffix": false,
+						"is_show": true
+					},
+					{
+						"title": "全部影视",
+						"url": "https://gaze.run/",
+						"icon": "https://gaze.run/favicon.ico",
+						"description": "提供电影、电视剧、综艺等多种类型的优质视频资源，操作简便，更新快速。",
+						"suffix": false,
+						"is_show": true
+					},
+					{
+						"title": "BTNULL 无名小站",
+						"url": "https://www.btnull.org",
+						"icon": "https://img.fre123.com/i/2023/11/25/6561ae014e2de.png",
+						"description": "简单注册下，即可在线观看&下载影视资源，总体体验还是挺良心的",
+						"suffix": true,
+						"is_show": true
+					},
+					{
+						"title": "JoJo 影视",
+						"url": "https://jiohub.top",
+						"icon": "https://img.fre123.com/i/2023/11/25/6561af1988649.png",
+						"description": "努力打造为最好的海外热门影视剧在线观看站点",
+						"suffix": true,
+						"is_show": true
+					},
+					{
+						"title": "素白白影视",
+						"url": "https://subaibai.vip/",
+						"icon": "https://img.fre123.com/i/2024/01/06/65982a748d7cf.png",
+						"description": "提供最新最全的电视剧电影在线观看",
+						"suffix": true,
+						"is_show": true
+					},
+					{
+						"title": "注视影视",
+						"url": "https://gaze.run/",
+						"icon": "https://img.fre123.com/i/2023/11/25/6561ae9a7b3d3.png",
+						"description": "在线影视搜索观看网站，颜值鲜艳！",
+						"suffix": true,
+						"is_show": true
+					},
+					{
+						"title": "哔嘀影视",
+						"url": "https://www.bdys.me/",
+						"icon": "https://img.fre123.com/i/2023/11/25/6561b1775447b.png",
+						"description": "最新电影电视剧免费观看下载！",
+						"suffix": true,
+						"is_show": true
+					},
+					{
+						"title": "低端影视",
+						"url": "https://ddys.pro/",
+						"icon": "https://img.fre123.com/i/2023/11/25/6561aeddd0eb6.png",
+						"description": "超清在线视频站",
+						"suffix": true,
+						"is_show": true
+					},
+					{
+						"title": "厂长资源",
+						"url": "https://www.czzy.site/",
+						"icon": "https://img.fre123.com/i/2024/01/06/659829822ee33.jpg",
+						"description": "高清资源在线观看",
+						"suffix": true,
+						"is_show": true
+					},
+					{
+						"title": "大米星球",
+						"url": "https://damiq.cc/",
+						"icon": "https://img.fre123.com/i/2023/12/14/657b1c91ce756.png",
+						"description": "免费高清电影大全",
+						"suffix": true,
+						"is_show": true
+					},
+					{
+						"title": "555电影",
+						"url": "https://www.555u.club/",
+						"icon": "https://img.fre123.com/i/2023/12/14/657b21e08c6f0.png",
+						"description": "每天更新热火欧美日韩剧",
+						"suffix": true,
+						"is_show": true
+					},
+					{
+						"title": "好看123",
+						"url": "https://haokan123.icu/",
+						"icon": "https://img.fre123.com/i/2023/12/13/6579cc2dab874.png",
+						"description": "VIP电影最新电视剧综艺在线免费观看",
+						"suffix": true,
+						"is_show": true
+					},
+					{
+						"title": "腐剧TV",
+						"url": "https://fujumtv.com/",
+						"icon": "https://img.fre123.com/i/2024/01/06/65982b424d966.png",
+						"description": "最新腐剧在线观看",
+						"suffix": true,
+						"is_show": false
+					},
+					{
+						"title": "爱看机器人",
+						"url": "https://www.aikanbot.com/",
+						"icon": "https://www.aikanbot.com/resources/logo.svg",
+						"description": "一个提供高清电影、电视剧等在线观看服务的平台，还提供资源下载服务。",
+						"suffix": false,
+						"is_show": true
+					},
+					{
+						"title": "茶杯狐 Cupfox",
+						"url": "https://cupfox.app/",
+						"icon": "https://picx.zhimg.com/80/v2-de36e385e59fcca2df694b76f108431a.png",
+						"description": "一个提供电影、电视剧、综艺等资源的影视导航网站。",
+						"suffix": false,
+						"is_show": true
+					},
+					{
+						"title": "好趣网----电视直播网站",
+						"url": "http://tv.haoqu99.com/",
+						"icon": "http://tv.haoqu99.com/favicon.ico",
+						"description": "电视直播网站",
+						"suffix": false,
+						"is_show": true
+					},
+					{
+						"title": "电视眼-网络直播",
+						"url": "http://www.tvyan.com/",
+						"icon": "http://www.tvyan.com/favicon.ico",
+						"description": "全网影视直播排行榜及地址",
+						"suffix": false,
+						"is_show": true
+					}
+				]
+			},
+			{
+				"tab_name": "电影世界",
+				"upper_right_corner": {},
+				"details": [
+					{
+						"title": "电影狗",
+						"url": "https://www.dianyinggou.com/",
+						"icon": "https://img.fre123.com/i/2023/12/14/6579e90936169.png",
+						"description": "专业电影搜索引擎",
+						"suffix": true,
+						"is_show": true
+					},
+					{
+						"title": "音范丝",
+						"url": "https://www.yinfans.me/",
+						"icon": "https://img.fre123.com/i/2023/11/25/6561b0a161eeb.png",
+						"description": "精选 4K 蓝光原盘下载",
+						"suffix": true,
+						"is_show": true
+					},
+					{
+						"title": "磁力熊",
+						"url": "https://www.cilixiong.cc/",
+						"icon": "https://img.fre123.com/i/2023/11/25/6561aef0bb22e.png",
+						"description": "磁力电影高清电影下载，豆瓣 Top250 高分高清电影磁力下载",
+						"suffix": true,
+						"is_show": true
+					},
+					{
+						"title": "此刻电影日历",
+						"url": "https://www.cikeee.cc/",
+						"icon": "https://img.fre123.com/i/2023/11/25/6561af2dbbb1c.png",
+						"description": "每天一部电影，电影爱好者的心灵港湾，在这里，发现电影，享受电影，分享电影",
+						"suffix": true,
+						"is_show": true
+					},
+					{
+						"title": "安逸影视导航",
+						"url": "https://anee.cc/",
+						"icon": "http://anee.cc/wp-content/themes/favicon.png",
+						"description": "一个收藏了大量优质影视网站的导航平台，提供便捷的资源访问方式",
+						"suffix": false,
+						"is_show": true
+					},
+					{
+						"title": "电影先生",
+						"url": "https://dyxs15.com/",
+						"icon": "https://dyxs15.com/statics/logo.png",
+						"description": "一个专注于提供最新电影资源的网站，让用户可以通过高清无水印的方式观看最新电影。",
+						"suffix": false,
+						"is_show": true
+					},
+					{
+						"title": "影视导航",
+						"url": "https://www.f7s.net/",
+						"icon": "https://www.f7s.net/zb_users/theme/zblog5_nav/image/favicon.ico",
+						"description": "一个集合了各类影视资源的导航网站，方便用户查找自己想要的影视资源。",
+						"suffix": false,
+						"is_show": true
+					},
+					{
+						"title": "电影 - 探索地球",
+						"url": "http://www.tansuoo.com/page/1-1.html",
+						"icon": "http://www.tansuoo.com/images/favicon.ico",
+						"description": "探索发现地球影视导航网站",
+						"suffix": false,
+						"is_show": true
+					},
+					{
+						"title": "爱达杂货铺-影视",
+						"url": "https://adzhp.net/mian-fei-shi-pin.html",
+						"icon": "https://adzhp.net/wp-content/uploads/2020/02/A-win.ico",
+						"description": "影视合集导航网站",
+						"suffix": false,
+						"is_show": true
+					},
+					{
+						"title": "518影视导航网",
+						"url": "https://www.518dir.com/",
+						"icon": "https://www.518dir.com/wp-content/uploads/2021/10/8080.png",
+						"description": "一个提供各类电影、电视剧、动漫等资源的优质影视导航网站。",
+						"suffix": false,
+						"is_show": true
+					},
+					{
+						"title": "不求人影视资源导航",
+						"url": "https://video.bqrdh.com/",
+						"icon": "https://tools.bqrdh.com/static/images/favicon_fox.png",
+						"description": "一个提供高清电影、电视剧等最新影视资源的导航网站。",
+						"suffix": false,
+						"is_show": true
+					},
+					{
+						"title": "二次元影视导航姬",
+						"url": "https://cilicili.cn/",
+						"icon": "https://cilicili.cn/zb_users/theme/suiranx_nav/image/favicon.ico",
+						"description": "一个集合了各类动漫、影视资源的导航网站，方便用户查找自己想要的影视资源。",
+						"suffix": false,
+						"is_show": true
+					},
+					{
+						"title": "影搜-影视搜索",
+						"url": "https://yingshiso.com/",
+						"icon": "https://oss.zklhy.com/template/default/images/11/bitbug_favicon.ico",
+						"description": "一个提供各类影视资源搜索服务的平台，让用户轻松快速地找到所需资源。",
+						"suffix": false,
+						"is_show": true
+					},
+					{
+						"title": "豌豆PRO-影视搜索",
+						"url": "https://www.wandou.la/",
+						"icon": "https://www.wandou.la/favicon.ico",
+						"description": "影视搜索聚合网站",
+						"suffix": false,
+						"is_show": true
+					},
+					{
+						"title": "搜片",
+						"url": "https://soupian.pro/",
+						"icon": "https://img.fre123.com/i/2023/11/25/6561aebd85f0c.png",
+						"description": "搜你想看的影片，每天搜集最新电影、电视剧、在线观看网址、蓝光高清正版免费看！",
+						"suffix": true,
+						"is_show": true
+					},
+					{
+						"title": "影搜",
+						"url": "https://影搜.com/",
+						"icon": "https://img.fre123.com/i/2024/01/05/6597be6706aee.png",
+						"description": "全网海量影片数据",
+						"suffix": true,
+						"is_show": true
+					},
+					{
+						"title": "影视搜索引擎",
+						"url": "https://ys.urlsdh.com/so/",
+						"icon": "https://img.fre123.com/i/2024/01/15/65a421c243f94.ico",
+						"description": "影视搜索引擎",
+						"suffix": true,
+						"is_show": true
+					},
+					{
+						"title": "影视森林",
+						"url": "http://www.549.tv/",
+						"icon": "http://p1.music.126.net/EvMYkma640_ztqWqjnuRLw==/5953855464572474.jpg?param=140y140",
+						"description": "一个提供电影、电视剧、综艺等影视资源的网站。",
+						"suffix": false,
+						"is_show": true
+					},
+					{
+						"title": "低调观影",
+						"url": "https://shouku123.com/tiantian",
+						"icon": "https://shouku123.com/res/img/logo64.png",
+						"description": "提供高清无广告在线观看电影及电视剧资源，使用简单便捷。",
+						"suffix": false,
+						"is_show": true
+					},
+					{
+						"title": "影猫の仓库",
+						"url": "https://ymck.me/",
+						"icon": "http://p2.music.126.net/_maMFcRbjX5Pgy-jZTf6cg==/109951163674078407.jpg?param=140y140",
+						"description": "提供高清电影、电视剧、动漫等视频资源的网站。",
+						"suffix": false,
+						"is_show": true
+					},
+					{
+						"title": "可乐影视",
+						"url": "https://klyingshi.com/",
+						"icon": "https://klyingshi.com/wp-content/uploads/2022/10/ic_launcher.jpg",
+						"description": "一个提供在线高清视频资源的影视平台。",
+						"suffix": false,
+						"is_show": true
+					}
+				]
+			},
+			{
+				"tab_name": "美日韩剧",
+				"upper_right_corner": {},
+				"details": [
+					{
+						"title": "HDmoli",
+						"url": "https://molicp.com/",
+						"icon": "https://img.fre123.com/i/2023/11/25/6561ae6e55df8.png",
+						"description": "HDMOLI 提供免费、高品质、同时支持电脑和移动设备的影视剧在线观看网站",
+						"suffix": true,
+						"is_show": true
+					},
+					{
+						"title": "LIBVIO",
+						"url": "https://www.libvio.me/",
+						"icon": "https://img.fre123.com/i/2024/01/06/659829e49995c.png",
+						"description": "海外影视资源为主的老牌在线影视资源网站",
+						"suffix": true,
+						"is_show": true
+					},
+					{
+						"title": "JoJo 影视",
+						"url": "https://jiohub.top/",
+						"icon": "https://img.fre123.com/i/2023/11/25/6561af1988649.png",
+						"description": "努力打造为最好的海外热门影视剧在线观看站点",
+						"suffix": true,
+						"is_show": true
+					},
+					{
+						"title": "低端影视",
+						"url": "https://ddys.pro/",
+						"icon": "https://img.fre123.com/i/2023/11/25/6561aeddd0eb6.png",
+						"description": "超清在线视频站",
+						"suffix": true,
+						"is_show": true
+					},
+					{
+						"title": "NO 视频",
+						"url": "https://www.novipnoad.net/",
+						"icon": "https://img.fre123.com/i/2024/01/06/65983049921a2.png",
+						"description": "主打海外影视剧资源，不负追剧好时光。",
+						"suffix": true,
+						"is_show": true
+					},
+					{
+						"title": "在线之家",
+						"url": "https://www.zxzjhd.com/",
+						"icon": "https://img.fre123.com/i/2024/01/06/659830c0e152c.png",
+						"description": "在线观看最新美剧|最新韩剧|天天美剧|人人美剧",
+						"suffix": true,
+						"is_show": true
+					}
+				]
+			},
+			{
+				"tab_name": "影视下载",
+				"upper_right_corner": {},
+				"details": [
+					{
+						"title": "海盗湾",
+						"url": "https://www.pirateproxy-bay.com/",
+						"icon": "https://img.fre123.com/i/2024/01/05/6597c20198e3b.png",
+						"description": "全世界最大的磁力搜索网站",
+						"suffix": true,
+						"is_show": false
+					},
+					{
+						"title": "音范丝",
+						"url": "https://www.yinfans.me/",
+						"icon": "https://img.fre123.com/i/2023/11/25/6561b0a161eeb.png",
+						"description": "精选 4K 蓝光原盘下载",
+						"suffix": true,
+						"is_show": true
+					},
+					{
+						"title": "不太灵影视",
+						"url": "https://www.2bt0.com/",
+						"icon": "https://img.fre123.com/i/2024/01/06/65983354c2ad9.png",
+						"description": "海外电影电视剧下载",
+						"suffix": true,
+						"is_show": true
+					},
+					{
+						"title": "磁力熊",
+						"url": "https://www.cilixiong.cc/",
+						"icon": "https://img.fre123.com/i/2023/11/25/6561aef0bb22e.png",
+						"description": "磁力电影高清电影下载，豆瓣 Top250 高分高清电影磁力下载",
+						"suffix": true,
+						"is_show": true
+					},
+					{
+						"title": "电影天堂",
+						"url": "https://www.dy2018.com/",
+						"icon": "https://img.fre123.com/i/2023/11/25/6561b0e16bb9e.png",
+						"description": "分享最新电影，高清电影、综艺、动漫、电视剧等下载",
+						"suffix": true,
+						"is_show": true
+					},
+					{
+						"title": "飘花资源网",
+						"url": "https://www.piaohua.com/",
+						"icon": "https://img.fre123.com/i/2023/11/25/6561b1600d9d9.jpg",
+						"description": "每天搜集最新迅雷免费电影下载",
+						"suffix": true,
+						"is_show": true
+					},
+					{
+						"title": "美剧天堂",
+						"url": "https://www.meijutt.tw/",
+						"icon": "https://img.fre123.com/i/2023/11/25/6561b1683e2ca.png",
+						"description": "海量好看的美剧在线观看、最新美剧下载！",
+						"suffix": true,
+						"is_show": true
+					},
+					{
+						"title": "蚂蚁 4K",
+						"url": "https://www.mayi4k.com/",
+						"icon": "https://img.fre123.com/i/2023/11/25/6561b1a7eb11e.png",
+						"description": "提供4K高清电影资源下载及最新电影下载服务",
+						"suffix": true,
+						"is_show": true
+					},
+					{
+						"title": "4K 影视论坛",
+						"url": "https://www.4khdr.cn/",
+						"icon": "https://img.fre123.com/i/2023/11/25/6561b1ba0622b.png",
+						"description": "4K 电影美剧下载 ，HDR 杜比视界资源",
+						"suffix": true,
+						"is_show": true
+					},
+					{
+						"title": "迷客电影",
+						"url": "https://www.mini4k.net/",
+						"icon": "https://img.fre123.com/i/2023/12/16/657d3fd6549b7.png",
+						"description": "高清2160P 4K电影下载网站",
+						"suffix": true,
+						"is_show": true
+					},
+					{
+						"title": "秋爸日字",
+						"url": "https://qq88.info/",
+						"icon": "https://img.fre123.com/i/2023/11/25/6561b18462068.png",
+						"description": "日剧下载网站",
+						"suffix": true,
+						"is_show": true
+					},
+					{
+						"title": "日剧跑",
+						"url": "https://www.rijupao.com/",
+						"icon": "https://img.fre123.com/i/2023/12/14/6579d8bfd3476.jpg",
+						"description": "热爱日剧，分享日剧。还有日影、动漫分享，百度网盘高清下载，迅雷高速下载。",
+						"suffix": true,
+						"is_show": true
+					},
+					{
+						"title": "韩饭网",
+						"url": "https://www.hanfan.cc/",
+						"icon": "https://img.fre123.com/i/2023/11/25/6561b19c18889.png",
+						"description": "提供韩国电视剧、韩国电影、韩国综艺、节目表、音乐演出和明星时尚",
+						"suffix": true,
+						"is_show": true
+					},
+					{
+						"title": "布谷TV",
+						"url": "https://www.bugutv.org/",
+						"icon": "https://img.fre123.com/i/2023/11/25/6561b1c807121.png",
+						"description": "4K 电影爱好者基地",
+						"suffix": true,
+						"is_show": true
+					},
+					{
+						"title": "YYeTs",
+						"url": "https://yyets.click/search",
+						"icon": "https://img.fre123.com/i/2023/12/13/6579ced83bdae.png",
+						"description": "包含人人影视全部资源以及众多网友的网盘分享",
+						"suffix": true,
+						"is_show": true
+					},
+					{
+						"title": "电影狗-搜索",
+						"url": "https://www.dianyinggou.com/",
+						"icon": "https://www.dianyinggou.com/favicon.ico",
+						"description": "电影电视搜索引擎",
+						"suffix": false,
+						"is_show": true
+					}
+				]
+			}
+		]
+	},
+	{
+		"group_name": "动漫番剧",
+		"style": 1,
+		"style_des": "标准风格",
+		"tab_list": [
+			{
+				"tab_name": "番剧资源",
+				"upper_right_corner": {},
+				"details": [
+					{
+						"title": "Bangumi 番组计划",
+						"url": "https://bgm.tv/",
+						"icon": "https://img.fre123.com/i/2023/12/13/657999ff600a4.png",
+						"description": "专注于动漫、音乐、游戏领域，帮助你分享、发现与结识同好的ACG网络",
+						"suffix": true,
+						"is_show": true
+					},
+					{
+						"title": "BiliBili番剧",
+						"url": "https://www.bilibili.com/anime",
+						"icon": "https://img.fre123.com/i/2023/11/25/6561b84c2d200.png",
+						"description": "bilibili是国内知名的视频弹幕网站，这里有最及时的动漫新番，最棒的ACG氛围，最有创意的Up主。",
+						"suffix": true,
+						"is_show": true
+					},
+					{
+						"title": "动漫线上看",
+						"url": "https://anime1.me/",
+						"icon": "https://img.fre123.com/i/2023/12/13/6579a789c981f.webp",
+						"description": "最新番剧追更，在线观看",
+						"suffix": true,
+						"is_show": true
+					},
+					{
+						"title": "AGE 动漫",
+						"url": "http://age.tv",
+						"icon": "https://img.fre123.com/i/2023/11/25/6561b8413511a.png",
+						"description": "专业的在线动漫网站，动漫免费在线观看，高品质画质，实时更新，追番利器!",
+						"suffix": true,
+						"is_show": true
+					},
+					{
+						"title": "樱花动漫",
+						"url": "https://www.iyhdmm.com",
+						"icon": "https://img.fre123.com/i/2023/11/25/6561b85abc481.png",
+						"description": "专注动漫的门户网站",
+						"suffix": true,
+						"is_show": true
+					},
+					{
+						"title": "怡萱动漫",
+						"url": "http://yxdm.tv",
+						"icon": "https://img.fre123.com/i/2023/11/25/6561b8916d0e7.jpg",
+						"description": "动漫番剧观看下载网站",
+						"suffix": true,
+						"is_show": true
+					},
+					{
+						"title": "bimi 动漫",
+						"url": "https://www.bimiacg.icu/",
+						"icon": "https://img.fre123.com/i/2023/12/14/6579d63c89c74.png",
+						"description": "哔咪哔咪为您将动漫番剧一网打尽",
+						"suffix": true,
+						"is_show": true
+					},
+					{
+						"title": "Myself 動漫",
+						"url": "https://myself-bbs.com",
+						"icon": "https://img.fre123.com/i/2023/12/14/6579ddcd6d2a6.jpeg",
+						"description": "动漫在线观看",
+						"suffix": true,
+						"is_show": true
+					},
+					{
+						"title": "妮可动漫",
+						"url": "http://www.nicotv.wtf",
+						"icon": "https://img.fre123.com/i/2023/12/13/6579a29596e6f.png",
+						"description": "免费在线动漫观看，全集高清番剧",
+						"suffix": true,
+						"is_show": true
+					},
+					{
+						"title": "异世界动漫",
+						"url": "http://kudm.net",
+						"icon": "https://img.fre123.com/i/2023/11/25/6561b8a56cb6e.png",
+						"description": "动漫网站，新番国漫都有，打开会自动跳转到最新域名",
+						"suffix": true,
+						"is_show": true
+					},
+					{
+						"title": "AnFuns 动漫",
+						"url": "https://www.anfuns.cc",
+						"icon": "https://img.fre123.com/i/2023/11/25/6561b8afa7d2a.png",
+						"description": "在线动漫资源门户",
+						"suffix": true,
+						"is_show": false
+					},
+					{
+						"title": "NT 动漫",
+						"url": "https://www.ntdm.tv/",
+						"icon": "https://img.fre123.com/i/2024/01/05/6598237865cd8.png",
+						"description": "专注的动漫的网站，立志为广大动漫迷提供一个在线看动漫的好平台。",
+						"suffix": true,
+						"is_show": true
+					},
+					{
+						"title": "E站",
+						"url": "https://www.ezdmw.site/",
+						"icon": "https://img.fre123.com/i/2023/12/13/6579a72d755f8.png",
+						"description": "E站弹幕网是国内专业的二次元（ACG）社区，在线动漫&下载",
+						"suffix": true,
+						"is_show": true
+					},
+					{
+						"title": "风车动漫",
+						"url": "https://dm530.org/",
+						"icon": "https://img.fre123.com/i/2023/12/13/6579a6860c978.ico",
+						"description": "上万集高清晰画质的在线动漫，观看完全免费、无须注册",
+						"suffix": true,
+						"is_show": true
+					},
+					{
+						"title": "girigiri爱动漫",
+						"url": "https://anime.girigirilove.com/",
+						"icon": "https://img.fre123.com/i/2023/12/13/6579d1f8bb534.png",
+						"description": "在线追番播放网站",
+						"suffix": true,
+						"is_show": true
+					},
+					{
+						"title": "动漫巴士",
+						"url": "http://dm84.site/",
+						"icon": "https://img.fre123.com/i/2023/12/14/6579dbf7843df.png",
+						"description": "最新好看的动漫免费在线观看",
+						"suffix": true,
+						"is_show": true
+					},
+					{
+						"title": "动漫岛",
+						"url": "http://www.dmd8.com/",
+						"icon": "https://img.fre123.com/i/2023/12/18/657fe5c5cca6e.png",
+						"description": "动漫岛为大家提供新番连载大量完结日漫热门国漫剧场动漫等动漫的在线观看",
+						"suffix": true,
+						"is_show": true
+					},
+					{
+						"title": "稀饭动漫",
+						"url": "https://dick.xfani.com/",
+						"icon": "https://img.fre123.com/i/2023/12/18/657fe8995019f.png",
+						"description": "免费高清动漫分享",
+						"suffix": true,
+						"is_show": true
+					},
+					{
+						"title": "去看吧",
+						"url": "https://qkan8.com/",
+						"icon": "https://img.fre123.com/i/2023/12/14/6579dc905f000.png",
+						"description": "提供最新的日本动漫在线观看",
+						"suffix": true,
+						"is_show": true
+					},
+					{
+						"title": "橘子动漫",
+						"url": "https://www.mgnacg.com/",
+						"icon": "https://img.fre123.com/i/2023/12/13/6579d039032ea.jpg",
+						"description": "清晰画质动漫电影在线观看",
+						"suffix": true,
+						"is_show": false
+					},
+					{
+						"title": "Nicohub",
+						"url": "https://nicohub.cc/",
+						"icon": "https://img.fre123.com/i/2024/01/06/65982cbc83377.png",
+						"description": "简洁的在线番剧&漫画&轻小说一体化的网站",
+						"suffix": true,
+						"is_show": true
+					},
+					{
+						"title": "YuC's AnimeList",
+						"url": "https://yuc.wiki/",
+						"icon": "https://img.fre123.com/i/2023/12/13/65799b5609a6b.png",
+						"description": "新番信息资讯",
+						"suffix": true,
+						"is_show": true
+					}
+				]
+			},
+			{
+				"tab_name": "番剧下载",
+				"upper_right_corner": {},
+				"details": [
+					{
+						"title": "动漫花园",
+						"url": "https://dmhy.org",
+						"icon": "https://img.fre123.com/i/2023/11/25/6561b8ca8d9db.png",
+						"description": "动漫花园是一个动漫爱好者交流的平台，提供最及时全面的动漫资源",
+						"suffix": true,
+						"is_show": true
+					},
+					{
+						"title": "蜜柑计划",
+						"url": "https://mikanime.tv/",
+						"icon": "https://img.fre123.com/i/2023/12/13/65799a4e99649.ico",
+						"description": "新一代的动漫下载站",
+						"suffix": true,
+						"is_show": true
+					},
+					{
+						"title": "爱恋动漫BT下载",
+						"url": "https://kisssub.org/",
+						"icon": "https://img.fre123.com/i/2023/12/13/6579a0dbd7368.ico",
+						"description": "爱恋BT分享站，动画/漫画/游戏/动漫音乐/片源",
+						"suffix": true,
+						"is_show": true
+					},
+					{
+						"title": "末日动漫资源库",
+						"url": "https://share.acgnx.se/",
+						"icon": "https://img.fre123.com/i/2023/12/13/6579d4b28abac.ico",
+						"description": "ACG资源检索下载",
+						"suffix": true,
+						"is_show": true
+					},
+					{
+						"title": "漫猫动漫",
+						"url": "https://comicat.org/",
+						"icon": "https://img.fre123.com/i/2023/12/14/6579d9c1844d0.jpg",
+						"description": "动画/漫画/游戏/动漫音乐/片源BT分享下载",
+						"suffix": true,
+						"is_show": true
+					},
+					{
+						"title": "airAnime",
+						"url": "https://air.tls.moe/#/home",
+						"icon": "https://img.fre123.com/i/2023/12/13/6579a8317c4a1.jpg",
+						"description": "轻量的聚合番剧搜索工具",
+						"suffix": true,
+						"is_show": true
+					},
+					{
+						"title": "萌番组",
+						"url": "https://bangumi.moe/",
+						"icon": "https://img.fre123.com/i/2023/12/13/6579a462818f1.jpg",
+						"description": "番剧种子资源下载网站",
+						"suffix": true,
+						"is_show": true
+					},
+					{
+						"title": "Browse :: Nyaa",
+						"url": "https://nyaa.si/",
+						"icon": "https://img.fre123.com/i/2023/12/13/65799e1f1ad15.png",
+						"description": "一个番剧下载资源网站",
+						"suffix": true,
+						"is_show": true
+					}
+				]
+			}
+		]
+	},
+	{
+		"group_name": "小说漫画",
+		"style": 1,
+		"style_des": "小说漫画",
+		"tab_list": [
+			{
+				"tab_name": "小说精选",
+				"upper_right_corner": {},
+				"details": [
+					{
+						"title": "owlook",
+						"url": "https://www.owlook.com.cn/",
+						"icon": "https://www.owlook.com.cn/static/novels/img/logo_home.png",
+						"description": "owllook支持在线阅读，提供检索服务，最清新简洁的阅读体验，无广告，页面清爽，免费全本小说",
+						"suffix": false,
+						"is_show": true
+					},
+					{
+						"title": "燃文小说",
+						"url": "https://www.ygshu.com/",
+						"icon": "https://img.fre123.com/i/2024/01/16/65a56b8693096.jpg",
+						"description": "燃文小说是广大书友最值得收藏的热门小说阅读网，网站收录了当前最火热的热门小说，免费提供高质量的小说最新章节，是广大热门小说爱好者必备的小说阅读网。",
+						"suffix": false,
+						"is_show": true
+					},
+					{
+						"title": "香书小说",
+						"url": "https://www.ibiquges.org/",
+						"icon": "https://www.ibiquges.org/favicon.ico",
+						"description": "香书小说是广大书友最值得收藏的网络小说阅读网，香书小说收录了当前最火热的网络小说，香书小说免费提供高质量的小说最新章节，香书小说是广大网络小说爱好者必备的小说阅读网。",
+						"suffix": false,
+						"is_show": true
+					},
+					{
+						"title": "搜搜小说网",
+						"url": "https://www.dwrl.net/",
+						"icon": "https://img.fre123.com/i/2024/01/16/65a566a307861.jpg",
+						"description": "搜搜小说网全本小说网是免费小说阅读网站，提供各类完结总排行榜榜单。",
+						"suffix": false,
+						"is_show": true
+					},
+					{
+						"title": "红薯小说网",
+						"url": "https://www.happycolon.net/",
+						"icon": "https://img.fre123.com/i/2024/01/16/65a5699805fdf.jpg",
+						"description": "红薯小说网致力于打造无广告无弹窗的在线小说阅读网站，提供小说在线阅读，小说TXT全文，网站没有弹窗广告页面简洁。",
+						"suffix": false,
+						"is_show": true
+					},
+					{
+						"title": "全本小说网",
+						"url": "https://www.quanben.io/",
+						"icon": "https://img.fre123.com/i/2024/01/16/65a56afec4dee.ico",
+						"description": "全本小说无弹窗《全本小说》最好看的小说阅读网。全本小说提供海量全本小说免费阅读，是您值得收藏的免费小说阅读网站。",
+						"suffix": false,
+						"is_show": true
+					},
+					{
+						"title": "新笔趣阁",
+						"url": "https://www.xxbqg5200.com/",
+						"icon": "https://img.fre123.com/i/2024/01/16/65a567a4c8b0f.ico",
+						"description": "新笔趣阁是最值得收藏的免费小说阅读网,为您推荐最好看的网络热门小说,本站小说最新章节更新速度快,阅读流畅,所有小说免费在线阅读,找好看的网络小说就上新笔趣阁。",
+						"suffix": false,
+						"is_show": true
+					},
+					{
+						"title": "天涯书库",
+						"url": "https://www.tianyabooks.com/",
+						"icon": "https://img.fre123.com/i/2024/01/16/65a56889e30e5.jpg",
+						"description": "天涯书库收录全球华人文学,世界文学,,校园小说,都市小说,网络小说,恐怖惊悚小说,推理小说,科幻小说,玄幻小说,武侠小说,言情小说,作家文集等.",
+						"suffix": false,
+						"is_show": true
+					},
+					{
+						"title": "读小说吧",
+						"url": "http://www.duxs8.com/",
+						"icon": "https://img.fre123.com/i/2024/01/16/65a566725894f.ico",
+						"description": "读小说吧主要提供网络小说在线阅读，包括历史，言情，玄幻等题材小说",
+						"suffix": false,
+						"is_show": true
+					},
+					{
+						"title": "59文学网",
+						"url": "https://www.ipwang.net/",
+						"icon": "https://img.fre123.com/i/2024/01/16/65a56749ce85b.jpg",
+						"description": "59文学网是广大书友最值得收藏的网络小说阅读网，网站收录了当前最火热的网络小说，免费提供高质量的小说最新章节，是广大网络小说爱好者必备的小说阅读网。",
+						"suffix": false,
+						"is_show": true
+					},
+
+					{
+						"title": "追书网",
+						"url": "http://www.kkzw.cc/",
+						"icon": "https://img.fre123.com/i/2024/01/16/65a56c042b766.jpg",
+						"description": "追书网是广大书友最值得收藏的免费小说阅读网，网站收录了当前最火热的免费小说，免费提供高质量的小说最新章节，是广大免费小说爱好者必备的小说阅读网。",
+						"suffix": false,
+						"is_show": true
+					},
+					{
+						"title": "知轩藏书",
+						"url": "https://zxcs.info/",
+						"icon": "https://img.fre123.com/i/2024/01/16/65a56cd10e169.jpg",
+						"description": "知轩藏书,玄幻小说排行榜-校对全本TXT小说下载网",
+						"suffix": false,
+						"is_show": true
+					},
+					{
+						"title": "书趣阁",
+						"url": "https://wap.ishuquge.net/",
+						"icon": "https://wap.ishuquge.net/favicon.ico",
+						"description": "免费全本小说在线观看，观看小说搜索第一站点",
+						"suffix": false,
+						"is_show": true
+					},
+					{
+						"title": "书格",
+						"url": "https://www.shuge.org/",
+						"icon": "https://txcdn.shuge.org/wp-content/uploads/2018/06/shugeorg-icon.png",
+						"description": "书格是一个自由开放的在线古籍图书馆。致力于开放式分享、介绍、推荐有价值的古籍善本、字画，并鼓励将文化艺术作品数字化归档。",
+						"suffix": false,
+						"is_show": true
+					},
+					{
+						"title": "567文学",
+						"url": "https://m.567txt.com/",
+						"icon": "http://p2.music.126.net/1quz-PZDJG9PMdpMtqz46A==/109951163048869320.jpg?param=140y140",
+						"description": "本站所有作品都是转载小说，如有侵权请告知！",
+						"suffix": false,
+						"is_show": true
+					},
+					{
+						"title": "七秒电子书",
+						"url": "https://www.7sebook.com/",
+						"icon": "https://www.7sebook.com/wp-content/uploads/2023/11/qi-miao-dian-zi-shu-1.png",
+						"description": "七秒电子书---在这个快节奏的时代，阅读或许已成为一种奢侈。",
+						"suffix": false,
+						"is_show": true
+					},
+					{
+						"title": "雅书博客",
+						"url": "https://yabook.blog/",
+						"icon": "https://yabook.blog/skin/Yabook/include/yabook.png",
+						"description": "雅书---个人学习好书推荐博客",
+						"suffix": false,
+						"is_show": true
+					},
+					{
+						"title": "偶书",
+						"url": "hhttps://obook.cc/",
+						"icon": "https://obook.cc/uploadfile/logo/logo.png?v=2.70",
+						"description": "偶遇小驻，发现好书。",
+						"suffix": false,
+						"is_show": true
+					}
+				]
+			},
+			{
+				"tab_name": "漫画阅读",
+				"upper_right_corner": {},
+				"details": [
+					{
+						"title": "包子漫画",
+						"url": "https://cn.baozimh.com",
+						"icon": "https://img.fre123.com/i/2023/11/25/6561b8d372fc7.png",
+						"description": "包子漫画为您提供优质的漫画阅读体验。",
+						"suffix": true,
+						"is_show": true
+					},
+					{
+						"title": "动漫之家",
+						"url": "https://www.idmzj.com/category",
+						"icon": "https://img.fre123.com/i/2023/12/14/6579de3cda8bf.jpg",
+						"description": "国内最全最专业的在线漫画、原创漫画、最好看的动漫网站，每周更新各种原创漫画、日本动漫，动画片大全、漫画大全",
+						"suffix": true,
+						"is_show": true
+					},
+					{
+						"title": "极速漫画",
+						"url": "https://www.1kkk.com/",
+						"icon": "https://img.fre123.com/i/2024/01/06/6598656fdbd9b.png",
+						"description": "原创国漫,日本漫画,港台漫画,韩国漫画,欧美漫画,好漫画,为看漫画的人而生。热门漫画：火影忍者、海贼王1061、死神、一拳超人216、古惑仔88、山海逆战906等",
+						"suffix": true,
+						"is_show": false
+					},
+					{
+						"title": "漫自由",
+						"url": "https://mhx12.com/",
+						"icon": "https://img.fre123.com/i/2023/12/14/6579d8b1dce35.png",
+						"description": "一個由漫畫愛好者維護的分享平台,提供高清mobi,epub格式漫畫下載",
+						"suffix": true,
+						"is_show": true
+					},
+					{
+						"title": "SF漫画",
+						"url": "https://manhua.sfacg.com/",
+						"icon": "https://img.fre123.com/i/2023/12/14/6579ddcf60133.png",
+						"description": "老牌漫画网站，提供海量漫画,更新最快在线漫画欣赏、无弹窗清爽阅读环境",
+						"suffix": true,
+						"is_show": false
+					},
+					{
+						"title": "爱优漫",
+						"url": "https://www.iyouman.com/",
+						"icon": "https://img.fre123.com/i/2024/01/06/65986383a3965.png",
+						"description": "爱优漫带来热门的斗破苍穹漫画免费阅读,绝世唐门漫画,舞动乾坤漫画,神医嫡女漫画,妖神记漫画免费阅读，飒漫画，飒漫乐画，神漫，漫画世界，漫画show，漫画party等好看的国漫杂志连载，还有当下热门的斗罗大陆漫画免费阅读。",
+						"suffix": true,
+						"is_show": false
+					},
+					{
+						"title": "漫漫漫画",
+						"url": "https://www.manmanapp.com/",
+						"icon": "https://img.fre123.com/i/2023/12/14/6579ddf1ddd5d.png",
+						"description": "国内二次元漫画平台，连载大量原创正版国漫。",
+						"suffix": true,
+						"is_show": false
+					},
+					{
+						"title": "动漫屋",
+						"url": "https://www.dm5.com/",
+						"icon": "https://img.fre123.com/i/2023/12/14/6579d8d2d628d.png",
+						"description": "好漫画,为看漫画的人而生",
+						"suffix": true,
+						"is_show": false
+					},
+					{
+						"title": "漫畫狗",
+						"url": "https://dogemanga.com/",
+						"icon": "https://img.fre123.com/i/2023/12/14/6579d8ec4fc48.png",
+						"description": "網路漫畫上傳分享平台",
+						"suffix": true,
+						"is_show": true
+					},
+					{
+						"title": "新新漫画",
+						"url": "https://www.77mh.nl/",
+						"icon": "https://img.fre123.com/i/2023/12/14/6579d9092cf1b.png",
+						"description": "第一时间更新。漫画资源相当丰富，只有你想不到的，没有看不到的，每天更新百部漫画。",
+						"suffix": true,
+						"is_show": true
+					},
+					{
+						"title": "动漫啦",
+						"url": "https://www.dongman.la/",
+						"icon": "https://img.fre123.com/i/2023/12/14/6579d920340ea.png",
+						"description": "原盒子漫画，10年经典漫画站点，全新改版归来，无广告的清新漫画站点，依旧为您提供最新最全的漫画。",
+						"suffix": true,
+						"is_show": true
+					},
+					{
+						"title": "动漫狂",
+						"url": "https://www.cartoonmad.com/",
+						"icon": "https://img.fre123.com/i/2023/12/14/6579d98e01f1b.png",
+						"description": "",
+						"suffix": true,
+						"is_show": false
+					},
+					{
+						"title": "komiic 漫画",
+						"url": "https://komiic.com/",
+						"icon": "https://img.fre123.com/i/2023/12/26/6589e4f0c0c8c.png",
+						"description": "资源丰富，定期更新",
+						"suffix": true,
+						"is_show": true
+					},
+					{
+						"title": "风之动漫",
+						"url": "https://www.fffdm.com/",
+						"icon": "https://img.fre123.com/i/2023/12/26/6589e4d95be07.jpeg",
+						"description": "FFF风之动漫成立于2020年,是一个在为大中华区动漫爱好者分享动漫、游戏、轻小说等的多次元动漫站点。",
+						"suffix": true,
+						"is_show": true
+					},
+					{
+						"title": "奇漫屋",
+						"url": "http://qmanwu2.com/",
+						"icon": "https://img.fre123.com/i/2024/01/06/6598629864a0c.png",
+						"description": "奇漫屋为您推荐当前最热门，全网最新最全漫画，漫画免费在线观看，经典漫画，2018热门漫画大全，2019最新漫画，下拉式漫画免费观看。最快更新漫画。",
+						"suffix": true,
+						"is_show": false
+					},
+					{
+						"title": "神漫画",
+						"url": "https://www.taomanhua.com/",
+						"icon": "https://img.fre123.com/i/2024/01/06/659864c6558df.png",
+						"description": "神采飞扬、漫画天堂。神漫画免费提供绝世唐门漫画、神印王座漫画、妖神记漫画和元尊漫画免费阅读，在线看神漫漫画就来神漫画！",
+						"suffix": true,
+						"is_show": false
+					},
+					{
+						"title": "古风漫画网",
+						"url": "https://www.gufengmh.com/",
+						"icon": "https://img.fre123.com/i/2024/01/06/6598651b03887.png",
+						"description": "古风漫画网专注古风漫画，言情漫画，少女爱情等类型的漫画。古风漫画网第一时间更新天才小毒妃漫画，大角虫漫画，王牌校草漫画，指染成婚漫画等好看的漫画，看古风、少女爱情等类型漫画最好的网站！",
+						"suffix": true,
+						"is_show": true
+					},
+
+					{
+						"title": "看漫画",
+						"url": "https://www.kanman.com/",
+						"icon": "https://img.fre123.com/i/2024/01/06/659865edb3fd6.png",
+						"description": "看漫画致力于打造国内知名的正版漫画阅读平台，拥有偷星九月天、斗罗大陆、斗破苍穹、浪漫传说、暴走邻家等大批优秀国产漫画的正版授权。",
+						"suffix": true,
+						"is_show": false
+					},
+					{
+						"title": "咚漫漫画",
+						"url": "https://dongmanmanhua.cn/",
+						"icon": "https://img.fre123.com/i/2024/01/06/659867081fdfa.jpg",
+						"description": "全球数字漫画服务平台，咚漫提供每日更新超过200个高清正版免费漫画，立志于为用户提供独家优质原创漫画，成为更适合二次元用户的漫画内容平台。",
+						"suffix": true,
+						"is_show": false
+					},
+					{
+						"title": "漫本",
+						"url": "https://www.manben.com/",
+						"icon": "https://img.fre123.com/i/2024/01/06/6598678d4eb92.png",
+						"description": "漫本是首个华人原创漫画分享平台，平台汇集了华人范围内最具潜力的创客、原创漫画精品及大量互联网发行渠道",
+						"suffix": true,
+						"is_show": true
+					},
+					{
+						"title": "吾爱看漫画",
+						"url": "https://5ikmh.ink/",
+						"icon": "https://img.fre123.com/i/2024/01/15/65a4243add32e.jpg",
+						"description": "有着专业的mobi，pdf格式漫画制作技术，做最好的漫画资源下载站，提供手机，电子书，平板电脑看漫画最佳阅读体验。本着充实个人生活，提高生活品质的理念，从诸多漫画中挑选出值得观看的经典漫画，本站宗旨：不求最多，只求最精。",
+						"suffix": true,
+						"is_show": false
+					},
+					{
+						"title": "漫画屋",
+						"url": "https://www.bq8.org/",
+						"icon": "https://img.fre123.com/i/2024/01/15/65a4252d09b96.ico",
+						"description": "笔趣吧漫画为您提供优质的漫画阅读体验，日本漫画,港台漫画,韩国漫画,欧美漫画,好漫画。热门漫画：火影忍者、海贼王、死神、一拳超人、古惑仔等漫画阅读网站，就在笔趣阁漫画",
+						"suffix": true,
+						"is_show": false
+					},
+					{
+						"title": "yymanhua",
+						"url": "https://www.yymanhua.com/",
+						"icon": "https://img.fre123.com/i/2024/01/15/65a4260f700e0.ico",
+						"description": "yymanhua是全網資源最全的在線漫畫、日本漫畫閱讀平臺。擁有時下最熱門的日漫作品：鬼滅之刃、一拳超人244、海賊王1103、火影忍者、死神等。超快的更新速度，第一時間為你奉上極致的閱讀體驗。",
+						"suffix": true,
+						"is_show": true
+					},
+					{
+						"title": "大树漫画",
+						"url": "https://www.dashumanhua.com/",
+						"icon": "https://img.fre123.com/i/2024/01/15/65a426b0960dd.ico",
+						"description": "大树漫画免费提供最新的连载漫画、完结漫画在线下拉式观看。想看优质人气漫画，就来大树漫画！",
+						"suffix": true,
+						"is_show": true
+					},
+					{
+						"title": "仙漫网",
+						"url": "https://www.gaonaojin.com/",
+						"icon": "https://img.fre123.com/i/2024/01/15/65a426e4277d6.ico",
+						"description": "仙漫网就是任性，最好看的免费漫画在线看，1万部万话涵括日本漫画，国产漫画等海内外知名外面，您也可以发表您的原创作品，我们将会为您推荐！",
+						"suffix": true,
+						"is_show": false
+					},
+					{
+						"title": "喵上漫画",
+						"url": "https://www.miaoshangmanhua.com/",
+						"icon": "https://img.fre123.com/i/2024/01/15/65a4271fb4b68.jpg",
+						"description": "喵上漫画网无弹窗广告的在线漫画阅读网站，喵上漫画为您提供优质的漫画阅读体验.",
+						"suffix": true,
+						"is_show": true
+					},
+					{
+						"title": "漫画之路",
+						"url": "https://www.manhualu.com/",
+						"icon": "https://img.fre123.com/i/2024/01/15/65a4275e22586.ico",
+						"description": "漫画之路每天更新最新漫画内容，免费在线漫画阅读，只为懂漫画的你而更新！",
+						"suffix": true,
+						"is_show": false
+					}
+				]
+			}
+		]
+	},
+	{
+		"group_name": "书籍天地",
+		"style": 1,
+		"style_des": "标准风格",
+		"tab_list": [
+			{
+				"tab_name": "推荐站点",
+				"upper_right_corner": {},
+				"details": [
+					{
+						"title": "微信在线阅读",
+						"url": "https://weread.qq.com/",
+						"icon": "https://rescdn.qqmail.com/node/wr/wrpage/style/images/independent/favicon/favicon_48h.png",
+						"description": "正版书籍说免费阅读",
+						"suffix": false,
+						"is_show": true
+					},
+					{
+						"title": "IT书籍",
+						"url": "https://itpanda.net/book/",
+						"icon": "https://itpanda.net/static/img/logo.png",
+						"description": "计算机书籍下载站，程序员书籍学习网址",
+						"suffix": false,
+						"is_show": true
+					},
+					{
+						"title": "什么值得读-互联网人",
+						"url": "https://www.shenmezhidedu.com/",
+						"icon": "https://www.shenmezhidedu.com/wp-content/uploads/2020/02/cropped-2020022005321023-32x32.png",
+						"description": "提供家庭教育方面的各类资料、书籍和工具的在线平台。",
+						"suffix": false,
+						"is_show": true
+						},
+						{
+						"title": "无名图书",
+						"url": "https://www.book123.info/",
+						"icon": "https://www.book123.info/apple-touch-icon.png",
+						"description": "提供包括小说、漫画、文学等在内的各类图书资源的在线下载和阅读平台。",
+						"suffix": false,
+						"is_show": true
+						},
+						{
+						"title": "电子图书公益阅读",
+						"url": "http://read.nlc.cn/menhu/gyyd/index",
+						"icon": "http://p1.music.126.net/EvMYkma640_ztqWqjnuRLw==/5953855464572474.jpg?param=140y140",
+						"description": "提供图书馆借阅、读者交流和在线阅读等功能的综合平台。",
+						"suffix": false,
+						"is_show": true
+						},
+						{
+						"title": "安娜的档案",
+						"url": "https://zh.annas-archive.org/",
+						"icon": "http://p1.music.126.net/FfonZdsWRYlRX5CzMOG__w==/7942871999127483.jpg?param=140y140",
+						"description": "提供不同领域的研究文献和知识资料的在线平台。",
+						"suffix": false,
+						"is_show": true
+						},
+						{
+							"title": "三秋书屋 - 一日不见如隔三秋",
+							"url": "https://www.sanqiu.mobi/",
+							"icon": "http://p1.music.126.net/ssmGC5NSAG4hDAV9Yv1NoA==/109951165737454973.jpg?param=140y140",
+							"description": "提供小说、漫画、杂志等在线阅读和下载服务的平台。",
+							"suffix": false,
+							"is_show": true
+						},
+						{
+							"title": "书阁星球屋-盐选精读",
+							"url": "https://yx.cbge.top/",
+							"icon": "https://yx.cbge.top/wp-content/themes/baolog-0.4.3/logo.ico",
+							"description": "盐选书阁，还原阅读本质。",
+							"suffix": false,
+							"is_show": true
+						}
+				]
+			},
+			{
+				"tab_name": "书籍搜索",
+				"upper_right_corner": {},
+				"details": [
+					{
+						"title": "鸠摩搜索",
+						"url": "https://www.jiumodiary.com/",
+						"icon": "https://www2.jiumodiary.com/images/front/eleps.png",
+						"description": "文档搜素引擎，书籍搜集神器网站",
+						"suffix": false,
+						"is_show": true
+					},
+					{
+						"title": "FreeBOOK搜索",
+						"url": "https://freembook.com/",
+						"icon": "https://oss.zklhy.com/template/default/images/11/bitbug_favicon.ico",
+						"description": "一个搜索框，书籍搜索一触即达",
+						"suffix": false,
+						"is_show": true
+					},
+					{
+						"title": "无名图书",
+						"url": "https://www.book123.info/",
+						"icon": "https://static.book123.info/web_images/logo.png",
+						"description": "一个好看的电子书网站",
+						"suffix": false,
+						"is_show": true
+					},
+					{
+						"title": "Book Searcher",
+						"url": "https://zlib.knat.network/",
+						"icon": "https://nav.newzone.top/wp-content/uploads/2021/01/cropped-favicon-32x32.png",
+						"description": "提供全球图书资源搜索和下载的在线平台。",
+						"suffix": false,
+						"is_show": true
+					},
+					{
+						"title": "FreeMbook Search",
+						"url": "https://freembook.com/",
+						"icon": "https://nav.newzone.top/wp-content/uploads/2021/01/cropped-favicon-32x32.png",
+						"description": "提供免费电子书搜索和下载的在线平台。",
+						"suffix": false,
+						"is_show": true
+					},
+					{
+						"title": "找书网",
+						"url": "https://findbooks.eu.org/",
+						"icon": "https://findbooks.eu.org/view/kongtou8/img/favicon.ico",
+						"description": "书籍搜素引擎，书籍搜集神器网站",
+						"suffix": false,
+						"is_show": true
+					},
+					{
+						"title": "免费Kindle电子书",
+						"url": "https://www.amazon.cn/Kindle免费电子书/b?node=116175071",
+						"icon": "https://www.amazon.cn/favicon.ico",
+						"description": "Amazon旗下提供免费电子书资源的在线平台。",
+						"suffix": false,
+						"is_show": true
+					},
+					{
+						"title": "书易 | 电子书下载阅读导航",
+						"url": "https://shuyi.shenmezhidedu.com/?from=s",
+						"icon": "https://shuyi.shenmezhidedu.com/wp-content/uploads/2021/10/appleicon.png",
+						"description": "提供中文图书、英文图书、工具书等各类资源的在线下载和阅读导航。",
+						"suffix": false,
+						"is_show": true
+					}
+              ]
+			},
+			{
+				"tab_name": "书籍资源",
+				"upper_right_corner": {},
+				"details": [
+					{
+						"title": "公文馆",
+						"url": "http://gongwenguan.com/",
+						"icon": "https://img.fre123.com/i/2024/01/05/659817afe54ca.png",
+						"description": "提供政府机构、政法机关公文，体制内加油站",
+						"suffix": false,
+						"is_show": true
+					},
+					{
+						"title": "免费Kindle电子书",
+						"url": "https://www.amazon.cn/b?node=2361311071",
+						"icon": "https://www.amazon.cn/favicon.ico",
+						"description": "Amazon旗下提供免费电子书资源的在线平台。",
+						"suffix": false,
+						"is_show": true
+					},
+					{
+						"title": "全国图书馆参考联盟",
+						"url": "http://www.ucdrs.superlib.net/",
+						"icon": "http://www.ucdrs.superlib.net/favicon.ico",
+						"description": "全国图书馆参考联盟，提供免费书籍搜索引擎",
+						"suffix": false,
+						"is_show": true
+					},
+					{
+						"title": "书享家导航",
+						"url": "https://www.shuxiangjia.cn/",
+						"icon": "http://p1.music.126.net/uTmbNq7aJm7JTEAsUNCeDA==/109951166169282861.jpg?param=140y140",
+						"description": "提供各类图书和电子书的下载和在线阅读导航。",
+						"suffix": false,
+						"is_show": true
+						},
+						{
+						"title": "熊猫搜书",
+						"url": "https://xmsoushu.com/",
+						"icon": "https://xmsoushu.com/favicon.ico",
+						"description": "提供小说、杂志、漫画等资源的在线搜索和下载平台。",
+						"suffix": false,
+						"is_show": true
+						},
+						{
+						"title": "走读派读书导航",
+						"url": "http://zoudupai.com/",
+						"icon": "http://shu.ziyuandi.cn/favicon.ico",
+						"description": "集合多个图书资源网站的综合导航平台。",
+						"suffix": false,
+						"is_show": true
+						},
+						{
+						"title": "资源帝电子书导航",
+						"url": "http://shu.ziyuandi.cn/",
+						"icon": "http://shu.ziyuandi.cn/favicon.ico",
+						"description": "提供各类图书资源的在线下载和阅读导航。",
+						"suffix": false,
+						"is_show": true
+						},
+						{
+						"title": "中国古典文献资源导航",
+						"url": "https://www.kuizhangge.cn/",
+						"icon": "https://www.kuizhangge.cn/favicon.ico",
+						"description": "集合了大量古籍和历史文献资源的综合导航平台。",
+						"suffix": false,
+						"is_show": true
+						},
+						{
+						"title": "BOOK",
+						"url": "https://xydh.fun/gongzitian",
+						"icon": "https://xydh.fun/favicon.ico",
+						"description": "提供免费小说、漫画、轻小说等在线阅读和下载的平台导航",
+						"suffix": false,
+						"is_show": true
+						}
+				]
+			}
+		]
+	},
+
+	{
+		"group_name": "音乐休闲",
+		"style": 1,
+		"style_des": "标准风格",
+		"tab_list": [
+			{
+				"tab_name": "在线听歌",
+				"upper_right_corner": {},
+				"details": [
+					{
+						"title": "小白の音乐播放器",
+						"url": "https://music.huangyong.link/",
+						"icon": "http://p1.music.126.net/WpZYSUKPZxnvf-_FuBw57g==/109951169136584705.jpg?param=140y140",
+						"description": "一款免费简约的歌单列表在线音乐播放器，小白自建",
+						"suffix": false,
+						"is_show": true
+					},
+					{
+						"title": "mmPlayer-在线音乐播放器",
+						"url": "https://netease-music.fe-mm.com/#/music/playlist",
+						"icon": "http://p2.music.126.net/736GsWVCeK7i9VP6j2vfkA==/109951169135273347.jpg?param=140y140",
+						"description": "一款免费的在线音乐播放器",
+						"suffix": false,
+						"is_show": true
+					},
+					{
+						"title": "MyFreeMP3",
+						"url": "https://tools.liumingye.cn/music/#/",
+						"icon": "https://tools.liumingye.cn/favicon.ico",
+						"description": "myfreeMP3音乐播放列表，有些可下载",
+						"suffix": false,
+						"is_show": true
+					},
+					{
+						"title": "在线音乐播放器",
+						"url": "https://music.zhuolin.wang/",
+						"icon": "http://p1.music.126.net/2rux5LnJey75tm9Md-9D-Q==/2890616070443534.jpg?param=140y140",
+						"description": "Vip付费音乐免费下载，一站式音乐播放器",
+						"suffix": false,
+						"is_show": true
+					},
+					{
+						"title": "铜钟",
+						"url": "https://tonzhon.com/",
+						"icon": "https://img.fre123.com/i/2024/01/06/65985ed2a626a.png",
+						"description": "PC端免费音乐平台",
+						"suffix": false,
+						"is_show": true
+					},
+					{
+						"title": "简繁音乐",
+						"url": "https://pt.sayqz.com/",
+						"icon": "https://img.fre123.com/i/2024/01/06/65985eeb98d91.png",
+						"description": "一个简约的在线音乐播放器，具有音乐搜索、播放、每日推荐、私人FM、歌词显示、歌曲评论、网易云登录与云盘等功能",
+						"suffix": false,
+						"is_show": true
+					},
+					{
+						"title": "魅力音乐",
+						"url": "https://www.meiliyizu.com/",
+						"icon": "https://img.fre123.com/i/2024/01/06/65985ec12f5b5.png",
+						"description": "无损音乐免费下载",
+						"suffix": false,
+						"is_show": true
+					},
+					{
+						"title": "在线音乐播放器",
+						"url": "https://mp3.xsle.cn/",
+						"icon": "https://img.fre123.com/i/2024/01/06/65985f1618ea1.png",
+						"description": "一款开源的基于网易云音乐api的在线音乐播放器",
+						"suffix": false,
+						"is_show": true
+					},
+					{
+						"title": "MyFreeMP3",
+						"url": "https://music.liumingye.cn",
+						"icon": "https://img.fre123.com/i/2024/01/06/65985eb383091.png",
+						"description": "免费的全网无损音乐下载站",
+						"suffix": false,
+						"is_show": true
+					},
+					{
+						"title": "LFAC 音乐盒",
+						"url": "http://box.flac.ltd/",
+						"icon": "https://img.fre123.com/i/2024/01/12/65a05264a8050.ico",
+						"description": "vip音乐解析下载,付费音乐解析mp3免费下载网，可下载收费音乐，免费下载收费歌曲！",
+						"suffix": false,
+						"is_show": true
+					},
+					{
+						"title": "全球收音机｜FM",
+						"url": "https://sao.fm/",
+						"icon": "https://s1.music.126.net/style/favicon.ico?v20180823",
+						"description": "全球在线电台，涵盖各地中英文音乐、新闻等多种类型节目",
+						"suffix": false,
+						"is_show": true
+					},
+					{
+						"title": "MusicFree",
+						"url": "https://musicfree.upup.fun/",
+						"icon": "https://img.fre123.com/i/2024/01/06/65985f063b29f.jpeg",
+						"description": "一个插件化的音乐播放器",
+						"suffix": false,
+						"is_show": true
+					},
+					{
+						"title": "千千音乐",
+						"url": "https://music.91q.com/",
+						"icon": "https://music.91q.com/favicon.ico",
+						"description": "全网音乐播放器，全网音乐合集列表",
+						"suffix": false,
+						"is_show": true
+					}
+				]
+			},
+			{
+				"tab_name": "歌曲下载",
+				"upper_right_corner": {},
+				"details": [
+					{
+						"title": "歌曲宝-下载",
+						"url": "https://www.gequbao.com/",
+						"icon": "https://www.gequbao.com/static/img/logo.png",
+						"description": "找歌就用歌曲宝，MP3音乐免费下载",
+						"suffix": false,
+						"is_show": true
+					},
+					{
+						"title": "送歌网",
+						"url": "https://www.songe.cc/",
+						"icon": "http://p1.music.126.net/mq454-NlQpbwZwWzm1NeyQ==/18863221486184746.jpg?param=140y140",
+						"description": "免费音乐MP3下载神器，外链直接下载",
+						"suffix": false,
+						"is_show": true
+					},
+					{
+						"title": "无损音乐下载站",
+						"url": "https://www.86109.com/",
+						"icon": "https://www.86109.com/style/images/logo.png",
+						"description": "无损音乐高品质、MP3免费下载",
+						"suffix": false,
+						"is_show": true
+					},
+					{
+						"title": "下歌吧",
+						"url": "https://xiageba.com/",
+						"icon": "https://img.fre123.com/i/2024/01/06/65985e7b78bbd.png",
+						"description": "高品质无损音乐网盘下载",
+						"suffix": false,
+						"is_show": true
+					},
+					{
+						"title": "Free MP3 Download",
+						"url": "https://free-mp3-download.net/",
+						"icon": "https://img.fre123.com/i/2024/01/06/65985e8fcc35f.png",
+						"description": "免费全网无损音乐下载工具",
+						"suffix": false,
+						"is_show": true
+					},
+					{
+						"title": "音乐仓库",
+						"url": "https://www.cangkus.com/music",
+						"icon": "https://img.fre123.com/i/2024/01/06/65985ea83e830.png",
+						"description": "一个无损音乐资源分享网站",
+						"suffix": false,
+						"is_show": true
+					},
+
+					{
+						"title": "HiFiNi音乐磁场",
+						"url": "https://hifini.com/",
+						"icon": "https://img.fre123.com/i/2024/01/06/65985edec2184.png",
+						"description": "音乐爱好者维护的无损音乐免费下载平台",
+						"suffix": false,
+						"is_show": true
+					},
+					{
+						"title": "MusicEnc",
+						"url": "https://www.musicenc.com/",
+						"icon": "https://img.fre123.com/i/2024/01/06/65985f26eb75f.png",
+						"description": "可以搜索试听歌曲，可保存音乐",
+						"suffix": false,
+						"is_show": true
+					},
+					{
+						"title": "猫耳FM",
+						"url": "https://www.missevan.com/sound/m/8",
+						"icon": "https://img.fre123.com/i/2024/01/06/65985f5f48f53.jpg",
+						"description": "M站(猫耳FM)是第一家弹幕音图站,同时也是中国声优基地,在这里可以听电台,音乐,翻唱,小说和广播剧,用二次元声音连接三次元.",
+						"suffix": false,
+						"is_show": true
+					},
+					{
+						"title": "YesPlayMusic",
+						"url": "https://music.qier222.com/",
+						"icon": "https://img.fre123.com/i/2024/01/06/65985f3e10a54.png",
+						"description": "最好用的第三方网易云客户端，自动解锁变灰歌曲",
+						"suffix": false,
+						"is_show": true
+					},
+					{
+						"title": "Lofi ICU音乐",
+						"url": "https://lofi.icu/",
+						"icon": "https://img.fre123.com/i/2024/01/06/65985f702d0bc.jpg",
+						"description": "一个提供高保真音乐和现场广播流精选的网站",
+						"suffix": false,
+						"is_show": true
+					},
+					{
+						"title": "slider.kz",
+						"url": "https://slider.kz/",
+						"icon": "https://slider.kz/favicon.ico",
+						"description": "页面简洁，乐库资源丰富，支持搜索和下载全球音乐",
+						"suffix": false,
+						"is_show": false
+					},
+					{
+						"title": "dtshot",
+						"url": "https://www.dtshot.com/songs",
+						"icon": "https://img.fre123.com/i/2024/01/09/659c3f53de424.ico",
+						"description": "DTSHOT为您收集最新最全的免费无损音乐下载。flac、ape、wav、dsd、dts等格式的无损音乐，每日为您提供最新最全的无损音乐！",
+						"suffix": false,
+						"is_show": true
+					}
+				]
+			},
+			{
+				"tab_name": "音乐解析",
+				"upper_right_corner": {},
+				"details": [
+					{
+						"title": "音乐直链解析",
+						"url": "https://music.liuzhijin.cn/",
+						"icon": "https://img.fre123.com/i/2024/01/05/659817afe54ca.png",
+						"description": "提供政府机构、政法机关公文，体制内加油站",
+						"suffix": false,
+						"is_show": true
+					},
+					{
+						"title": "放屁音乐网",
+						"url": "https://www.fangpi.net/",
+						"icon": "https://www.fangpi.net/static/img/logo.png",
+						"description": "一个与歌曲宝类似的音乐解析下载网站",
+						"suffix": false,
+						"is_show": true
+					},
+					{
+						"title": "free-mp3音乐",
+						"url": "https://free-mp3-download.net/",
+						"icon": "https://free-mp3-download.net/img/icon_48.png",
+						"description": "无损音乐免费下载",
+						"suffix": false,
+						"is_show": true
+					},
+					{
+						"title": "gimhoy音乐盘",
+						"url": "https://music.gimhoy.com/list",
+						"icon": "https://cdn.static.gimhoy.com/frontend/favicon.ico",
+						"description": "无限制免费音乐外链，您的私人音乐助理",
+						"suffix": false,
+						"is_show": true
+					},
+					{
+						"title": "音乐解析网址",
+						"url": "https://tool.liumingye.cn/unlock-music/",
+						"icon": "https://tool.liumingye.cn/favicon.ico",
+						"description": "音乐解析网址，上传音乐解析网站",
+						"suffix": false,
+						"is_show": true
+					},
+					{
+						"title": "虾米解析地址url",
+						"url": "https://jx.xmflv.com/?url=",
+						"icon": "https://community.image.video.qpic.cn/v_station_video_web_comment_fbd86c-1_411734343_1694414327274690",
+						"description": "一个简约的在线解析站点+url解析即可。",
+						"suffix": false,
+						"is_show": true
+					},
+					{
+						"title": "VIP付费音乐解析下载",
+						"url": "https://music.zhuolin.wang/",
+						"icon": "https://music.zhuolin.wang/favicon.ico",
+						"description": "VIP付费在线免费音乐解析下载",
+						"suffix": false,
+						"is_show": true
+					}
+				]
+			}
+		]
+	},
+
+	{
+		"group_name": "软件工具",
+		"style": 1,
+		"style_des": "标准风格",
+		"tab_list": [
+			{
+				"tab_name": "软件下载",
+				"upper_right_corner": {},
+				"details": [
+					{
+						"title": "吾爱破解",
+						"url": "https://www.52pojie.cn/",
+						"icon": "https://img.fre123.com/i/2024/01/05/65981d4cd16ad.png",
+						"description": "致力于软件安全与病毒分析的前沿网站",
+						"suffix": false,
+						"is_show": true
+					},
+					{
+						"title": "小众软件",
+						"url": "https://www.appinn.com/",
+						"icon": "https://img.fre123.com/i/2023/12/12/65773dd163b37.jpeg",
+						"description": "分享免费、小巧、实用、有趣、绿色的软件",
+						"suffix": false,
+						"is_show": true
+					},
+					{
+						"title": "异次元软件",
+						"url": "https://www.iplaysoft.com/",
+						"icon": "https://img.fre123.com/i/2024/01/05/65981e0d594ba.png",
+						"description": "专注于推荐优秀软件、app应用和互联网资源，每篇图文评测都极其用心，并提供大量软件资源下载。",
+						"suffix": false,
+						"is_show": true
+					},
+					{
+						"title": "果壳剥壳",
+						"url": "https://www.ghxi.com/",
+						"icon": "https://img.fre123.com/i/2023/12/23/6586612f085fb.png",
+						"description": "果核剥壳是一家综合科技站点，看新闻，分享精品、绿色软件，Windows系统",
+						"suffix": false,
+						"is_show": true
+					},
+					{
+						"title": "亿破姐",
+						"url": "https://www.ypojie.com/",
+						"icon": "https://img.fre123.com/i/2024/01/05/65981f482dacc.png",
+						"description": "网站专注无流氓绿色软件分享、游戏下载、电脑技术、经验教程为一体的站点、安全、纯净、放心、八年磨一剑，不忘初心只为给你最需要的内容。",
+						"suffix": false,
+						"is_show": true
+					},
+					{
+						"title": "微当下载",
+						"url": "https://weidown.com/",
+						"icon": "https://img.fre123.com/i/2024/01/05/65981d8498980.png",
+						"description": "免费的软件下载站，以官方软件、绿色软件、浏览器、单机游戏、手机软件、手机游戏等软件为主，全站下载提供cdn加速，让您享受满速下载的体验。",
+						"suffix": false,
+						"is_show": true
+					},
+					{
+						"title": "423 下载",
+						"url": "https://www.423down.com/",
+						"icon": "https://img.fre123.com/i/2024/01/05/6596f04d241cb.jpg",
+						"description": "更新快、专注去广告类软件输出10年、个人ip品牌软件分享站",
+						"suffix": false,
+						"is_show": true
+					},
+					{
+						"title": "File Eagle",
+						"url": "https://www.fileeagle.com/software",
+						"icon": "https://img.fre123.com/i/2023/12/14/6579e5ad81b4f.png",
+						"description": "免费软件下载：Windows, Mac, Linux",
+						"suffix": false,
+						"is_show": true
+					},
+					{
+						"title": "苹果专区",
+						"url": "https://rss.lxyq.link//#软件工具_苹果专区",
+						"icon": "https://img.fre123.com/i/2024/01/07/6599953104813.png",
+						"description": "MacOS 软件下载网站大全，持续更新！",
+						"suffix": false,
+						"is_show": true
+					},
+					{
+						"title": "微软专区",
+						"url": "https://rss.lxyq.link//#软件工具_微软专区",
+						"icon": "https://img.fre123.com/i/2024/01/07/65999562dfc0b.png",
+						"description": "Windows 软件下载网站大全，持续更新！",
+						"suffix": false,
+						"is_show": true
+					},
+					{
+						"title": "mefcl'blog-分享纯净好资源",
+						"url": "https://www.mefcl.com/",
+						"icon": "https://www.mefcl.com/favicon.ico",
+						"description": "安全可靠的绿色软件分享站",
+						"suffix": false,
+						"is_show": true
+						},
+						{
+						"title": "软仓丨RuanCang.Net",
+						"url": "https://www.ruancang.net/",
+						"icon": "http://img.ruancang.net/win/cang-yuan.svg",
+						"description": "网资源分享、免费软件下载",
+						"suffix": false,
+						"is_show": true
+						},
+						{
+						"title": "异星软件空间",
+						"url": "https://www.yxssp.com/",
+						"icon": "https://www.yxssp.com/wp-content/uploads/2017/12/yx250.png",
+						"description": "分享绿色软件、提供技术支持",
+						"suffix": false,
+						"is_show": true
+						},
+						{
+						"title": "亿破姐",
+						"url": "https://www.ypojie.com/",
+						"icon": "https://www.ypojie.com/favicon.ico",
+						"description": "精品破解软件下载分享",
+						"suffix": false,
+						"is_show": true
+						},
+						{
+						"title": "枫音应用 -实用软件",
+						"url": "https://www.fy6b.com/",
+						"icon": "https://www.fy6b.com/wp-content/uploads/2023/02/2023021905005768.jpg",
+						"description": "提供实用软件、技术交流分享",
+						"suffix": false,
+						"is_show": true
+						},
+						{
+						"title": "分享迷 - 优质精品TV软件",
+						"url": "https://www.fenxm.com/",
+						"icon": "https://www.fenxm.com/zb_users/theme/suiranx_air/image/favicon.ico",
+						"description": "分享精品电视软件，提供技术服务",
+						"suffix": false,
+						"is_show": true
+						},
+						{
+						"title": "脑袋瓜子",
+						"url": "https://www.naodai.org/",
+						"icon": "http://p1.music.126.net/gA6MMdcY7WRNm0bs3W4E7w==/18651015743968707.jpg?param=140y140",
+						"description": "分享免费软件、提供技术支持",
+						"suffix": false,
+						"is_show": true
+						},
+						{
+						"title": "绿盒下载站",
+						"url": "http://www.42xz.com/",
+						"icon": "https://www.42xz3.com/favicon.ico",
+						"description": "提供优秀绿色软件下载服务",
+						"suffix": false,
+						"is_show": true
+						},
+						{
+						"title": "软件学堂",
+						"url": "https://www.xue51.com/",
+						"icon": "https://www.xue51.com/favicon.ico",
+						"description": "提供优秀绿色软件下载服务",
+						"suffix": false,
+						"is_show": true
+						},
+						{
+						"title": "腾讯软件中心",
+						"url": "https://pc.qq.com/",
+						"icon": "https://pc1.gtimg.com/finance/softweb/fav/favicon_32x32.ico",
+						"description": "提供腾讯专属全面安全的软件下载服务",
+						"suffix": false,
+						"is_show": true
+						},
+						{
+						"title": "360软件宝库",
+						"url": "https://baoku.360.cn/",
+						"icon": "https://baoku.360.cn/favicon.ico",
+						"description": "安全便捷找好软件",
+						"suffix": false,
+						"is_show": true
+						},
+						{
+						"title": "小熊下载站",
+						"url": "https://www.bear20.com/",
+						"icon": "https://resource.bear20.com/bear_download/images/favicon.ico",
+						"description": "精选实用免费软件下载",
+						"suffix": false,
+						"is_show": true
+						},
+						{
+						"title": "三点官方软件下载软件",
+						"url": "https://www.pc6.com/softview/SoftView_725964.html",
+						"icon": "https://www.pc6.com/favicon.ico",
+						"description": "提供热门软件下载服务",
+						"suffix": false,
+						"is_show": true
+						},
+						{
+							"title": "联想软件商店",
+							"url": "https://s.zui.com/",
+							"icon": "https://smartdl.lenovo.com.cn/frontend/zui/lenovo.software.ui/images/favicon.ico",
+							"description": "提供专业软件的下载和咨询服务",
+							"suffix": false,
+							"is_show": true
+						},
+						{
+							"title": "PC6下载站",
+							"url": "https://www.pc6.com/bcinfo.html",
+							"icon": "https://www.pc6.com/skin2011/images/logo.png",
+							"description": "提供热门软件下载服务",
+							"suffix": false,
+							"is_show": true
+						}
+				]
+			},
+			{
+				"tab_name": "苹果专区",
+				"upper_right_corner": {},
+				"details": [
+					{
+						"title": "Appstorrent",
+						"url": "https://appstorrent.ru/",
+						"icon": "https://img.fre123.com/i/2023/12/14/6579ebbbde7fe.png",
+						"description": "俄罗斯那边的 macOS 软件下载网站，质量不错",
+						"suffix": false,
+						"is_show": true
+					},
+					{
+						"title": "马可菠萝",
+						"url": "https://www.macbl.com/",
+						"icon": "https://img.fre123.com/i/2023/12/14/6579eaec2b275.png",
+						"description": "分享你喜欢的MAC应用",
+						"suffix": false,
+						"is_show": true
+					},
+					{
+						"title": "麦氪搜",
+						"url": "https://www.imacso.com/",
+						"icon": "https://img.fre123.com/i/2023/12/14/6579ea9e3bdf6.png",
+						"description": "致力于分享优秀的Mac应用软件",
+						"suffix": false,
+						"is_show": true
+					},
+					{
+						"title": "MacYY",
+						"url": "https://www.macyy.cn/",
+						"icon": "https://img.fre123.com/i/2023/12/14/6579eb594c1c7.png",
+						"description": "Mac破解软件分享中心",
+						"suffix": false,
+						"is_show": true
+					},
+					{
+						"title": "PoMac",
+						"url": "https://www.pomac.cc/",
+						"icon": "https://img.fre123.com/i/2023/12/14/6579ea5e7a3cb.png",
+						"description": "精品Mac软件下载站",
+						"suffix": false,
+						"is_show": true
+					},
+					{
+						"title": "MacAPP 分享频道 🪜",
+						"url": "https://macapp.org.cn/",
+						"icon": "https://img.fre123.com/i/2023/12/14/6579ea029f70f.jpg",
+						"description": "精品Mac软件分享 🪜",
+						"suffix": false,
+						"is_show": true
+					}
+				]
+			},
+			{
+				"tab_name": "微软专区",
+				"upper_right_corner": {},
+				"details": [
+					{
+						"title": "Wavse",
+						"url": "https://wavse.com/",
+						"icon": "https://img.fre123.com/i/2024/01/05/659817afe54ca.png",
+						"description": "Windows 单机游戏免费下载",
+						"suffix": false,
+						"is_show": true
+					},
+					{
+						"title": "系统库",
+						"url": "https://www.xitongku.com/",
+						"icon": "https://img.fre123.com/i/2023/12/14/6579e63ebad33.png",
+						"description": "MSDN系统库致力于原版windows生态服务",
+						"suffix": false,
+						"is_show": true
+					},
+					{
+						"title": "HelloWindows",
+						"url": "https://www.hellowindows.cn/",
+						"icon": "https://img.fre123.com/i/2023/12/14/6579e74ec73af.png",
+						"description": "精校完整极致的 Windows系统下载仓储站",
+						"suffix": false,
+						"is_show": true
+					},
+					{
+						"title": "爱纯净",
+						"url": "http://www.aichunjing.com/",
+						"icon": "https://img.fre123.com/i/2024/01/05/65981c5ad5054.png",
+						"description": "Win纯净镜像，激活工具下载",
+						"suffix": false,
+						"is_show": true
+					},
+					{
+						"title": "MSDN原版系统",
+						"url": "https://www.imsdn.cn/",
+						"icon": "https://img.fre123.com/i/2024/01/05/65981bebe3731.png",
+						"description": "Windows 10 MSDN纯净ISO镜像，原版镜像下载。",
+						"suffix": false,
+						"is_show": true
+					},
+					{
+						"title": "MSDN-山己几子木",
+						"url": "https://msdn.sjjzm.com/",
+						"icon": "https://img.fre123.com/i/2023/12/14/6579e6d06a137.png",
+						"description": "原版ISO镜像下载站",
+						"suffix": false,
+						"is_show": true
+					}
+				]
+			}
+		]
+	},
+	{
+		"group_name": "网盘资源",
+		"style": 1,
+		"style_des": "标准风格",
+		"tab_list": [
+			{
+				"tab_name": "综合网盘",
+				"upper_right_corner": {},
+				"details": [
+					{
+						"title": "百度网盘",
+						"url": "https://pan.baidu.com/",
+						"icon": "https://img.fre123.com/i/2024/01/04/65959e58c6f12.png",
+						"description": "支持文件的网络备份、同步和共享服务。空间大，速度快，安全稳定，支持教育网络加速，支持手机。",
+						"suffix": false,
+						"is_show": true
+					},
+					{
+						"title": "腾讯微云",
+						"url": "https://www.weiyun.com",
+						"icon": "https://img.fre123.com/i/2024/01/04/65959e67c8c22.png",
+						"description": "微云是腾讯公司为用户精心打造的一项智能云服务, 您可以通过微云方便地在手机和电脑之间同步文件、推送照片和传输数据。",
+						"suffix": false,
+						"is_show": true
+					},
+					{
+						"title": "阿里云盘",
+						"url": "https://www.aliyundrive.com",
+						"icon": "https://img.fre123.com/i/2024/01/04/65959e70a466a.png",
+						"description": "阿里云盘是一款速度快、不打扰、够安全、易于分享的个人网盘，欢迎你来体验。",
+						"suffix": false,
+						"is_show": true
+					},
+					{
+						"title": "夸克网盘",
+						"url": "https://pan.quark.cn",
+						"icon": "https://img.fre123.com/i/2024/01/04/65959e7b8a24c.png",
+						"description": "夸克浏览器附带功能，兼容夸克浏览器各种智能小工具，支持本地文件管理，在线视频播放等",
+						"suffix": false,
+						"is_show": true
+					},
+					{
+						"title": "115云盘",
+						"url": "https://www.115.com",
+						"icon": "https://img.fre123.com/i/2024/01/04/65959e87e258e.png",
+						"description": "115，专业、安全、好用的个人云存储，让美好与你一生相伴！",
+						"suffix": false,
+						"is_show": true
+					},
+					{
+						"title": "励心缘起的云盘资源站",
+						"url": "http://lixinyuanqi.ysepan.com/",
+						"icon": "https://img01.anheyu.com/useruploads/156/2023/05/15/6461b0385e199.jpg",
+						"description": "超300T云盘资源库，这里有你想要，小白自建！",
+						"suffix": false,
+						"is_show": true
+					},
+					{
+						"title": "万人迷吧云盘导航",
+						"url": "https://www.wanrenmi8.com/cn/index.html",
+						"icon": "https://www.wanrenmi8.com/assets/images/logo.png",
+						"description": "云盘导航资源站，提供丰富的云盘资源下载链接。",
+						"suffix": false,
+						"is_show": true
+					},
+					{
+						"title": "阿里云盘资源导航",
+						"url": "https://aliyun.panpanr.com/",
+						"icon": "https://aliyun.panpanr.com/favicon.ico",
+						"description": "提供阿里云盘资源下载网址的导航网站。",
+						"suffix": false,
+						"is_show": true
+					},
+					{
+						"title": "夸克资源合集系列",
+						"url": "http://www.yikeye.fun/11he.html ",
+						"icon": "http://lixinyuanqi.ysepan.com/favicon.ico",
+						"description": "提供各种夸克资源的合集下载链接。",
+						"suffix": false,
+						"is_show": true
+					},
+					{
+						"title": "百度网盘搜索站",
+						"url": "http://dian.dadiyouhui.cn/daohang/wang-pan-sou-suo.html",
+						"icon": "http://dian.dadiyouhui.cn/favicon.ico",
+						"description": "提供百度网盘资源搜索功能的网站。",
+						"suffix": false,
+						"is_show": true
+					},
+					{
+						"title": "毕方铺",
+						"url": "https://www.iizhi.cn/",
+						"icon": "https://img.fre123.com/i/2024/01/05/6596efba672d8.png",
+						"description": "支持百度网盘、阿里云盘、夸克网盘搜索，可快速搜索百度网盘资源中的有效连接，自动识别无效的百度云网盘资源，每天更新海量资源。",
+						"suffix": false,
+						"is_show": true
+					},
+					{
+						"title": "小白盘",
+						"url": "https://www.xiaobaipan.com/",
+						"icon": "https://img.fre123.com/i/2024/01/04/65959e3b06a27.jpg",
+						"description": "页面清新，实时检查失效资源.帮您省心快速找到想要的电影,电视剧,小说,文档,音乐,软件,种子等热门网盘资源",
+						"suffix": false,
+						"is_show": true
+					},
+					{
+						"title": "盘搜搜",
+						"url": "https://pansoso.com/",
+						"icon": "https://img.fre123.com/i/2024/01/04/65959dd27b9ab.jpg",
+						"description": "支持百度云搜索、115网盘、360云盘、华为网盘、新浪微盘等搜索服务，是您工作、学习、娱乐的网盘搜索神器。",
+						"suffix": false,
+						"is_show": true
+					},
+					{
+						"title": "奈斯搜索",
+						"url": "https://www.niceso.net/",
+						"icon": "https://img.fre123.com/i/2024/01/04/65959e928f34d.png",
+						"description": "坚持做最好用的阿里云盘资源搜索引擎，服务你我他，深藏功与名！",
+						"suffix": false,
+						"is_show": true
+					},
+					{
+						"title": "大力盘搜索",
+						"url": "https://www.dalipan.com",
+						"icon": "https://img.fre123.com/i/2024/01/04/65959e9c46eca.png",
+						"description": "支持百度云搜索，可快速搜索百度网盘资源中的有效连接，自动识别无效的百度云网盘资源，每天更新海量资源。",
+						"suffix": false,
+						"is_show": false
+					},
+					{
+						"title": "海盗湾",
+						"url": "https://www.pirateproxy-bay.com/",
+						"icon": "https://img.fre123.com/i/2024/01/05/6596efebb32ca.png",
+						"description": "全世界最大的磁力搜索网站，资源丰富可靠，历史悠久",
+						"suffix": false,
+						"is_show": false
+					},
+					{
+						"title": "Presearch",
+						"url": "https://presearch.com/",
+						"icon": "https://img.fre123.com/i/2024/01/04/65959e9c46eca.png",
+						"description": "PreSearch是一个由社区提供支持的搜索引擎。",
+						"suffix": false,
+						"is_show": false
+					},
+					{
+						"title": "凌风云",
+						"url": "https://www.lingfengyun.com/",
+						"icon": "https://img.fre123.com/i/2024/01/04/65959eafe0221.png",
+						"description": "最强最专业的网盘搜索引擎，资源丰富，简洁无广告，支持国内十大网盘.",
+						"suffix": false,
+						"is_show": true
+					},
+					{
+						"title": "狸猫盘搜",
+						"url": "https://alipansou.com/",
+						"icon": "https://img.fre123.com/i/2024/01/04/65959eb813cb0.png",
+						"description": "猫狸云,阿里盘搜,最好用的阿里云盘资源搜索站,每天更新海量资源,失效资源实时删除",
+						"suffix": false,
+						"is_show": true
+					},
+					{
+						"title": "UP云搜",
+						"url": "https://www.upyunso.com/",
+						"icon": "https://img.fre123.com/i/2024/01/04/65959ec24f779.png",
+						"description": "体验最好的云盘资源搜索平台",
+						"suffix": false,
+						"is_show": true
+					},
+					{
+						"title": "盘趣搜",
+						"url": "https://pan.funletu.com/",
+						"icon": "https://img.fre123.com/i/2024/01/04/65959ec988ff4.png",
+						"description": "专注夸克网盘资源搜索！",
+						"suffix": false,
+						"is_show": true
+					},
+					{
+						"title": "学霸盘",
+						"url": "https://www.xuebapan.com/",
+						"icon": "https://img.fre123.com/i/2024/01/09/659c3bdd0de24.png",
+						"description": "学霸盘是百度网盘资源搜索引擎，提供抖音,短视频,课程,考研,PPT模板,电子书,会计,计算机等热门资源，实时检查无效资源，帮您更快捷的获取网盘资源下载信息。",
+						"suffix": false,
+						"is_show": true
+					},
+					{
+						"title": "阿里云盘搜索器",
+						"url": "https://pan.justin3go.com/",
+						"icon": "https://img.fre123.com/i/2024/01/09/659c3bbb3c342.ico",
+						"description": "一款极简体验、优雅、现代化、资源丰富、免费、无需登录的阿里云盘搜索神器，来体验找寻资源的快乐吧~",
+						"suffix": false,
+						"is_show": true
+					},
+					{
+						"title": "云盘4K",
+						"url": "https://www.codelicence.cn/",
+						"icon": "https://www.codelicence.cn/favicon.ico",
+						"description": "夸克云百度云阿里云网盘资源搜索分享与下载",
+						"suffix": false,
+						"is_show": true
+					},
+					{
+						"title": "咔帕搜索",
+						"url": "https://www.cuppaso.com/",
+						"icon": "https://img.fre123.com/i/2024/01/04/65959ec988ff4.png",
+						"description": "专注于收录全网综合盘资源，包括：影视资源、音乐资源、图片资源、电子书资源、软件资源、小说资源等等",
+						"suffix": false,
+						"is_show": true
+					},
+					{
+						"title": "热盘搜",
+						"url": "http://www.repanso.com/",
+						"icon": "https://img.fre123.com/i/2024/01/04/65959edc21e8d.png",
+						"description": "百度云网盘搜索引擎，为你提供免费的网盘云搜索服务。",
+						"suffix": false,
+						"is_show": true
+					},
+					{
+						"title": "BTSearch",
+						"url": "https://www.btsearch.love/",
+						"icon": "https://img.fre123.com/i/2024/01/06/65986167ba527.png",
+						"description": "磁力搜索引擎",
+						"suffix": false,
+						"is_show": false
+					},
+					{
+						"title": "秒搜",
+						"url": "https://miaosou.fun/",
+						"icon": "https://img.fre123.com/i/2024/01/15/65a42165e8b35.png",
+						"description": "秒搜,网盘搜索,最优秀的阿里云盘搜索服务的平台,收集各类阿里云盘资源提供一站式搜索功能,推动互联网优质资源的高效传递!全网千万级的云盘资源每日更新，包括考研,电影,动漫,视频,图书,软件,文档,音乐,等优质网盘资源",
+						"suffix": false,
+						"is_show": true
+					},
+					{
+						"title": "fastsoso",
+						"url": "https://www.fastsoso.cn/",
+						"icon": "https://img.fre123.com/i/2024/01/15/65a546c69f656.png",
+						"description": "fastsoso搜索支持百度云搜索，可快速搜索百度网盘资源中的有效连接，自动识别无效的百度云网盘资源，每天更新海量资源。",
+						"suffix": false,
+						"is_show": true
+					},
+					{
+						"title": "PanSearch",
+						"url": "https://www.pansearch.me/",
+						"icon": "https://img.fre123.com/i/2024/01/15/65a5494651842.png",
+						"description": "网盘资源搜索",
+						"suffix": false,
+						"is_show": true
+					},
+					{
+						"title": "文武杂货铺",
+						"url": "https://home.wwkejishe.top/search",
+						"icon": "https://img.fre123.com/i/2024/01/15/65a4224e56705.ico",
+						"description": "文武杂货铺收集精品网络免费资源、包括免费视频、网盘搜索、软件、网站和各类资源，欢迎前来探索。",
+						"suffix": false,
+						"is_show": false
+					}
+				]
+			},
+			{
+				"tab_name": "阿里云盘",
+				"upper_right_corner": {},
+				"details": [
+					{
+						"title": "阿里云盘",
+						"url": "https://www.aliyundrive.com",
+						"icon": "https://img.fre123.com/i/2024/01/04/65959e70a466a.png",
+						"description": "阿里云盘是一款速度快、不打扰、够安全、易于分享的个人网盘，欢迎你来体验。",
+						"suffix": false,
+						"is_show": true
+					},
+					{
+						"title": "奈斯搜索",
+						"url": "https://www.niceso.net/",
+						"icon": "https://img.fre123.com/i/2024/01/04/65959e928f34d.png",
+						"description": "坚持做最好用的阿里云盘资源搜索引擎，服务你我他，深藏功与名！",
+						"suffix": false,
+						"is_show": true
+					},
+					{
+						"title": "狸猫盘搜",
+						"url": "https://alipansou.com/",
+						"icon": "https://img.fre123.com/i/2024/01/04/65959eb813cb0.png",
+						"description": "猫狸云,阿里盘搜,最好用的阿里云盘资源搜索站,每天更新海量资源,失效资源实时删除",
+						"suffix": false,
+						"is_show": true
+					},
+					{
+						"title": "阿里云盘搜索器",
+						"url": "https://pan.justin3go.com/",
+						"icon": "https://img.fre123.com/i/2024/01/09/659c3bbb3c342.ico",
+						"description": "一款极简体验、优雅、现代化、资源丰富、免费、无需登录的阿里云盘搜索神器，来体验找寻资源的快乐吧~",
+						"suffix": false,
+						"is_show": true
+					},
+					{
+						"title": "秒搜",
+						"url": "https://miaosou.fun/",
+						"icon": "https://img.fre123.com/i/2024/01/15/65a42165e8b35.png",
+						"description": "秒搜,网盘搜索,最优秀的阿里云盘搜索服务的平台,收集各类阿里云盘资源提供一站式搜索功能,推动互联网优质资源的高效传递!全网千万级的云盘资源每日更新，包括考研,电影,动漫,视频,图书,软件,文档,音乐,等优质网盘资源",
+						"suffix": false,
+						"is_show": true
+					},
+					{
+						"title": "UP云搜",
+						"url": "https://www.upyunso.com/",
+						"icon": "https://img.fre123.com/i/2024/01/04/65959ec24f779.png",
+						"description": "体验最好的云盘资源搜索平台",
+						"suffix": false,
+						"is_show": true
+					},
+					{
+						"title": "YaPan",
+						"url": "https://yapan.io/",
+						"icon": "https://img.fre123.com/i/2024/01/16/65a55c4e7fe22.png",
+						"description": "Yapan - 网盘检索工具",
+						"suffix": false,
+						"is_show": true
+					},
+					{
+						"title": "易搜",
+						"url": "https://yiso.fun/info?searchKey=",
+						"icon": "https://yiso.fun/static/img/logo.png",
+						"description": "提供多家云盘资源搜索的聚合网站。",
+						"suffix": false,
+						"is_show": true
+						},
+						{
+						"title": "奈斯搜",
+						"url": "https://www.niceso.fun/search/?q=",
+						"icon": "https://www.niceso.fun/favicon.ico",
+						"description": "提供多家云盘资源搜索的聚合网站。",
+						"suffix": false,
+						"is_show": true
+						},
+						{
+						"title": "千帆搜",
+						"url": "https://tg.qianfan.app/search/?q=",
+						"icon": "https://tg.qianfan.app/favicon.ico",
+						"description": "提供多家云盘资源搜索的聚合网站。",
+						"suffix": false,
+						"is_show": true
+						},
+						{
+						"title": "喵狸盘搜",
+						"url": "https://www.alipansou.com/search?k=",
+						"icon": "https://www.alipansou.com/favicon.ico",
+						"description": "提供多家云盘资源搜索的聚合网站。",
+						"suffix": false,
+						"is_show": true
+						},
+						{
+						"title": "找资源",
+						"url": "https://zhaoziyuan.la/so?filename=",
+						"icon": "https://zhaoziyuan.la/favicon.ico?v=36",
+						"description": "提供多家云盘资源搜索的聚合网站。",
+						"suffix": false,
+						"is_show": true
+						},
+						{
+						"title": "小纸条",
+						"url": "https://u.gitcafe.net/",
+						"icon": "http://p1.music.126.net/mLFLmhAHPad0Blez0mmr9g==/109951168765426306.jpg?param=140y140",
+						"description": "一个基于聚合搜索的网盘搜索集合地",
+						"suffix": false,
+						"is_show": true
+						},
+						{
+						"title": "鸡盒盘",
+						"url": "https://666.jihepan.top/",
+						"icon": "https://666.jihepan.top/zb_users/upload/2022/01/202201201642693700247061.png",
+						"description": "提供多种各种云盘资源下载链接的网站。",
+						"suffix": false,
+						"is_show": true
+						},
+						{
+						"title": "番茄盘",
+						"url": "https://www.fqpan.com/",
+						"icon": "https://www.fqpan.com/wp-content/uploads/2022/11/ico.png",
+						"description": "各大阿里、百度、夸克等网盘资源社区",
+						"suffix": false,
+						"is_show": true
+						},
+						{
+						"title": "橘子盘搜",
+						"url": "https://www.nmme.cc/",
+						"icon": "https://www.nmme.cc/favicon.ico",
+						"description": "提供多家云盘资源搜索的聚合网站。",
+						"suffix": false,
+						"is_show": true
+						},
+						{
+						"title": "西部落软件搜索",
+						"url": "https://www.xibuluo.com/",
+						"icon": "https://www.xibuluo.com/logo.png?V=1",
+						"description": "提供软件资源下载的网站。",
+						"suffix": false,
+						"is_show": true
+						},
+						{
+						"title": "Pansearch盘搜",
+						"url": "https://www.pansearch.me/",
+						"icon": "https://www.pansearch.me/favicon.png",
+						"description": "提供多家云盘资源搜索的聚合网站。",
+						"suffix": false,
+						"is_show": true
+						}
+				]
+			},
+			{
+				"tab_name": "百度网盘",
+				"upper_right_corner": {},
+				"details": [
+					{
+						"title": "百度网盘",
+						"url": "https://pan.baidu.com/",
+						"icon": "https://img.fre123.com/i/2024/01/04/65959e58c6f12.png",
+						"description": "支持文件的网络备份、同步和共享服务。空间大，速度快，安全稳定，支持教育网络加速，支持手机。",
+						"suffix": false,
+						"is_show": true
+					},
+					{
+						"title": "小白盘",
+						"url": "https://www.xiaobaipan.com/",
+						"icon": "https://img.fre123.com/i/2024/01/04/65959e3b06a27.jpg",
+						"description": "页面清新，实时检查失效资源.帮您省心快速找到想要的电影,电视剧,小说,文档,音乐,软件,种子等热门网盘资源",
+						"suffix": false,
+						"is_show": true
+					},
+					{
+						"title": "热盘搜",
+						"url": "http://www.repanso.com/",
+						"icon": "https://img.fre123.com/i/2024/01/04/65959edc21e8d.png",
+						"description": "百度云网盘搜索引擎，为你提供免费的网盘云搜索服务。",
+						"suffix": false,
+						"is_show": true
+					},
+					{
+						"title": "fastsoso",
+						"url": "https://www.fastsoso.cn/",
+						"icon": "https://img.fre123.com/i/2024/01/15/65a546c69f656.png",
+						"description": "fastsoso搜索支持百度云搜索，可快速搜索百度网盘资源中的有效连接，自动识别无效的百度云网盘资源，每天更新海量资源。",
+						"suffix": false,
+						"is_show": true
+					},
+					{
+						"title": "盘么么",
+						"url": "http://www.panmeme.com/",
+						"icon": "https://img.fre123.com/i/2024/01/16/65a56ff34685d.ico",
+						"description": "盘么么(panmeme.com)是专业的网盘搜索引擎，上亿级的网盘资源下载，最实用的百度云搜索引擎，名副其实的超级网盘搜索神器!，实时收录百度云、百度网盘等资源，每天更新各类高清电影、视频、种子、小说等网盘资源，百度网盘搜索及百度云资源搜索就来盘么么！",
+						"suffix": false,
+						"is_show": true
+					},
+					{
+						"title": "学霸盘",
+						"url": "https://www.xuebapan.com/",
+						"icon": "https://img.fre123.com/i/2024/01/09/659c3bdd0de24.png",
+						"description": "学霸盘是百度网盘资源搜索引擎，提供抖音,短视频,课程,考研,PPT模板,电子书,会计,计算机等热门资源，实时检查无效资源，帮您更快捷的获取网盘资源下载信息。",
+						"suffix": false,
+						"is_show": true
+					},
+					{
+						"title": "我的小站-（资源较多）",
+						"url": "https://pan666.net/",
+						"icon": "https://pan666.net/favicon.ico",
+						"description": "阿里资源老牌社区，提供各种资源下载链接的网站。",
+						"suffix": false,
+						"is_show": true
+						},
+						{
+						"title": "网盘小站",
+						"url": "https://wpxz.org/",
+						"icon": "https://wpxz.org/assets/favicon-zaeyhvzq.png",
+						"description": "提供各种资源下载链接的网站。",
+						"suffix": false,
+						"is_show": true
+						},
+						{
+						"title": "盘友社区",
+						"url": "https://www.panyoubbs.com/",
+						"icon": "https://www.panyoubbs.com/favicon.ico",
+						"description": "一个以云盘资源分享和交流为主题的社区。",
+						"suffix": false,
+						"is_show": true
+						},
+						{
+						"title": "百度网盘等分享网",
+						"url": "https://www.yunpanziyuan.com/",
+						"icon": "https://www.yunpanziyuan.com/view/img/favicon.ico",
+						"description": "提供各种云盘资源下载链接的网站。",
+						"suffix": false,
+						"is_show": true
+						},
+						{
+						"title": "云盘搜索1",
+						"url": "https://yunpan1.com/",
+						"icon": "https://yunpan1.com/assets/favicon-f71yes7k.png",
+						"description": "",
+						"suffix": false,
+						"is_show": true
+						},
+						{
+						"title": "柒月吧",
+						"url": "https://www.qiyueba.com/",
+						"icon": "https://www.qiyueba.com/favicon.ico",
+						"description": "一个以云盘资源分享和交流为主题的资源吧。",
+						"suffix": false,
+						"is_show": true
+						},
+						{
+						"title": "KK小站",
+						"url": "https://kkxz.vip/",
+						"icon": "https://kkxz.vip/assets/favicon-tecs1lwo.png",
+						"description": "夸克资源专属社区，提供各种资源下载链接的网站。",
+						"suffix": false,
+						"is_show": true
+						},
+						{
+						"title": "盘友资源社区",
+						"url": "https://panyou.cc/",
+						"icon": "https://panyou.cc/view/img/favicon.svg",
+						"description": "一个以云盘资源分享和交流为主题的社区。",
+						"suffix": false,
+						"is_show": true
+						}
+				]
+			}
+		]
+	},
+	{
+		"group_name": "常用工具",
+		"style": 1,
+		"style_des": "标准风格",
+		"tab_list": [
+			{
+				"tab_name": "开发者工具",
+				"upper_right_corner": {},
+				"details": [
+					{
+						"title": "Github",
+						"url": "https://github.com/",
+						"icon": "https://nav.lxyq.link/images/logos/github.png",
+						"description": "面向开源及私有软件项目的托管平台。",
+						"suffix": false,
+						"is_show": true
+					},
+					{
+						"title": "程序员导航",
+						"url": "https://www.haocxy.com/",
+						"icon": "http://www.haocxy.com/wp-content/themes/onenav/images/favicon.png",
+						"description": "程序员的工具箱-强大工具！",
+						"suffix": false,
+						"is_show": true
+					},
+					{
+							"title": "BitDock比特工具栏",
+							"url": "http://www.bitdock.cn/",
+							"icon": "http://www.bitdock.cn/img/favicon.ico",
+							"description": "包含多种实用的开源工具和应用资源。",
+							"suffix": false,
+							"is_show": true
+					},
+					{
+						"title": "即时工具",
+						"url": "https://www.67tool.com/?from=itab.link",
+						"icon": "https://www.67tool.com/favicon.ico",
+						"description": "集成了多种实用的在线工具和应用的平台导航",
+						"suffix": false,
+						"is_show": true
+					},
+					{
+						"title": "开源工具导航 | 收集应用和科技",
+						"url": "https://nav.newzone.top/",
+						"icon": "https://nav.newzone.top/wp-content/uploads/2021/01/cropped-favicon-32x32.png",
+						"description": "",
+						"suffix": false,
+						"is_show": true
+					},
+					{
+						"title": "电脑Windows基础教程网|TeliuTe",
+						"url": "https://teliute.org/",
+						"icon": "http://p2.music.126.net/WhaYZ2tvkVQJSkmXL9FzzA==/109951165563896271.jpg?param=140y140",
+						"description": "贴心的计算机教程网站，涵盖Windows系统等多个方面",
+						"suffix": false,
+						"is_show": true
+					},
+					{
+						"title": "创客贴",
+						"url": "https://www.chuangkit.com/",
+						"icon": "https://www.chuangkit.com/favicon.ico",
+						"description": "创客贴是一款多平台（Web、Mobile、Mac 、Windows）极简图形编辑和平面设计工具。",
+						"suffix": false,
+						"is_show": true
+					},
+					{
+						"title": "TinyPNG",
+						"url": "https://tinypng.com/",
+						"icon": "https://tinypng.com/images/apple-touch-icon.png",
+						"description": "一个图片压缩的网站，当UI设计师给你的启动图，各种各样的大图 的时候有的好几百K，TingPNG可以压缩到几十K，而且图片压缩质量还很高。",
+						"suffix": false,
+						"is_show": true
+					},
+					{
+						"title": "阿里巴巴矢量图标库",
+						"url": "http://www.iconfont.cn/",
+						"icon": "https://img.alicdn.com/imgextra/i4/O1CN01Z5paLz1O0zuCC7osS_!!6000000001644-55-tps-83-82.svg",
+						"description": "这个网站是阿里巴巴的创建的矢量图交流平台。里面很多的矢量图标等",
+						"suffix": false,
+						"is_show": true
+					},
+					{
+							"title": "建站源码",
+							"url": "https://www.lanzoui.com/s/jz666",
+							"icon": "https://assets.woozooo.com/assets/favicon.ico",
+							"description": "提供各类网站建设的开源代码",
+							"suffix": false,
+							"is_show": true
+					}
+				]
+			},
+			{
+				"tab_name": "前端常用",
+				"upper_right_corner": {},
+				"details": [
+					{
+						"title": "Github",
+						"url": "https://github.com/",
+						"icon": "https://nav.lxyq.link/images/logos/github.png",
+						"description": "全球最大的开源社区，Github本站托管平台！",
+						"suffix": false,
+						"is_show": true
+					},
+					{
+						"title": "CSDN社区",
+						"url": "https://www.csdn.net/",
+						"icon": "https://g.csdnimg.cn/static/logo/favicon32.ico",
+						"description": "中国的IT社区和服务平台，为中国的软件开发者和IT从业者提供知识传播、职业发展、软件开发等全生命周期服务",
+						"suffix": false,
+						"is_show": true
+					},
+					{
+						"title": "博客园",
+						"url": "https://www.cnblogs.com/",
+						"icon": "https://www.cnblogs.com/images/logo.svg?v=2SMrXdIvlZwVoB1akyXm38WIKuTHVqvGD0CweV-B6cY",
+						"description": "一个稀有的博客技术交流、代码聚集地！",
+						"suffix": false,
+						"is_show": true
+					},
+					{
+						"title": "掘金",
+						"url": "https://juejin.cn/",
+						"icon": "https://lf3-cdn-tos.bytescm.com/obj/static/xitu_juejin_web//static/favicons/favicon-32x32.png",
+						"description": "掘金作为一个分享技术社区，很快得到了开发者的青睐，掘金的界面是很清爽简洁！",
+						"suffix": false,
+						"is_show": true
+					},
+					{
+						"title": "stackoverflow开发",
+						"url": "https://stackoverflow.com/",
+						"icon": "https://cdn.sstatic.net/Sites/stackoverflow/Img/favicon.ico?v=ec617d715196",
+						"description": "开发人员分享知识、解决问题以及寻求帮助的问答社区。",
+						"suffix": false,
+						"is_show": true
+					},
+					{
+						"title": "码云Gitee",
+						"url": "https://gitee.com/",
+						"icon": "https://gitee.com/favicon.ico",
+						"description": "一个面向开源及 IT 从业者的代码托管、项目协作、多人协同开发平台，提供基于 Git 和 SVN 的代码托管服务，支持多种编程语言和开发工具，并提供完备的在线协作功能，包括问题跟踪、Wiki、社交网络等。",
+						"suffix": false,
+						"is_show": true
+					},
+					{
+						"title": "腾讯云",
+						"url": "https://cloud.tencent.com/",
+						"icon": "https://cloud.tencent.com/favicon.ico?t=201902181234",
+						"description": "全球领先的综合互动娱乐服务品牌，旗下涵盖腾讯游戏、腾讯文学、腾讯动漫等多个互动娱乐业务平台。",
+						"suffix": false,
+						"is_show": true
+					},
+					{
+						"title": "阿里云",
+						"url": "https://www.aliyun.com/?utm_content=se_1013083955",
+						"icon": "https://img.alicdn.com/tfs/TB1_ZXuNcfpK1RjSZFOXXa6nFXa-32-32.ico",
+						"description": "让计算成为一项公共服务，并通过云的弹性和自服务能力来支持企业敏捷创新。",
+						"suffix": false,
+						"is_show": true
+					},
+					{
+						"title": "华为云",
+						"url": "https://activity.huaweicloud.com/",
+						"icon": "https://www.huaweicloud.com/favicon.ico",
+						"description": "专注于云计算中公有云领域的技术研究与生态拓展，致力于为用户提供一站式云计算基础设施服务。",
+						"suffix": false,
+						"is_show": true
+					},
+					{
+						"title": "程序员导航",
+						"url": "https://www.haocxy.com/",
+						"icon": "http://www.haocxy.com/wp-content/themes/onenav/images/logo_l@2x.png",
+						"description": "程序员的工具箱-强大工具！",
+						"suffix": false,
+						"is_show": true
+					},
+					{
+						"title": "SementFault",
+						"url": "https://segmentfault.com/",
+						"icon": "https://static.segmentfault.com/main_site_next/c9aa1097/favicon.ico",
+						"description": "中文领域最大的技术问答交流社区平台，在这里你可以检索，交流和分享任何技术编程相关的问题及知识。",
+						"suffix": false,
+						"is_show": true
+					},
+					{
+						"title": "简书",
+						"url": "https://www.jianshu.com/",
+						"icon": "http://p2.music.126.net/fHx7obV9bjipvSpqlf4B7g==/109951164856361756.jpg?param=140y140",
+						"description": "一个创作社区，任何人均可以在其上进行创作。用户在简书上面可以方便的创作自己的作品，互相交流。",
+						"suffix": false,
+						"is_show": true
+					},
+					{
+						"title": "W3school",
+						"url": "http://www.w3school.com.cn/",
+						"icon": "http://www.w3school.com.cn/ui2019/logo-48-red.png",
+						"description": "因特网上最大的WEB开发者资源，是完全免费的，是非营利性的，一直在升级和更新，是W3C中国社区成员，致力于推广W3C标准技术。",
+						"suffix": false,
+						"is_show": true
+					},
+					{
+						"title": "V2EX",
+						"url": "https://www.v2ex.com/",
+						"icon": "https://www.v2ex.com/static/apple-touch-icon-180.png?v=91e795b8b5d9e2cbf2d886c3d4b7d63c",
+						"description": "W3C中国社区成员，致力于推广W3C标准技术。",
+						"suffix": false,
+						"is_show": true
+					},
+					{
+						"title": "51CTO",
+						"url": "http://blog.51cto.com/",
+						"icon": "http://blog.51cto.com/favicon.ico",
+						"description": "51CTO重磅推出的IT在线教育平台。51CTO学院汇集各类IT精品视频课程，致力于打造顶尖IT培训讲师、网络技术精品培训课程、培训自测题三位一体的网络教育特色，是国内最完善、最专业的IT在线教育平台。",
+						"suffix": false,
+						"is_show": true
+					},
+					{
+						"title": "GitChat",
+						"url": "https://gitbook.cn/",
+						"icon": "http://p2.music.126.net/KCKdYQzzrjv0QSMvvNfKCg==/109951166186597035.jpg?param=140y140",
+						"description": "一款基于微信平台的知识分享产品，通过这款产品我们希望改变IT知识的学习方式。",
+						"suffix": false,
+						"is_show": true
+					},
+					{
+						"title": "程序猿圈",
+						"url": "https://www.cxyquan.com/",
+						"icon": "https://cxyquan.oss-cn-shenzhen.aliyuncs.com/2018/09/cropped-0-192x192.jpg",
+						"description": "一个在线博客学习网站，网站主要发布一些编程技术、实用工具、互联网资讯以及一些有趣好玩的东西 ，值得你去看看！",
+						"suffix": false,
+						"is_show": true
+					}
+				]
+			},
+			{
+				"tab_name": "代码托管",
+				"upper_right_corner": {},
+				"details": [
+					{
+						"title": "Github",
+						"url": "https://github.com/",
+						"icon": "https://nav.lxyq.link/images/logos/github.png",
+						"description": "面向开源及私有软件项目的托管平台。",
+						"suffix": false,
+						"is_show": true
+					},
+					{
+						"title": "vercel代码托管",
+						"url": "https://vercel.com/",
+						"icon": "https://assets.vercel.com/image/upload/front/favicon/vercel/57x57.png",
+						"description": "强烈推荐，超级好用！本站基本都托管在vercel旗下！",
+						"suffix": false,
+						"is_show": true
+					},
+					{
+						"title": "码云（国内比较大的代码托管平台，开源中国旗下）",
+						"url": "https://gitee.com/",
+						"icon": "https://gitee.com/favicon.ico",
+						"description": "限制多，不推荐，码云 Gitee — 基于 Git 的代码托管和研发协作平台",
+						"suffix": false,
+						"is_show": true
+					},
+					{
+						"title": "阿里云Code托管平台",
+						"url": "https://code.aliyun.com/",
+						"icon": "https://img.alicdn.com/tfs/TB1_ZXuNcfpK1RjSZFOXXa6nFXa-32-32.ico",
+						"description": "官方网站：阿里云登录 - 欢迎登录阿里云，安全稳定的云计算服务平台",
+						"suffix": false,
+						"is_show": true
+					},
+					{
+						"title": "华为开源平台",
+						"url": "https://code.opensource.huaweicloud.com/",
+						"icon": "https://code.opensource.huaweicloud.com/favicon.ico",
+						"description": "华为云计算服务平台，关注更快的计算服务领域！",
+						"suffix": false,
+						"is_show": true
+					},
+					{
+						"title": "百度智能云",
+						"url": "https://cloud.baidu.com/",
+						"icon": "https://bce.bdstatic.com/img/favicon.ico",
+						"description": "百度效率云 | Git代码托管，版本管理，项目管理，持续集成，持续交付，研发工具云端解决方案",
+						"suffix": false,
+						"is_show": true
+					},
+					{
+						"title": "coding",
+						"url": "https://coding.net/",
+						"icon": "https://help-assets.codehub.cn/enterprise/guanwang/favicon.ico",
+						"description": "CODING 代码托管|极速 Git 代码仓库服务以及 coding也腾讯合作腾讯开发者平台",
+						"suffix": false,
+						"is_show": true
+					},
+					{
+						"title": "腾讯云开发者平台",
+						"url": "https://cloud.tencent.com/",
+						"icon": "https://cloud.tencent.com/favicon.ico?t=201902181234",
+						"description": "技术代码娱乐游戏| 技术助力开发",
+						"suffix": false,
+						"is_show": true
+					},
+					{
+						"title": "bitbucket (位桶)",
+						"url": "https://bitbucket.org/product/",
+						"icon": "https://wac-cdn.atlassian.com/assets/img/favicons/bitbucket/favicon-32x32.png",
+						"description": "没用过，Bitbucket | The Git solution for professional teams",
+						"suffix": false,
+						"is_show": true
+					},
+					{
+						"title": "Google Code",
+						"url": "https://code.google.com/",
+						"icon": "https://img1.baidu.com/it/u=1260229112,995928083&fm=253&fmt=auto&app=138&f=JPEG?w=702&h=418",
+						"description": "很可惜，大陆访问不了。没有作用",
+						"suffix": false,
+						"is_show": true
+					}
+				]
+			},
+			{
+				"tab_name": "在线工具",
+				"upper_right_corner": {},
+				"details": [
+					{
+						"title": "在线工具",
+						"url": "https://tool.lu/",
+						"icon": "https://tool.lu/favicon.ico",
+						"description": "包含多种实用的在线工具。",
+						"suffix": false,
+						"is_show": true
+						},
+						{
+						"title": "MikuTools",
+						"url": "https://tools.miku.ac/",
+						"icon": "https://mikutools.cdn.hatsune.tech/icons/icon_512x512.3ecd30.png",
+						"description": "提供各种实用的网络工具及实用计算器。",
+						"suffix": false,
+						"is_show": true
+						},
+						{
+						"title": "兔二工具",
+						"url": "https://www.tool22.com/",
+						"icon": "http://p1.music.126.net/1kMip1GVq7wJAHuFHEecSg==/109951165721363752.jpg?param=140y140",
+						"description": "一个包含多种实用工具的综合性网站。",
+						"suffix": false,
+						"is_show": true
+						},
+						{
+						"title": "最强工具人在线工具箱",
+						"url": "https://www.toolfk.com/",
+						"icon": "https://www.toolfk.com/tools/images/icon.png",
+						"description": "包含多种实用工具和在线代码编译器。",
+						"suffix": false,
+						"is_show": true
+						},
+						{
+						"title": "孟坤工具箱网页版",
+						"url": "http://tool.mkblog.cn/",
+						"icon": "http://tool.mkblog.cn/favicon.ico",
+						"description": "提供多种工具，如图片压缩、代码格式化等。",
+						"suffix": false,
+						"is_show": true
+						},
+						{
+						"title": "在线工具资料箱",
+						"url": "https://www.toolzl.com/",
+						"icon": "https://www.toolzl.com/favicon.ico",
+						"description": "含多种实用的在线工具和教程资料。",
+						"suffix": false,
+						"is_show": true
+						},
+						{
+						"title": "精准云工具_在线工具大全",
+						"url": "https://jingzhunyun.com/",
+						"icon": "https://jingzhunyun.com/zb_users/upload/favicon.ico",
+						"description": "包含多种实用小工具的工具栏。",
+						"suffix": false,
+						"is_show": true
+						},
+						{
+						"title": "爱资料工具",
+						"url": "https://www.toolnb.com/",
+						"icon": "https://www.toolnb.com/favicon.ico",
+						"description": "提供各类实用的在线工具和软件下载",
+						"suffix": false,
+						"is_show": true
+						},
+						{
+						"title": "菜鸟工具",
+						"url": "https://c.runoob.com/",
+						"icon": "http://p1.music.126.net/FWMoeZhny3azCVN7kmQb1A==/109951168665495966.jpg?param=140y140",
+						"description": "一个适合初学者的在线编程工具和学习平台",
+						"suffix": false,
+						"is_show": true
+						},
+						{
+						"title": "77工具",
+						"url": "https://www.tool77.com/",
+						"icon": "https://www.tool77.com/media/image/favicon.ico",
+						"description": "提供各类实用的在线工具和软件资源下载",
+						"suffix": false,
+						"is_show": true
+						},
+						{
+							"title": "Greasy Fork --用户脚本大全",
+							"url": "https://greasyfork.org/zh-CN",
+							"icon": "https://greasyfork.org/vite/assets/blacklogo16-37ZGLlXh.png",
+							"description": "一个用户脚本分享平台，提供各类实用的浏览器扩展和脚本",
+							"suffix": false,
+							"is_show": true
+						},
+						{
+							"title": "Wormhole - 私密文件共享",
+							"url": "https://wormhole.app/",
+							"icon": "http://p1.music.126.net/4ciYzusSlhsJlbZFt6lBow==/109951168743764848.jpg?param=140y140",
+							"description": "可以实现一对一或多对多加密文件传输的在线工具",
+							"suffix": false,
+							"is_show": true
+						},
+						{
+							"title": "拷贝兔--文字分享工具",
+							"url": "https://cp.anyknew.com/",
+							"icon": "http://p1.music.126.net/s2AX478NlfihuO179PRY3w==/109951169148382683.jpg?param=140y140",
+							"description": "一个方便快捷的文字分享工具，支持多种平台。",
+							"suffix": false,
+							"is_show": true
+						},
+						{
+							"title": "轻松传 -传实时视频",
+							"url": "https://easychuan.cn/",
+							"icon": "http://p1.music.126.net/hxAortZZA9Inj1vM9BQsFQ==/109951168667094421.jpg?param=140y140",
+							"description": "一个支持实时视频传输的在线传输工具。",
+							"suffix": false,
+							"is_show": true
+						},
+						{
+							"title": "青蛙快传 - 超快云传输web工具",
+							"url": "https://cp.ciding.cc/",
+							"icon": "https://cp.ciding.cc/public/favicon.png",
+							"description": "一个超快速的云传输工具，支持多种文件类型。",
+							"suffix": false,
+							"is_show": true
+						},
+						{
+								"title": "快贴 - 真正的云剪贴板工具",
+								"url": "https://home.clipber.com/",
+								"icon": "https://kuaitie.cloud/assets/favicon.png",
+								"description": "在线剪贴板工具，可快速复制、转移和分享多种内容",
+								"suffix": false,
+								"is_show": true
+						},
+						{
+								"title": "在线工具导航",
+								"url": "https://xydh.fun/xixihaha",
+								"icon": "https://xydh.fun/favicon.ico",
+								"description": "提供各类实用的在线工具和资源导航",
+								"suffix": false,
+								"is_show": true
+						}
+				]
+			}
+		]
+	},
+	{
+		"group_name": "人工智能",
+		"style": 1,
+		"style_des": "标准风格",
+		"tab_list": [
+			{
+				"tab_name": "AI导航",
+				"upper_right_corner": {},
+				"details": [
+					{
+						"title": "小白のAI起始页",
+						"url": "https://aigc.lxyq.link/",
+						"icon": "https://www.ainav.cn/wp-content/uploads/2023/08/A64C0CA2-D82C-C464-7E76-4B313CE446AA.png",
+						"description": "专业的AI起始引导页。",
+						"suffix": false,
+						"is_show": true
+					},
+					{
+						"title": "小白のAIGC导航",
+						"url": "https://ai.lxyq.link/",
+						"icon": "https://ai.lxyq.link/assets/images/bt.png",
+						"description": "专业的AIGC各种大模型导航网站，小白自建！",
+						"suffix": false,
+						"is_show": true
+					},
+					{
+						"title": "小白のChatgpt导航网址",
+						"url": "https://ai.huangyong.link/#/home",
+						"icon": "https://www.ai-collection.cn/wp-content/uploads/2022/05/5e613-www.synthesia.io.png",
+						"description": "专业的chatgpt各种大模型导航网站，小白自建！",
+						"suffix": false,
+						"is_show": true
+					},
+					{
+						"title": "AI人工智能导航",
+						"url": "https://xydh.fun/loveai",
+						"icon": "https://www.ainav.cn/wp-content/uploads/2023/06/47942-ai.wps.cn.png",
+						"description": "专业的AI人工智能导航，小白自建！",
+						"suffix": false,
+						"is_show": true
+					},
+					{
+						"title": "Chatgpt导航",
+						"url": "https://xydh.fun/huangyong999",
+						"icon": "https://www.ainav.cn/wp-content/uploads/2022/12/c6b60-chat.openai.com.png",
+						"description": "一站式chatgpt相关网站导航，小白自建！",
+						"suffix": false,
+						"is_show": true
+					},
+					{
+						"title": "奕心-AI",
+						"url": "https://link3.cc/loveai",
+						"icon": "http://p1.music.126.net/A514bNqtuivvuppEiXkibQ==/1407374889022377.jpg?param=140y140",
+						"description": "探索AI世界前沿，研究快速探索AI技巧，小白自建！",
+						"suffix": false,
+						"is_show": true
+					},
+					{
+						"title": "しōひè AI导航",
+						"url": "http://loveai.ysepan.com/",
+						"icon": "https://www.ai-collection.cn/static/favicon2.ico",
+						"description": "聚集AI导航的网站，小白自建",
+						"suffix": false,
+						"is_show": true
+					},
+					{
+						"title": "AI集合网",
+						"url": "https://www.ai-collection.cn/",
+						"icon": "https://www.ai-collection.cn/logo.png",
+						"description": "collection 是一个专为您整理最前沿的人工智能工具的平台，旨在成为用户和开发人员之间交流和协作的社区。",
+						"suffix": false,
+						"is_show": true
+					},
+					{
+						"title": "图钉AI导航",
+						"url": "https://www.tudingai.com/",
+						"icon": "https://www.tudingai.com/wp-content/uploads/2024/01/%E5%9B%BE%E9%92%89ai%E5%AF%BC%E8%88%AA%E9%BB%91logo-2.png",
+						"description": "收录优质AI优质项目，与你一起遇见未来！",
+						"suffix": false,
+						"is_show": true
+					},
+					{
+						"title": "aigc导航",
+						"url": "https://www.aigc.cn/",
+						"icon": "https://www.aigc.cn/wp-content/uploads/2023/04/AIGClogoXIAO-2.png",
+						"description": "生成式AI工具导航，全集合AI工具集合导航",
+						"suffix": false,
+						"is_show": true
+					},
+					{
+						"title": "ainav导航",
+						"url": "https://www.ainavpro.com/",
+						"icon": "https://www.ainavpro.com/wp-content/uploads/2023/03/logo-9-e1677917045954.png",
+						"description": "最新最AI的前沿产品。",
+						"suffix": false,
+						"is_show": true
+					},
+					{
+						"title": "ai慌伴导航",
+						"url": "https://nav.liesys.com/ai",
+						"icon": "https://img.liesys.com/nav/ico.png",
+						"description": "AI慌伴导航，掌握AI前沿。",
+						"suffix": false,
+						"is_show": true
+					},
+					{
+						"title": "Ai工具导航",
+						"url": "https://17yongai.com/",
+						"icon": "https://17yongai.com/wp-content/uploads/2023/02/logo.png",
+						"description": "打破AI信息壁垒 智能化搞副业赚钱。",
+						"suffix": false,
+						"is_show": true
+					},
+					{
+						"title": "Ai无锋导航",
+						"url": "https://www.8kmm.com/ai",
+						"icon": "https://www.8kmm.com/img/logo_200.png",
+						"description": "《AI导航》发现最新的人工智能工具、服务、资源，来帮助你完成工作。在这里看见未来",
+						"suffix": false,
+						"is_show": true
+					}
+				]
+			},
+		    {
+				"tab_name": "AI对话",
+				"upper_right_corner": {},
+				"details": [
+					{
+						"title": "百度文心大模型",
+						"url": "https://wenxin.baidu.com/",
+						"icon": "https://wenxin-home-page.bj.bcebos.com/images/logoNew/favicon.ico",
+						"description": "大语言模型让通用人工智能的曙光乍现！",
+						"suffix": false,
+						"is_show": true
+						},
+						{
+						"title": "讯飞星火大模型",
+						"url": "https://xinghuo.xfyun.cn/",
+						"icon": "https://www.ainav.cn/wp-content/uploads/2023/08/bdae8b425205cb62e6a69b168a331a00_spark-icon.ico",
+						"description": "AI大语言模型-讯飞星火大模型-科大讯飞出品。",
+						"suffix": false,
+						"is_show": true
+						},
+						{
+							"title": "阿里通义大模型",
+							"url": "https://tongyi.aliyun.com/",
+							"icon": "https://www.ainav.cn/wp-content/uploads/2023/09/e7008-qianwen.aliyun.com.png",
+							"description": "阿里大模型统一品牌，覆盖语言、听觉、多模态等领域，致力于实现接近人类智慧的通用智能，让AI从“单一感官”到“五官全开”。",
+							"suffix": false,
+							"is_show": true
+						},
+						{
+							"title": "360智脑大模型",
+							"url": "https://ai.360.com/",
+							"icon": "https://www.ainav.cn/wp-content/uploads/2023/06/c2719-ai.360.cn.png",
+							"description": "360智脑宣布首发“文生视频”多模态功能，并将“360智脑4.0”接入浏览器、搜索、安全卫士等360全端产品。",
+							"suffix": false,
+							"is_show": true
+						},
+						{
+						"title": "华为盘古·大模型",
+						"url": "https://pangu.huaweicloud.com/",
+						"icon": "https://img01.anheyu.com/useruploads/156/2023/09/15/65040a8ddad91.png",
+						"description": "AI for Industries,大模型重塑千行百业-华为出品",
+						"suffix": false,
+						"is_show": true
+						},
+						{
+						"title": "腾讯混元·大模型",
+						"url": "https://hunyuan.tencent.com/",
+						"icon": "https://api.liesys.com/favicon/hunyuan.tencent.com.png",
+						"description": "腾讯混元大模型是由腾讯研发的大语言模型，具备跨领域知识和自然语言理解能力，实现基于人机自然语言对话的方式，帮助用户实现人获取信息，知识和灵感。",
+						"suffix": false,
+						"is_show": true
+						},
+						{
+						"title": "小米AI大模型-MiLM-6B",
+						"url": "https://github.com/XiaoMi/MiLM-6B",
+						"icon": "https://ai.tboxn.com/wp-content/uploads/2023/08/1309360.png",
+						"description": "小米官方AI大模型",
+						"suffix": false,
+						"is_show": true
+						},
+						{
+						"title": "京东言犀-大模型",
+						"url": "https://yanxi.jd.com/",
+						"icon": "https://www.ainav.cn/wp-content/uploads/2023/06/d0ac0-chuangyi.taobao.com.png",
+						"description": "言犀，京东智能人机交互平台，懂业务更懂你，是融合京东自身十年客户服务与营销的最佳实践以及自研全链路AI能力的服务数智化平台级产品。",
+						"suffix": false,
+						"is_show": true
+						},
+						{
+						"title": "复旦大学·MOSS大模型",
+						"url": "https://moss.fastnlp.top/",
+						"icon": "https://img01.anheyu.com/useruploads/156/2023/09/15/65040900e02e4.png",
+						"description": "目前正在测试阶段，需申请使用，研究深入解答多模型路线-复旦出品",
+						"suffix": false,
+						"is_show": true
+						},
+						{
+						"title": "中科院（紫东太初大模型）",
+						"url": "https://xihe.mindspore.cn",
+						"icon": "https://xihe.mindspore.cn/favicon.ico",
+						"description": "异思大模型平台-集算法选型、创意分享、模型实验和大模型在线体验",
+						"suffix": false,
+						"is_show": true
+						},
+						{
+						"title": "上海人工智能实验室（书生通用大模型）",
+						"url": "https://intern-ai.org.cn",
+						"icon": "https://intern-ai.org.cn/assets/headerLogo-4ea34f23.svg",
+						"description": "书生通用大模型体系-以创新引领时代，以开源助力生态，以开放赋能产业",
+						"suffix": false,
+						"is_show": true
+						},
+						{
+						"title": "智谱Ai大模型",
+						"url": "https://chatglm.cn/",
+						"icon": "https://www.ainav.cn/wp-content/uploads/2023/09/09af7eb223a33435e920262878f27515bea98349f.png",
+						"description": "智谱清言AI对话，基于ChatGLM2模型开发，支持多轮对话，具备内容创作、信息归纳总结等能力。",
+						"suffix": false,
+						"is_show": true
+						},
+						{
+						"title": "清华开源模型ChatGLM-6B可本地",
+						"url": "https://github.com/THUDM/ChatGLM-6B",
+						"icon": "https://www.ainav.cn/wp-content/uploads/2023/03/4f037-github.com.png",
+						"description": "中英双语对话模型 ChatGLM-6B，支持在单张消费级显卡上进行推理使用，支持中英双语问答的对话语言模型，并针对中文进行了优化。",
+						"suffix": false,
+						"is_show": true
+						},
+						{
+						"title": "百度飞桨·大模型平台",
+						"url": "https://aistudio.baidu.com/aistudio/index",
+						"icon": "https://api.iowen.cn/favicon/aistudio.baidu.com.png",
+						"description": "飞桨AI套件（PaddleX），飞桨精选模型的一站式开发平台！",
+						"suffix": false,
+						"is_show": true
+						},
+						{
+							"title": "字节跳动-AI豆包",
+							"url": "https://www.doubao.com/",
+							"icon": "https://www.ainav.cn/wp-content/uploads/2023/08/623e559be9fc6dcf7b76ed3b77da680b_avatar-head.e48d5531.png",
+							"description": "提供聊天机器人、写作助手以及英语学习助手等功能，它可以回答各种问题并进行对话，帮助人们获取信息！",
+							"suffix": false,
+							"is_show": true
+						},
+						{
+							"title": "百川大模型",
+							"url": "https://www.baichuan-ai.com/",
+							"icon": "https://cdn.baichuan-ai.com/build/_next/static/media/logo.a56ce11a.png",
+							"description": "你好，我是百川大模型，汇聚世界知识，创作妙笔生花",
+							"suffix": false,
+							"is_show": true
+						},
+						{
+							"title": "网易子曰大模型",
+							"url": "https://aicenter.youdao.com/",
+							"icon": "https://shared.ydstatic.com/ai/ziyueapp/prod/v1.0.0/assets/logo.e92bff40.png",
+							"description": "网易有道专为教育场景自研教育大模型,子曰教育大模型创新应用成果",
+							"suffix": false,
+							"is_show": true
+						},
+						{
+							"title": "孟子生成式大模型（澜舟科技）",
+							"url": "https://www.langboat.com/zh/portal/mengzi-gpt",
+							"icon": "https://www.langboat.com/favicon.ico",
+							"description": "孟子生成式预训练Transformer模型，是一种面向生成场景的可控大规模语言模型.",
+							"suffix": false,
+							"is_show": true
+						},
+						{
+							"title": "商汤日日新大模型",
+							"url": "https://techday.sensetime.com/",
+							"icon": "https://techday.sensetime.com//bg/png/sensetime.png",
+							"description": "Welcome to SenseTime Tech Day-商汤出品",
+							"suffix": false,
+							"is_show": true
+						},
+						{
+							"title": "天工大模型",
+							"url": "https://tiangong.kunlun.com/",
+							"icon": "https://www.ainav.cn/wp-content/uploads/2023/08/957cc-search.tiangong.cn.png",
+							"description": "天工开悟, 妙笔生花, 一起探索广袤的语言边界-昆仑万维出品",
+							"suffix": false,
+							"is_show": true
+						},
+						{
+							"title": "云知声山海大模型",
+							"url": "https://shanhai.unisound.com/",
+							"icon": "https://api.liesys.com/favicon/shanhai.unisound.com.png",
+							"description": "是您身边的助理、朋友和专家。和我对话即可获取信息、知识和灵感",
+							"suffix": false,
+							"is_show": true
+						},
+						{
+							"title": "曹植GPT大语言模型",
+							"url": "https://www.datagrand.com/products/aigc/1",
+							"icon": "https://api.liesys.com/favicon/www.datagrand.com.png",
+							"description": "达观数据智能写作覆盖写作全场景，为企业和个人提供更智能更高效的写作平台，提高写作效率!",
+							"suffix": false,
+							"is_show": true
+						},
+						{
+							"title": "AMiner认知大模型列表",
+							"url": "https://models.aminer.cn/modelcenter",
+							"icon": "https://api.liesys.com/favicon/models.aminer.cn.png",
+							"description": "GLM-130B 是一个开源开放的双语（中文和英文）双向稠密模型，基于 GLM 架构，拥有 1300 亿参数。",
+							"suffix": false,
+							"is_show": true
+						},
+						{
+							"title": "OpenBMB大模型平台",
+							"url": "https://www.openbmb.org/",
+							"icon": "https://api.liesys.com/favicon/www.openbmb.org.png",
+							"description": "让大模型飞入千家万户",
+							"suffix": false,
+							"is_show": true
+						},
+						{
+							"title": "Huggingface-Chat",
+							"url": "https://huggingface.co/",
+							"icon": "https://www.ainav.cn/wp-content/uploads/2023/05/d96c7-huggingface.co.png",
+							"description": "成百上千个Ai大模型社区，构建AI未来世界！",
+							"suffix": false,
+							"is_show": true
+						},
+						{
+							"title": "poe",
+							"url": "https://poe.com/",
+							"icon": "https://www.ainav.cn/wp-content/uploads/2023/06/9ef48-poe.com.png",
+							"description": "聚合重多国外大语言模型，例如chatgpt，gpt4，必应ai，claude2等",
+							"suffix": false,
+							"is_show": true
+						},
+						{
+							"title": "必应New Bing",
+							"url": "https://www.bing.com/new",
+							"icon": "https://www.bing.com/favicon.ico",
+							"description": "官方AI正版4.0，需要魔法",
+							"suffix": false,
+							"is_show": true
+						},
+						{
+							"title": "Open AI GPT4",
+							"url": "https://chat.openai.com/chat",
+							"icon": "https://www.ainav.cn/wp-content/uploads/2023/05/a8bd9-www.just2chat.cn.png",
+							"description": "ChatGPT官方网站，众多API，GPT4等官方站点，需要魔法+账号才能使用。",
+							"suffix": false,
+							"is_show": true
+						}
+				]
+			},
+			{
+				"tab_name": "AI写作",
+				"upper_right_corner": {},
+				"details": [
+					{
+						"title": "秘塔写作猫——AI智能写作工具",
+						"url": "https://xiezuocat.com/",
+						"icon": "https://api.iowen.cn/favicon/xiezuocat.com.png",
+						"description": "集AI写作、多人协作、文本校对、改写润色、自动配图等功能为一体AI Native内容创作平台",
+						"suffix": false,
+						"is_show": true
+					},
+					{
+						"title": "火山写作",
+						"url": "https://www.writingo.net/document",
+						"icon": "https://www.ainav.cn/wp-content/uploads/2023/04/d51ff-www.writingo.net.png",
+						"description": "字节跳动旗下团队推出的免费英语写作助手,可以智能纠错和智能润色",
+						"suffix": false,
+						"is_show": true
+					},
+					{
+						"title": "字语智能",
+						"url": "https://www.getgetai.com/",
+						"icon": "https://static.getgetai.com/base/pc-nuxt/23-9-26/img/e25de62.png",
+						"description": "字语智能是国内最早一批在AIGC领域扎根的产品，一站式智能Office内容创作平台 字语智能俱导以人机协作的方式，提高办公生产效率为目标。",
+						"suffix": false,
+						"is_show": true
+					},
+					{
+						"title": "笔灵AI写作",
+						"url": "https://ibiling.cn/home",
+						"icon": "https://www.ainav.cn/wp-content/uploads/2023/06/ibiling.png",
+						"description": "笔灵AI写作，面向专业写作领域的AI写作工具 ，有AI模版写作和AI对话",
+						"suffix": false,
+						"is_show": true
+					},
+					{
+						"title": "小鱼AI写作",
+						"url": "https://www.xiaoyuxiezuo.com/",
+						"icon": "https://www.ainav.cn/wp-content/uploads/2023/09/6a42e-ai.68wenan.com.png",
+						"description": "小鱼AI写作一款在线智能AI写作平台，内置AI写作模板，满足不同场景使用",
+						"suffix": false,
+						"is_show": true
+					},
+					{
+						"title": "【彩云ai】小梦续写",
+						"url": "https://if.caiyunai.com/dashboard/novels",
+						"icon": "https://pic2.zhimg.com/80/v2-aa5598a85c368b2fd741504fc55efdf6_720w.png",
+						"description": "彩云小梦-为文学创作者及文学爱好者提供Ai辅助创作编辑工具。",
+						"suffix": false,
+						"is_show": true
+					},
+					{
+						"title": "Notion AI",
+						"url": "https://www.notion.so/product/ai",
+						"icon": "https://www.ainav.cn/wp-content/uploads/2023/03/d4c2d-www.notion.so.png",
+						"description": "在任何概念页面中利用 AI 的无限力量。写得更快，想得更远，并增强您的创造力。像魔法一样！",
+						"suffix": false,
+						"is_show": true
+					},
+					{
+						"title": "百度智能云一念·智能创作平台",
+						"url": "https://login.bce.baidu.com/",
+						"icon": "https://www.ainav.cn/wp-content/uploads/2023/08/6c851620e735119810f7f66442d7cdd8_favicon.png",
+						"description": "百度智能云一念是基于百度文心大模型打造的内容创作平台。集文、图、视频等多种内容模态于一体，旨在助力企业更便捷高效地获取内容创作灵感和营销物料。",
+						"suffix": false,
+						"is_show": true
+					},
+					{
+						"title": "阿里妈妈-创意中心",
+						"url": "https://chuangyi.taobao.com/",
+						"icon": "https://www.ainav.cn/wp-content/uploads/2023/06/d0ac0-chuangyi.taobao.com.png",
+						"description": "基于阿里妈妈营销平台，提供从图文到视频再到落地页的素材级智能化创意支持，是您营销创意数字资产累积和升值的阵地，最大化提升营销的效率和效果。",
+						"suffix": false,
+						"is_show": true
+					},
+					{
+						"title": "腾讯Effidit-智能创作助手",
+						"url": "https://effidit.qq.com/",
+						"icon": "https://www.ainav.cn/wp-content/uploads/2023/03/53d69-effidit.qq.com.png",
+						"description": "是由腾讯 AI Lab 开发的一个研究性原型系统，探索用 AI 技术提升写作者的写作效率和创作体验",
+						"suffix": false,
+						"is_show": true
+					},
+					{
+						"title": "科大·讯飞智检",
+						"url": "https://zj.xfyun.cn/",
+						"icon": "https://www.ainav.cn/wp-content/uploads/2023/05/1db90588a4e1ec6ec39ad1513af7a3a4_zj-xfyun-icon.png",
+						"description": "讯飞智检，支持对纯文本、Word、图片、音频、视频进行批量审查，实现文本校对，",
+						"suffix": false,
+						"is_show": true
+					},
+					{
+						"title": "悉语·智能文案",
+						"url": "https://chuangyi.taobao.com/pages/aiCopy",
+						"icon": "https://www.ainav.cn/wp-content/uploads/2023/04/d2049-chuangyi.taobao.com.png",
+						"description": "阿里妈妈创意中心出品的一款一键生成商品营销文案的工具。在天猫或淘宝平台随意复制一款商品链接添加到工具中，点击生成文案",
+						"suffix": false,
+						"is_show": true
+					},
+					{
+						"title": "火龙果写作",
+						"url": "https://www.mypitaya.com/",
+						"icon": "https://www.mypitaya.com/_nuxt/img/03664f0.svg",
+						"description": "根据上文，扩展下文内容，速度快，一分钟可扩展数百字，适用于多种文体",
+						"suffix": false,
+						"is_show": true
+					},
+					{
+						"title": "知意AI",
+						"url": "https://ai.wozhiyi.com/",
+						"icon": "https://www.ainav.cn/wp-content/uploads/2023/08/zhiyiai-logo-yuan.png",
+						"description": "知意AI作为一款专业的AI创作工具软件，运用强大的自然语言处理能力，可进行对话式交互，也可做AI写作、辅助创作、AI绘画等各种特定场景形式的内容创作",
+						"suffix": false,
+						"is_show": true
+					},
+					{
+						"title": "小门道AI",
+						"url": "https://www.xiaomendao.cn/",
+						"icon": "https://www.ainav.cn/wp-content/uploads/2023/08/2b3eb-www.xiaomendao.cn.png",
+						"description": "小门道平台：AI绘画、AI问答和AI图片处理功能，电脑手机端皆可使用",
+						"suffix": false,
+						"is_show": true
+					},
+					{
+						"title": "智猫AI",
+						"url": "https://www.zhimaoai.cn/",
+						"icon": "https://www.ainav.cn/wp-content/uploads/2023/09/37667-www.zhimaoai.cn.png",
+						"description": "智猫AI是一款基于搜索引擎优化规则的跨境文案创作、营销及分析工具，帮助跨境卖家快速完成产品标题、5点描述、listing优化，邮件及文章写作",
+						"suffix": false,
+						"is_show": true
+					},
+					{
+						"title": "造作AI",
+						"url": "https://www.zaozuoai.com/",
+						"icon": "https://www.ainav.cn/wp-content/uploads/2023/09/1d871-www.zaozuoai.com.png",
+						"description": "一个致力于实现 AIGC的全能型人工智能创作助手",
+						"suffix": false,
+						"is_show": true
+					},
+					{
+						"title": "极简智能王",
+						"url": "https://www.jijianzn.com/",
+						"icon": "https://www.ainav.cn/wp-content/uploads/2023/08/d2dc0f0d98af0176829f6e96ff11606e.jpg",
+						"description": "极简智能- 智能聊天AI绘画，还可以创作、编写、翻译、写代码等多种功能，满足用户生活和工作的多方面需求",
+						"suffix": false,
+						"is_show": true
+					},
+					{
+						"title": "邮AI",
+						"url": "https://youai.hotaigc.cn/",
+						"icon": "https://www.ainav.cn/wp-content/uploads/2023/08/A64C0CA2-D82C-C464-7E76-4B313CE446AA.png",
+						"description": "邮AI是一款智能邮件写作软件，凭借其先进的人工智能技术，让您轻松撰写生动有趣、专业精准的电子邮件。",
+						"suffix": false,
+						"is_show": true
+					},
+					{
+						"title": "思默问答",
+						"url": "https://www.sitesmo.com/",
+						"icon": "https://www.ainav.cn/wp-content/uploads/2023/05/ea11c-www.sitesmo.com.png",
+						"description": "SiteSMO（思默）是一个综合性的AI应用平台，提供广泛的实用工具和服务。无论是在绘画、求职、工作、编程、写作、教育、营销、法律、心理学还是娱乐等领域",
+						"suffix": false,
+						"is_show": true
+					},
+					{
+						"title": "5118 AI写作",
+						"url": "https://www.5118.com/ai/articlegenius",
+						"icon": "https://www.ainav.cn/wp-content/uploads/2023/04/e7bd1-www.5118.com.png",
+						"description": "【AI写稿】一键生成高质量SEO原创文章.提高搜索引擎排名获得更多流量",
+						"suffix": false,
+						"is_show": true
+					},
+					{
+						"title": "左脉梦幻师·写作",
+						"url": "https://www.aispacelab.cn/",
+						"icon": "https://www.ainav.cn/wp-content/uploads/2023/03/df165-www.aispacelab.cn.png",
+						"description": "左脉・梦幻师是一款基于前沿AI大模型的在线内容生成工具，擅长理解文本和生成内容，可用于处理和解决几乎任何涉及语言的任务。",
+						"suffix": false,
+						"is_show": true
+					},
+					{
+						"title": "AI PaperPass论文",
+						"url": "https://www.aipaperpass.com/?pic=mnpN",
+						"icon": "https://api.iowen.cn/favicon/aipaperpass.com.png",
+						"description": "AI论文写作平台10分钟生成3万字，免费千字大纲，可选开题报告。",
+						"suffix": false,
+						"is_show": true
+					},
+					{
+						"title": "智启特AI学术助手",
+						"url": "https://acad.zhiqiteai.cn/",
+						"icon": "https://api.iowen.cn/favicon/acad.zhiqiteai.cn.png",
+						"description": "AI赋能学术，深入论文科研场景，做真正实用、好用的科研辅助工具。",
+						"suffix": false,
+						"is_show": true
+					}
+				]
+			},
+				{
+						"tab_name": "AI绘画",
+						"upper_right_corner": {},
+						"details": [
+							{
+								"title": "Midjourany官方",
+								"url": "https://www.midjourney.com/",
+								"icon": "https://www.ainav.cn/wp-content/uploads/2023/03/2b878-www.midjourney.com.png",
+								"description": "一个由Midjourney研究实验室开发的人工智能程序，可根据文本生成图像",
+								"suffix": false,
+								"is_show": true
+							},
+							{
+								"title": "Stable Diffusion教程",
+								"url": "https://www.stablediffusion-cn.com/",
+								"icon": "https://www.ai-collection.cn/wp-content/uploads/2022/11/b2c0b-printidea.art.png",
+								"description": "SD模型下载|安装使用|技术使用文档中文官网",
+								"suffix": false,
+								"is_show": true
+							},
+							{
+								"title": "Scribble Diffusion",
+								"url": "https://scribblediffusion.com/",
+								"icon": "https://api.iowen.cn/favicon/toonme.com.png",
+								"description": "Turn your sketch into a refined image using AI",
+								"suffix": false,
+								"is_show": true
+							},
+							{
+								"title": "Stable Diffusion中文网",
+								"url": "https://www.stablediffusion.cn/",
+								"icon": "https://sd2.kouer.com/assets/addons/ask/img/logo.svg",
+								"description": "一个可以回答你关于SD模型绘画的综合性网站",
+								"suffix": false,
+								"is_show": true
+							},
+							{
+								"title": "XTimesAI绘画平台",
+								"url": "https://www.xtimesai.com/",
+								"icon": "https://api.liesys.com/favicon/www.xtimesai.com.png",
+								"description": "XTimesAI_AI模型交流学习平台，绘画平台！",
+								"suffix": false,
+								"is_show": true
+							},
+							{
+								"title": "知作-Beta绘画创作",
+								"url": "https://zizo.pro/index",
+								"icon": "https://api.iowen.cn/favicon/zizo.pro.png",
+								"description": "人工智能强力驱动，灵感创意、云盘、团队协作、批注审阅、交付展示，流程全面数字化，全新全能，随时随地。",
+								"suffix": false,
+								"is_show": true
+							},
+							{
+								"title": "模袋云AI-绘画",
+								"url": "https://www.modaiyun.com/mdy/ai#/inspiration-creation",
+								"icon": "https://api.iowen.cn/favicon/modaiyun.com.png",
+								"description": "免费的SD绘画在线平台，灵感社区等。",
+								"suffix": false,
+								"is_show": true
+							},
+							{
+								"title": "AIGC设计平台",
+								"url": "https://aigcfull.com/",
+								"icon": "https://api.liesys.com/favicon/aigcfull.com.png",
+								"description": "AIGC平台采用最新的AI算法和深度学习技术，为数字营销、创意设计等领域提供强有力的支持。",
+								"suffix": false,
+								"is_show": true
+							},
+							{
+								"title": "通义万相",
+								"url": "https://wanxiang.aliyun.com/",
+								"icon": "https://www.ainav.cn/wp-content/uploads/2023/09/290e4-wanx.aliyun.com.png",
+								"description": "阿里云通义大模型之一，专为AI绘画类",
+								"suffix": false,
+								"is_show": true
+							},
+							{
+								"title": "哩布哩布AI",
+								"url": "https://www.liblibai.com/",
+								"icon": "https://www.ainav.cn/wp-content/uploads/2023/07/e39c4-www.liblibai.com.png",
+								"description": "中国领先原创AI模型分享社区",
+								"suffix": false,
+								"is_show": true
+							},
+							{
+								"title": "意间AI",
+								"url": "http://www.yjai.art/",
+								"icon": "https://api.liesys.com/favicon/www.yjai.art.png",
+								"description": "意间AI是一个基于人工智能的绘画工具App，帮助用户用最新的AI技术创造令人惊艳的绘画作品。",
+								"suffix": false,
+								"is_show": true
+							},
+							{
+								"title": "数画AI",
+								"url": "https://shuxuehua.com/",
+								"icon": "https://api.liesys.com/favicon/shuxuehua.com.png",
+								"description": "数画是一款国产版ai绘画生成器，优秀的AI绘画软件，是国内罕见的AI作画生成网站！",
+								"suffix": false,
+								"is_show": true
+							},
+							{
+								"title": "创客贴AI画匠",
+								"url": "https://aiart.chuangkit.com/",
+								"icon": "https://api.liesys.com/favicon/aiart.chuangkit.com.png",
+								"description": "创客贴AI画匠是创客贴AI艺术创作平台，汇聚了多款AI创作辅助工具，迎接人机共创内容的新时代！",
+								"suffix": false,
+								"is_show": true
+							},
+							{
+								"title": "海艺AI",
+								"url": "http://seatart.ai/",
+								"icon": "https://www.ainav.cn/wp-content/uploads/2023/06/8BCB563DCBE7A49116BB5FD678AD7A0A.jpg",
+								"description": "免费A绘画工具，，轻松生成绘画作品，需要魔法",
+								"suffix": false,
+								"is_show": true
+							},
+							{
+								"title": "Free AI Image",
+								"url": "https://images.ylokh.xyz/",
+								"icon": "https://www.ainav.cn/wp-content/uploads/2023/07/50fed-www.aixx.ai.png",
+								"description": "Generate Images using AI",
+								"suffix": false,
+								"is_show": true
+							}
+						]
+					},
+					{
+						"tab_name": "AI工具",
+						"upper_right_corner": {},
+						"details": [
+							{
+								"title": "MJ提示词工具",
+								"url": "https://aijiaolian.chat/midjourney",
+								"icon": "https://ai.tboxn.com/wp-content/uploads/2023/06/200.png",
+								"description": "在线MidJourney提示词工具",
+								"suffix": false,
+								"is_show": true
+							},
+							{
+								"title": "AI提示词",
+								"url": "https://www.gpttsc.top/",
+								"icon": "https://ai.tboxn.com/wp-content/uploads/2023/05/promp.png",
+								"description": "ChatGPT提示词prompt大全",
+								"suffix": false,
+								"is_show": true
+							},
+							{
+								"title": "FlowGPT",
+								"url": "https://flowgpt.com/",
+								"icon": "https://api.iowen.cn/favicon/flowgpt.com.png",
+								"description": "ChagGPT指令大全，需要魔法访问！",
+								"suffix": false,
+								"is_show": true
+							},
+							{
+								"title": "Stable Diffusion Prompt Book",
+								"url": "https://openart.ai/promptbook",
+								"icon": "https://www.ainavpro.com/wp-content/uploads/2023/04/591680753909_.pic_.jpg",
+								"description": "Open AI官方提示词promptbook文档，需要魔法访问！",
+								"suffix": false,
+								"is_show": true
+							},
+							{
+								"title": "Civitai提示词",
+								"url": "https://civitai.com/",
+								"icon": "https://api.liesys.com/favicon/civitai.com.png",
+								"description": "Civitai是一个稳定扩散AI艺术模型的平台，收集了来自250多个创作者的1，700多个模型。",
+								"suffix": false,
+								"is_show": true
+							},
+							{
+								"title": "AI魔咒百科词典",
+								"url": "https://aitag.top/",
+								"icon": "https://api.iowen.cn/favicon/aitag.top.png",
+								"description": "魔咒百科词典——魔法导论必备工具, 简单易用的AI绘画tag生成器！",
+								"suffix": false,
+								"is_show": true
+							},
+							{
+								"title": "Replika",
+								"url": "https://replika.com/",
+								"icon": "https://ai.tboxn.com/wp-content/uploads/2023/02/434x0w.png",
+								"description": "AI聊天机器人伴侣",
+								"suffix": false,
+								"is_show": true
+							},
+							{
+								"title": "Auto-GPT",
+								"url": "https://github.com/torantulino/auto-gpt",
+								"icon": "https://ai.tboxn.com/wp-content/uploads/2023/04/auto_gpt_logo.png",
+								"description": "可以自我改进的人工智能，AI顶级boss，需要加速器上Github！",
+								"suffix": false,
+								"is_show": true
+							},
+							{
+								"title": "DreamAvatar",
+								"url": "https://www.dreamavatar.com/",
+								"icon": "https://www.dreamavatar.com/_next/static/media/logo.cc841921.svg",
+								"description": "AI生成工具！",
+								"suffix": false,
+								"is_show": true
+							},
+							{
+								"title": "闪剪",
+								"url": "https://shanjian.tv/",
+								"icon": "https://bhb-frontend.bhbcdn.com/static/files/47b69f2a6c308a65f2a0fc4bcd7151a4.png",
+								"description": "AI智能数字人智能剪辑，让数字人直播遍地开花！",
+								"suffix": false,
+								"is_show": true
+							},
+							{
+								"title": "Studio D-ID",
+								"url": "https://www.d-id.com",
+								"icon": "https://api.iowen.cn/favicon/www.d-id.com.png",
+								"description": "AI真人口播视频生成工具。",
+								"suffix": false,
+								"is_show": true
+							},
+							{
+								"title": "AI图片无损放大",
+								"url": "https://photoaid.com/en/tools/ai-image-enlarger",
+								"icon": "https://api.iowen.cn/favicon/photoaid.com.png",
+								"description": "AI图片照片无损放大超高清！关键还是免费没有限制的。",
+								"suffix": false,
+								"is_show": true
+							},
+							{
+								"title": "AI生成PPT【美图秀秀】",
+								"url": "https://www.x-design.com/ppt/",
+								"icon": "https://api.iowen.cn/favicon/x-design.com.png",
+								"description": "美图秀秀旗下智能设计与协作平台，超多免费高清海报模板素材，一键生成创意海报，可用于宣传、招聘、通知、广告等诸多场景。",
+								"suffix": false,
+								"is_show": true
+							},
+							{
+								"title": "AI抠图 bgSub版",
+								"url": "https://bgsub.cn/webapp/",
+								"icon": "https://api.iowen.cn/favicon/bgsub.cn.png",
+								"description": "BgSub版AI抠图，一键消除或者替换图像背景，无需上传图像。",
+								"suffix": false,
+								"is_show": true
+							},
+							{
+								"title": "AI抠图 在线版",
+								"url": "https://www.remove.bg/zh",
+								"icon": "https://api.iowen.cn/favicon/remove.bg.png",
+								"description": "在线快速AI自动抠图——remove.bg——Remove Image Background——无需登录与注册。",
+								"suffix": false,
+								"is_show": true
+							},
+							{
+								"title": "AI生成海报",
+								"url": "https://designer.microsoft.com/invite",
+								"icon": "https://api.iowen.cn/favicon/designer.microsoft.com.png",
+								"description": "Microsoft Designer，一个微软自家的AI海报设计站，可以自己更改生成的设计方案，并可能会生成视频。",
+								"suffix": false,
+								"is_show": true
+							},
+							{
+								"title": "360鸿图",
+								"url": "https://api.8kmm.com/get.php?url=tu.360.cn",
+								"icon": "https://api.8kmm.com/get.php?url=tu.360.cn",
+								"description": "360旗下AI绘图工具。可以输入中文关键词来生成图片。",
+								"suffix": false,
+								"is_show": true
+							},
+							{
+								"title": "Vispunk图像处理",
+								"url": "https://vispunk.com/",
+								"icon": "https://i.8kmm.com/2023/09/vispunk-removebg-preview.webp",
+								"description": "一款独特的 AI 图像生成工具，通过拖放操作，让您轻松创建具有完美构图的图像。",
+								"suffix": false,
+								"is_show": true
+							},
+							{
+								"title": "Image+",
+								"url": "https://image.plus/",
+								"icon": "https://i.8kmm.com/2023/08/image.plus_.webp",
+								"description": "一款免费无限量的人工智能图片生成器。",
+								"suffix": false,
+								"is_show": true
+							},
+							{
+								"title": "Freehand意绘图片",
+								"url": "https://freehands.cn/",
+								"icon": "https://api.8kmm.com/get.php?url=freehands.cn",
+								"description": "一款免费的AI绘图工具，支持中文，支持选择绘画的风格和尺寸大小，使用无需注册登录。",
+								"suffix": false,
+								"is_show": true
+							},
+							{
+								"title": "PixAI图片生成",
+								"url": "https://pixai.art/",
+								"icon": "https://i.8kmm.com/2023/06/pixai.png",
+								"description": "",
+								"suffix": false,
+								"is_show": true
+							},
+							{
+								"title": "AI思维导图【妙办画板】",
+								"url": "https://imiaoban.com/ai/mind",
+								"icon": "https://api.iowen.cn/favicon/imiaoban.com.png",
+								"description": "妙办画板，专门为您研发的画图软件工具，实现专业绘图软件工才能绘制的示意图、思维导图、流程图、组织架构图、脑图、关系图、结构图等。",
+								"suffix": false,
+								"is_show": true
+							},
+							{
+								"title": "AI生成PPT【灵感版】",
+								"url": "https://ai.linganoffice.com/",
+								"icon": "https://p3dk.nikong.cn/static/img/idea.31246197.png",
+								"description": "在线生成PPT，整体效果还不错，虽然比较简陋，但至少大纲帮你列好了，下载PPT的时候有点问题，只支持PDF格式",
+								"suffix": false,
+								"is_show": true
+							},
+							{
+								"title": "AI生成海报",
+								"url": "https://designer.microsoft.com/invite",
+								"icon": "https://api.iowen.cn/favicon/designer.microsoft.com.png",
+								"description": "一个微软自家的AI海报设计站，可以自己更改生成的设计方案，并可能会生成视频",
+								"suffix": false,
+								"is_show": true
+							},
+							{
+								"title": "AI产品海报",
+								"url": "https://flair.ai/",
+								"icon": "https://api.iowen.cn/favicon/flair.ai.png",
+								"description": "优秀的产品海报AI辅助设计工具",
+								"suffix": false,
+								"is_show": true
+							},
+							{
+								"title": "AI办公【WPS AI】【内测】",
+								"url": "https://ai.wps.cn/",
+								"icon": "https://api.iowen.cn/favicon/ai.wps.cn.png",
+								"description": "WPS AI是由金山办公发布的具备大语言模型能力的人工智能应用，为用户提供智能文档写作、阅读理解和问答、智能人机交互的能力",
+								"suffix": false,
+								"is_show": true
+							},
+							{
+								"title": "AI周报生成器",
+								"url": "https://weeklyreport.avemaria.fun/zh",
+								"icon": "https://api.iowen.cn/favicon/weeklyreport.avemaria.fun.png",
+								"description": "简单描述工作内容，AI帮你生成完整周报。生成有点慢，还请多试几次，耐心等待",
+								"suffix": false,
+								"is_show": true
+							},
+							{
+								"title": "AI做简历",
+								"url": "https://www.chzhkeji.com/app/word_list.html",
+								"icon": "https://api.iowen.cn/favicon/www.chzhkeji.com.png",
+								"description": "海量简历模板免费选择——在线AI简历一键生成",
+								"suffix": false,
+								"is_show": true
+							},
+							{
+								"title": "AI生成思维导图",
+								"url": "https://duomosmart.com/",
+								"icon": "https://api.iowen.cn/favicon/duomosmart.com.png",
+								"description": "【多墨智能】输入关键词一键生成思维导图",
+								"suffix": false,
+								"is_show": true
+							},
+							{
+								"title": "AI求职",
+								"url": "https://www.explainthis.io/zh-hans/tools",
+								"icon": "https://api.iowen.cn/favicon/www.explainthis.io.png",
+								"description": "【AI帮助求职】最全面的前端和后端工程面试准备材料和职业建议。免费的！",
+								"suffix": false,
+								"is_show": true
+							},
+							{
+								"title": "AI翻译",
+								"url": "https://www.deepl.com/translator",
+								"icon": "https://api.iowen.cn/favicon/www.deepl.com.png",
+								"description": "DeepL——声称全世界最精准的机器翻译——DeepL比同类竞争对手准确三倍以上！",
+								"suffix": false,
+								"is_show": true
+							},
+							{
+								"title": "AI营销",
+								"url": "https://copyai.cn/",
+								"icon": "https://api.iowen.cn/favicon/copyai.cn.png",
+								"description": "copydoneAI智能生成海量营销文案，可适应国内及海外各类营销平台风格，覆盖丰富的产品类型，一键可得海量文案及创作灵感！",
+								"suffix": false,
+								"is_show": true
+							},
+							{
+								"title": "AI去水印",
+								"url": "https://quququ.cn/",
+								"icon": "https://api.iowen.cn/favicon/quququ.cn.png",
+								"description": "在线免费去水印",
+								"suffix": false,
+								"is_show": true
+							}
+						]
+					},
+					{
+						"tab_name": "AI优质内容",
+						"upper_right_corner": {},
+						"details": [
+							{
+								"title": "AIGC知识库|首页",
+								"url": "https://svfdbeddg6y.feishu.cn/docx/UybjdSnKDood9ixMDAtcB02ynLg?from=from_copylink",
+								"icon": "https://www.ainav.cn/wp-content/uploads/2023/05/b8132-www.feishu.cn.png",
+								"description": "专业的AIGC知识库，小白自建。",
+								"suffix": false,
+								"is_show": true
+							},
+							{
+								"title": "ChatGPT知识库 | 一站式全方位、共享知识库",
+								"url": "https://flowus.cn/34cc0af2-8834-444c-bc2b-7d005676c524",
+								"icon": "https://img1.baidu.com/it/u=2599845237,1435313785&fm=253&app=138&size=w931&n=0&f=PNG&fmt=auto?sec=1694970000&t=be3f722d954919f46f9c724ff647b623",
+								"description": "专业的Chatgpt一站式全方位共享知识库，小白自建。",
+								"suffix": false,
+								"is_show": true
+							},
+							{
+								"title": "AI魔法师聚集地·ChatGPT·Midjourney",
+								"url": "https://www.yuque.com/popponyj/aigc",
+								"icon": "https://api.iowen.cn/favicon/yuque.com.png",
+								"description": "持续更新 AIGC 的相关资讯动态、应用工具、使用教程、变现案例！",
+								"suffix": false,
+								"is_show": true
+							},
+							{
+								"title": "AIGC首页 |飞书",
+								"url": "https://id8ex69uxy.feishu.cn/wiki/wikcniXUzbbkVvBq76Ahz56blag",
+								"icon": "https://www.ainav.cn/wp-content/uploads/2023/05/b8132-www.feishu.cn.png",
+								"description": "快速入手AIGC知识库，让知识更多人共享获得！",
+								"suffix": false,
+								"is_show": true
+							},
+							{
+								"title": "AIGC知识库丨一站式人工智能知识库",
+								"url": "https://www.yuque.com/gptcn/gpt/bq0ygp7rww10pmhu",
+								"icon": "https://api.iowen.cn/favicon/yuque.com.png",
+								"description": "AIGC快速入门上手！",
+								"suffix": false,
+								"is_show": true
+							},
+							{
+								"title": "Midjourney 知识库",
+								"url": "https://tob-design.yuque.com/kxcufk/mj/",
+								"icon": "https://api.iowen.cn/favicon/yuque.com.png",
+								"description": "一个设计团体发起的， AI 绘画爱好者社群，当然只是始于 AI绘画。 它慢慢的改变了 UI、 UX 设计的工作，从各个方面，各个维度……",
+								"suffix": false,
+								"is_show": true
+							},
+							{
+								"title": "Midjourney中文学习知识库",
+								"url": "https://learningprompt.wiki/docs/midjourney-learning-path",
+								"icon": "https://www.wanrenmi8.com/assets/images/mj5.png",
+								"description": "AI、思维导图、效率工具等合集系列介绍学习指南！",
+								"suffix": false,
+								"is_show": true
+							},
+							{
+								"title": "MJ关键词-命令-随时更新",
+								"url": "https://docs.qq.com/sheet/DRGtYVlFzZG15cGlm?tab=BB08J2",
+								"icon": "https://api.iowen.cn/favicon/docs.qq.com.png",
+								"description": "MJ相关提示词等，准确组词绘图！",
+								"suffix": false,
+								"is_show": true
+							},
+							{
+								"title": "可用 ChatGPT Web 合集",
+								"url": "https://www.yuque.com/popponyj/aigc/chatgpt-web",
+								"icon": "https://api.iowen.cn/favicon/yuque.com.png",
+								"description": "Chatgpt网址列表，介绍chatgpt使用等。",
+								"suffix": false,
+								"is_show": true
+							},
+							{
+								"title": "Stable Diffusion 知识库",
+								"url": "https://tob-design.yuque.com/kxcufk/sd/",
+								"icon": "https://api.iowen.cn/favicon/yuque.com.png",
+								"description": "这里是由 AICC 共建的StableDiffusion知识库；我们会在此记录学习SD的点点滴滴，将相关知识串连为一本书，供更多想要学习SD的朋友免费参考和学习。",
+								"suffix": false,
+								"is_show": true
+							},
+							{
+								"title": "sd相关资料网址",
+								"url": "https://docs.qq.com/doc/DWXlpWllRR2RhS2pm",
+								"icon": "https://api.iowen.cn/favicon/docs.qq.com.png",
+								"description": "sd相关模型资料等资源系列。",
+								"suffix": false,
+								"is_show": true
+							},
+							{
+								"title": "GPT/AIGC/LLM/NLP/ChatGPT学习知识库",
+								"url": "https://xinghuo.xfyun.cn/?ref=nav.liesys.com",
+								"icon": "https://www.ainav.cn/wp-content/uploads/2023/05/b8132-www.feishu.cn.png",
+								"description": "一个大模型基座学习知识库，全面详细讲述训练大模型知识等。",
+								"suffix": false,
+								"is_show": true
+							},
+							{
+								"title": "Chatgpt知识指南书",
+								"url": "https://chatgpt123.com/",
+								"icon": "https://www.ainav.cn/wp-content/uploads/2023/05/a8bd9-www.just2chat.cn.png",
+								"description": "Chatgpt导航站、资源站、中文社区等！",
+								"suffix": false,
+								"is_show": true
+							},
+							{
+								"title": "ChatGPT 引导语知识库",
+								"url": "https://prompts.fresns.cn/",
+								"icon": "https://cdn.fresns.cn/wiki/chatgpt/logo.png",
+								"description": "这里汇集了丰富的 ChatGPT 引导语、创意写作灵感与实用技巧。让我们帮助您激发无限创意，提升写作效率与质量。",
+								"suffix": false,
+								"is_show": true
+							},
+							{
+								"title": "DocsAI知识库·Notion",
+								"url": "https://diri1.notion.site/102f0a2a6dd649a0a69a1ebebed3a965",
+								"icon": "https://api.iowen.cn/favicon/notion.site.png",
+								"description": "一个AI知识库收纳之地",
+								"suffix": false,
+								"is_show": true
+							},
+							{
+								"title": "ChatGPT汇总列表",
+								"url": "https://ainav.org/",
+								"icon": "http://wz.aidaohang.com.cn/wp-content/uploads/2023/03/png-3.png",
+								"description": "最新最全的AI资讯汇总，ChatGPT 镜像 | ChatGPT 免注册公益网站汇总。",
+								"suffix": false,
+								"is_show": true
+							},
+							{
+								"title": "ChatGPT 指令大全",
+								"url": "https://www.explainthis.io/zh-hans/chatgpt",
+								"icon": "https://www.explainthis.io/img/logo.svg",
+								"description": "本站提供数百个精炼过的指令语句 (提示词)，让你充分发挥 ChatGPT 的强大功能。",
+								"suffix": false,
+								"is_show": true
+							},
+							{
+								"title": "一个工具AI/出海导航站的导航知识库",
+								"url": "https://www.gongju.one/",
+								"icon": "https://www.gongju.one/wp-content/uploads/2022/12/cropped-LOGO.png",
+								"description": "AI/出海工具站太多，只要记住，GongJu.One！",
+								"suffix": false,
+								"is_show": true
+							},
+							{
+								"title": "通往AGI之路",
+								"url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?chunked=false",
+								"icon": "https://api.iowen.cn/favicon/feishu.cn.png",
+								"description": "要实现通用人工智能(AGI)也许有很长的路要走，我们的目标是让每个人的学习过程少走弯路，让更多的人因AI而强大。",
+								"suffix": false,
+								"is_show": true
+							}
+						]
+					}
+				]
+			},
+			{
+				"group_name": "游戏娱乐",
+				"style": 1,
+				"style_des": "标准风格",
+				"tab_list": [
+					{
+						"tab_name": "无事风流",
+						"upper_right_corner": {},
+						"details": [
+								{
+								"title": "网络实时攻击图",
+								"url": "https://cybermap.kaspersky.com/",
+								"icon": "https://cybermap.kaspersky.com/images/Kaspersky_Web_Favicon_256x256.png",
+								"description": "全球网络攻击动态实时显示",
+								"suffix": false,
+								"is_show": true
+								},
+								{
+								"title": "带你去看流星雨",
+								"url": "https://www.meteorshowers.org/view/Lyrids",
+								"icon": "http://p2.music.126.net/cvj7-M0M7mVFK5gwBDGGiA==/109951169135599219.jpg?param=140y140",
+								"description": "在外太空观赏流星雨的最佳网站",
+								"suffix": false,
+								"is_show": true
+								},
+								{
+								"title": "全球天气可视化",
+								"url": "https://www.windy.com/29.290/117.200?29.281,117.235,11",
+								"icon": "https://www.windy.com/favicon.ico",
+								"description": "实时展示全球天气状况的交互地图",
+								"suffix": false,
+								"is_show": true
+								},
+								{
+								"title": "全球全景360VR",
+								"url": "https://www.zhijianshang.com/",
+								"icon": "https://www.zhijianshang.com/favicon.ico",
+								"description": "享受身临其境的全景360度VR体验",
+								"suffix": false,
+								"is_show": true
+								},
+								{
+								"title": "全景大学-中国高校VR",
+								"url": "http://www.tvyan.com/tai/daxue/",
+								"icon": "http://www.tvyan.com/favicon.ico",
+								"description": "用VR技术实现虚拟校园探访",
+								"suffix": false,
+								"is_show": true
+								},
+								{
+								"title": "实时地球| 卫星监测",
+								"url": "https://zoom.earth/maps/satellite/",
+								"icon": "https://zoom.earth/assets/images/icon-32.3.png",
+								"description": "实时地球天气、卫星状况数据，尽在掌握！",
+								"suffix": false,
+								"is_show": true
+								},
+								{
+									"title": "全球高清实况摄像头",
+									"url": "https://www.skylinewebcams.com/",
+									"icon": "https://cdn.jsdelivr.net/gh/SkylineWebcams/web@main/favicon.ico",
+									"description": "全球联网摄像头，看外面的缤纷世界",
+									"suffix": false,
+									"is_show": true
+								},
+								{
+									"title": "全球天气可视化",
+									"url": "https://earth.nullschool.net/",
+									"icon": "https://earth.nullschool.net/favicon.ico",
+									"description": "实时地球天气、卫星状况数据，尽在掌握！",
+									"suffix": false,
+									"is_show": true
+								},
+								{
+									"title": "网络实况摄像头",
+									"url": "https://www.webcamtaxi.com/en/",
+									"icon": "https://www.webcamtaxi.com/favicon-32x32.png",
+									"description": "关注网络摄像头实时状况，看世界各地繁华",
+									"suffix": false,
+									"is_show": true
+								},
+								{
+									"title": "全球实时航班交通路况图",
+									"url": "https://viewer.legacysurvey.org/#NGC%20442",
+									"icon": "https://viewer.legacysurvey.org/static/favicon.png",
+									"description": "一张万亿级的像素图，带你看尽夜空繁星",
+									"suffix": false,
+									"is_show": true
+								},
+								{
+									"title": "卫星台风暴雨观测",
+									"url": "https://www.windy.com/?27.816,114.324,10",
+									"icon": "https://www.windy.com/img/favicon.png",
+									"description": "一张万亿级的像素图，带你看尽夜空繁星",
+									"suffix": false,
+									"is_show": true
+								},
+								{
+									"title": "十万亿像素的夜空",
+									"url": "https://viewer.legacysurvey.org/#NGC%20442",
+									"icon": "https://viewer.legacysurvey.org/static/favicon.png",
+									"description": "一张万亿级的像素图，带你看尽夜空繁星",
+									"suffix": false,
+									"is_show": true
+								},
+								{
+									"title": "地球发展时间轴",
+									"url": "https://timelineofearth.com/",
+									"icon": "http://p2.music.126.net/5sJ7lnrotY3WDVoNRVU9AA==/109951168800486170.jpg?param=140y140",
+									"description": "一根时间轴道出地球演变的亿年历史时刻",
+									"suffix": false,
+									"is_show": true
+								},
+								{
+									"title": "中国国家博物馆VR",
+									"url": "https://www.chnmuseum.cn/Portals/0/web/vr/",
+									"icon": "https://www.chnmuseum.cn/Portals/0/web/vr/ui/logo2.png",
+									"description": "用VR技术实现虚拟博物馆观看，云上展览",
+									"suffix": false,
+									"is_show": true
+								},
+								{
+									"title": "全历史",
+									"url": "https://www.allhistory.com/",
+									"icon": "https://www.allhistory.com/favicon.ico",
+									"description": "全球历史时刻时间，它都有！",
+									"suffix": false,
+									"is_show": true
+								},
+								{
+									"title": "故宫数字博物馆",
+									"url": "https://digicol.dpm.org.cn/",
+									"icon": "https://digicol.dpm.org.cn/images/favicon.ico",
+									"description": "数字文库展示几千年的文明古老神器等",
+									"suffix": false,
+									"is_show": true
+								},
+								{
+								"title": "人生毒鸡汤",
+								"url": "https://du.shadiao.pro/",
+								"icon": "https://du.shadiao.pro/du.ico",
+								"description": "生成各种恶搞、毒鸡汤段子的网站",
+								"suffix": false,
+								"is_show": true
+								},
+								{
+								"title": "今天吃啥呀？",
+								"url": "http://guozhivip.com/eat/",
+								"icon": "http://guozhivip.com/images/ic.ico",
+								"description": "结合了推荐和抽选两种模式的美食决策神器",
+								"suffix": false,
+								"is_show": true
+								},
+								{
+									"title": "能不能好好说话-懂你的梗",
+									"url": "https://lab.magiconch.com/nbnhhsh/",
+									"icon": "https://lab.magiconch.com/favicon.ico",
+									"description": "解释各种网络术语、缩写的神器",
+									"suffix": false,
+									"is_show": true
+								},
+								{
+								"title": "评语生成器",
+								"url": "https://class.acagrid.com/pc/comment",
+								"icon": "https://class.acagrid.com/static/favicon.ico",
+								"description": "一键生成各种优秀评语的网页工具",
+								"suffix": false,
+								"is_show": true
+								},
+								{
+								"title": "每日一文-文章",
+								"url": "https://meiriyiwen.com/",
+								"icon": "http://p1.music.126.net/FdJWAM6UdPJxEzPojcb7WA==/109951169097160257.jpg?param=140y140",
+								"description": "每天一篇好文，享受文字的力量",
+								"suffix": false,
+								"is_show": true
+								},
+								{
+								"title": "申论生成器",
+								"url": "https://sojo.im/slscq/",
+								"icon": "https://sojo.im/favicon.ico",
+								"description": "生成申论文章的AI助手",
+								"suffix": false,
+								"is_show": true
+								},
+								{
+									"title": "人生重开模拟器",
+									"url": "https://static.oschina.net/trytry/life-restart/view/",
+									"icon": "https://static.oschina.net/favicon.ico",
+									"description": "让你在虚拟世界中重新选择人生道路",
+									"suffix": false,
+									"is_show": true
+								}
+						]
+					},
+					{
+						"tab_name": "在线游戏",
+						"upper_right_corner": {},
+						"details": [
+							{
+								"title": "在线植物大战僵尸",
+								"url": "http://pvz.56wan.com/",
+								"icon": "http://pvz.56wan.com/favicon.ico",
+								"description": "经典塔防游戏在线版，回味小时候经典",
+								"suffix": false,
+								"is_show": true
+							},
+							{
+								"title": "小霸王在线游戏",
+								"url": "https://www.yikm.net/",
+								"icon": "http://p1.music.126.net/MmsmmizsrOwlgOguGu4Wog==/109951165747860830.jpg?param=140y140",
+								"description": "玩怀旧游戏，重温童年记忆",
+								"suffix": false,
+								"is_show": true
+							},
+							{
+								"title": "poki游戏",
+								"url": "https://poki.cn/",
+								"icon": "https://a.poki.com/img/favicon.ico",
+								"description": "各种小游戏合集系列",
+								"suffix": false,
+								"is_show": true
+							},
+							{
+								"title": "7k7k小游戏",
+								"url": "http://so.7k7k.com/",
+								"icon": "http://p2.music.126.net/gA6MMdcY7WRNm0bs3W4E7w==/18651015743968707.jpg?param=140y140",
+								"description": "众多小游戏下载和在线玩",
+								"suffix": false,
+								"is_show": true
+							},
+							{
+								"title": "沙雕导航｜有趣都在这",
+								"url": "https://shadiao.pro/",
+								"icon": "https://shadiao.pro/wp-content/uploads/2022/06/logo@80.png",
+								"description": "宅男宅女必备的搞笑网站集合",
+								"suffix": false,
+								"is_show": true
+							}
+						]
+					},
+					{
+						"tab_name": "趣味游戏",
+						"upper_right_corner": {},
+						"details": [
+							{
+								"title": "有趣网址之家",
+								"url": "https://youquhome.com/",
+								"icon": "https://youquhome.com/favicon.ico",
+								"description": "收藏各种有趣实用的网站",
+								"suffix": false,
+								"is_show": true
+							},
+							{
+								"title": "奇趣网站收藏家",
+								"url": "https://fuun.fun/",
+								"icon": "https://fuun.fun/apple-touch-icon.png",
+								"description": "有趣网址之家 - 收藏全球最有趣的网站",
+								"suffix": false,
+								"is_show": true
+							}
+						]
+					}
+				]
+			},
+			{
+				"group_name": "友情链接",
+				"style": 1,
+				"style_des": "标准风格",
+				"tab_list": [
+					{
+						"tab_name": "推荐站点",
+						"upper_right_corner": {},
+						"details": [
+							{
+								"title": "小白Nav-一站式综合资源共享平台",
+								"url": "http://hav.lxyq.link/",
+								"icon": "https://img01.anheyu.com/useruploads/156/2024/01/19/65a950d00703f.png",
+								"description": "一站式免费综合资源共享平台，2024新年快乐，勇往直前！",
+								"suffix": false,
+								"is_show": true
+							},
+							{
+								"title": "DAC导航-让校园生活更加精彩！",
+								"url": "https://studyhard.eu.org/",
+								"icon": "https://studyhard.eu.org/wp-content/uploads/2023/04/favicon.png",
+								"description": "指导前辈，DAC让校园生活更精彩！",
+								"suffix": false,
+								"is_show": true
+							},
+							{
+								"title": "阿虚同学的储物间",
+								"url": "https://axutongxue.com/",
+								"icon": "https://axutongxue.com/favicon.ico",
+								"description": "阿虚互联网优质干货分享者，仰慕的大佬！",
+								"suffix": false,
+								"is_show": true
+							},
+							{
+								"title": "jay同学的资源库",
+								"url": "https://www.likejay.cn/",
+								"icon": "https://www.likejay.cn/wp-content/uploads/2023/06/80.png",
+								"description": "群里的一位技术博主大佬，公众号常更！",
+								"suffix": false,
+								"is_show": true
+							},
+							{
+								"title": "图欧学习导航",
+								"url": "https://tuostudy.upnb.top/",
+								"icon": "https://bu.dusays.com/2023/08/06/64cf1bb8261a5.png",
+								"description": "学习资料资源大佬，图欧up主牛逼！",
+								"suffix": false,
+								"is_show": true
+							},
+							{
+								"title": "海拥",
+								"url": "http://haiyong.site/",
+								"icon": "http://haiyong.site/img/favicon.png",
+								"description": "海拥大佬，一个乐于分享技术与快乐的技术大咖！",
+								"suffix": false,
+								"is_show": true
+							},
+							{
+								"title": "Butterfly博客官方",
+								"url": "https://butterfly.js.org/",
+								"icon": "https://img01.anheyu.com/useruploads/141/2023/04/25/6447ad7f102d8.png",
+								"description": "Hexo-Butterfly博客主题官方，强烈推荐！小白自建博客指导地",
+								"suffix": false,
+								"is_show": true
+								},
+								{
+								"title": "安知鱼",
+								"url": "https://blog.anheyu.com/",
+								"icon": "https://img01.anheyu.com/useruploads/156/2023/05/05/6454c6e7b2673.jpg",
+								"description": "生活明朗，万物可爱",
+								"suffix": false,
+								"is_show": true
+								},
+								{
+								"title": "gtwxxh",
+								"url": "https://blog.gtwxxh.cn",
+								"icon": "https://img01.anheyu.com/useruploads/156/2023/05/05/6454c6e7bae9e.jpg",
+								"description": "扣首问路，码梦为生！",
+								"suffix": false,
+								"is_show": true
+								},
+								{
+								"title": "张洪Heo",
+								"url": "https://blog.zhheo.com/",
+								"icon": "https://bu.dusays.com/2022/12/28/63ac2812183aa.png",
+								"description": "分享设计与科技生活",
+								"suffix": false,
+								"is_show": true
+								},
+								{
+								"title": "慕雪年华",
+								"url": "https://blog.musnow.top/",
+								"icon": "https://img01.anheyu.com/useruploads/156/2023/05/05/6454c6e7b25f8.jpg",
+								"description": "爱折腾的代码初学者",
+								"suffix": false,
+								"is_show": true
+								},
+								{
+								"title": "Shine",
+								"url": "https://blog.shineyu.cn/",
+								"icon": "https://img01.anheyu.com/useruploads/156/2023/05/05/6454c6e7bae9e.jpg",
+								"description": "热爱生活点滴，分享时刻精彩。",
+								"suffix": false,
+								"is_show": true
+								},
+								{
+								"title": "南方嘉木",
+								"url": "https://gavin-chen.top/",
+								"icon": "https://gavin-chen.top/img/avatar.webp",
+								"description": "不畏将来，不念过往。",
+								"suffix": false,
+								"is_show": true
+							},
+							{
+								"title": "虫洞-十年之约",
+								"url": "https://blog.tdrme.cn/",
+								"icon": "https://www.tdrme.cn/tdrmelogo.webp",
+								"description": "博客聚集地，相聚一个又一个十年！",
+								"suffix": false,
+								"is_show": true
+							}
+						]
+					},
+					{
+						"tab_name": "一些小项目",
+						"upper_right_corner": {},
+						"details": [
+							{
+								"title": "励心缘起的の主页",
+								"url": "https://home.lxyq.link/",
+								"icon": "https://img01.anheyu.com/useruploads/156/2023/05/04/64537b1db9a27.jpg",
+								"description": "不惧未来之变局，不负此生之芳华！",
+								"suffix": false,
+								"is_show": true
+								},
+								{
+								"title": "小白のHome",
+								"url": "https://newpage.hylove.top/",
+								"icon": "https://img01.anheyu.com/useruploads/156/2023/05/04/64537b1dc8a73.jpg",
+								"description": "纵然身朽去，心美亦永恒！",
+								"suffix": false,
+								"is_show": true
+								},
+								{
+								"title": "小白のSnavigation搜索导航页",
+								"url": "https://hi.hylove.top/",
+								"icon": "https://img01.anheyu.com/useruploads/156/2023/05/15/6462367c12497.png",
+								"description": "这里搜索你想要的！",
+								"suffix": false,
+								"is_show": true
+								},
+								{
+								"title": "小白の搜素引擎",
+								"url": "https://search.hylove.top/",
+								"icon": "https://img01.anheyu.com/useruploads/156/2023/05/11/645c6ea45c8d6.png",
+								"description": "你想要的触手可及！",
+								"suffix": false,
+								"is_show": true
+								},
+								{
+								"title": "ChatGPT Web网页版",
+								"url": "https://chatgpt.hylove.top/",
+								"icon": "https://img01.anheyu.com/useruploads/156/2023/05/04/64537b1dc8a73.jpg",
+								"description": "无事来问我，人工智能一点通！",
+								"suffix": false,
+								"is_show": true
+								},
+								{
+								"title": "小白^卟白の网址导航",
+								"url": "https://nav.hylove.top/",
+								"icon": "https://img01.anheyu.com/useruploads/156/2023/05/15/6462351ab327a.jpg",
+								"description": "新一代全新导航，触及你的美！",
+								"siteshot": "https://img01.anheyu.com/useruploads/156/2023/05/15/646240632d00a.png",
+								"suffix": false,
+								"is_show": true
+								}
+						]
+					},
+					{
+						"tab_name": "个人网站",
+						"upper_right_corner": {},
+						"details": [
+							{
+								"title": "小白の学习世界",
+								"url": "https://www.hylove.top/",
+								"icon": "https://img01.anheyu.com/useruploads/156/2023/07/23/64bcc07b319fa.png",
+								"description": "不念过往，逐梦向前",
+								"suffix": false,
+								"is_show": true
+							},
+							{
+								"title": "励心缘起",
+								"url": "https://www.lxyq.xyz/",
+								"icon": "https://img01.anheyu.com/useruploads/156/2023/05/04/64537b1db9a27.jpg",
+								"description": "一位致力于追逐梦想的奋斗青年！",
+								"suffix": false,
+								"is_show": true
+							},
+							{
+								"title": "北陌の空间站",
+								"url": "https://blog.lxyq.xyz/",
+								"icon": "https://img01.anheyu.com/useruploads/156/2023/05/15/646197a75ff6c.jpg",
+								"description": "做自己会更懂！",
+								"suffix": false,
+								"is_show": true
+							},
+							{
+								"title": "小白の引导页",
+								"url": "https://lead.lxyq.link/",
+								"icon": "https://img01.anheyu.com/useruploads/156/2023/07/23/64bcc07b319fa.png",
+								"description": "不惧未来之变局，不负此生之芳华！",
+								"suffix": false,
+								"is_show": true
+							},
+							{
+								"title": "小白のAI起始页",
+								"url": "https://aigc.lxyq.link/",
+								"icon": "https://img01.anheyu.com/useruploads/156/2023/07/23/64bcc07b319fa.png",
+								"description": "不惧未来之变局，不负此生之芳华！",
+								"suffix": false,
+								"is_show": true
+							},
+							{
+								"title": "路遥知马力—软件之家",
+								"url": "http://lovehy.ysepan.com/",
+								"icon": "https://img01.anheyu.com/useruploads/156/2023/05/15/6461b1e211f83.jpg",
+								"description": "软件玩机必备，开启效率世界！",
+								"suffix": false,
+								"is_show": true
+							},
+							{
+								"title": "励心缘起的云盘资源站",
+								"url": "http://lixinyuanqi.ysepan.com/",
+								"icon": "https://img01.anheyu.com/useruploads/156/2023/05/15/6461b0385e199.jpg",
+								"description": "超300T云盘资源库，这里有你想要！",
+								"suffix": false,
+								"is_show": true
+							},
+							{
+								"title": "励心缘起-网址导航",
+								"url": "https://nav.lxyq.link/",
+								"icon": "https://s2.loli.net/2023/04/25/O4mwutrZ193oJDb.png",
+								"description": "超300T云盘资源库，这里有你想要！",
+								"suffix": false,
+								"is_show": true
+							},
+							{
+								"title": "小白^卟白的资源库",
+								"url": "http://hy123.ysepan.com/",
+								"icon": "https://img01.anheyu.com/useruploads/156/2023/05/15/6461af4ecdc2c.jpg",
+								"description": "为天地立心，为生民立命！",
+								"suffix": false,
+								"is_show": true
+							}
+						]
+					}
+				]
+			}
+]

@@ -8,13 +8,13 @@
 				"tab_name": "新闻热点",
 				"upper_right_corner": {
 					"title": "热榜资讯汇总>>>",
-					"url": "https://rss.lxyq.link//news"
+					"url": "https://rss.hylove.top//news"
 				},
 				"details": [
 					{
 						"title": "微博热搜",
 						"ori_url": "https://s.weibo.com/top/summary",
-						"url": "https://rss.lxyq.link//news/weibo",
+						"url": "https://rss.hylove.top//news/weibo",
 						"icon": "https://img.fre123.com/i/2023/12/05/656f27339b3b8.png",
 						"description": "与世界分享你的瞬间 ",
 						"suffix": false,
@@ -23,7 +23,7 @@
 					{
 						"title": "今日头条",
 						"ori_url": "https://www.toutiao.com/",
-						"url": "https://rss.lxyq.link//news/toutiao",
+						"url": "https://rss.hylove.top//news/toutiao",
 						"icon": "https://img.fre123.com/i/2023/12/05/656f276c1711f.png",
 						"description": "个性化资讯推荐",
 						"suffix": false,
@@ -32,7 +32,7 @@
 					{
 						"title": "抖音热点",
 						"ori_url": "https://www.douyin.com/hot",
-						"url": "https://rss.lxyq.link//news/douyin",
+						"url": "https://rss.hylove.top//news/douyin",
 						"icon": "https://img.fre123.com/i/2023/12/05/656f27e4dccaa.png",
 						"description": "发现身边的新鲜事",
 						"suffix": false,
@@ -41,7 +41,7 @@
 					{
 						"title": "腾讯新闻",
 						"ori_url": "https://news.qq.com/",
-						"url": "https://rss.lxyq.link//news/teng_xun_xin_wen",
+						"url": "https://rss.hylove.top//news/teng_xun_xin_wen",
 						"icon": "https://img.fre123.com/i/2023/12/05/656f2809bfa0f.png",
 						"description": "中国最大新闻平台",
 						"suffix": false,
@@ -50,7 +50,7 @@
 					{
 						"title": "微信热文",
 						"ori_url": "https://tophub.today/n/WnBe01o371",
-						"url": "https://rss.lxyq.link//news/douywei_xin_re_wenin",
+						"url": "https://rss.hylove.top//news/douywei_xin_re_wenin",
 						"icon": "https://img.fre123.com/i/2023/12/05/656f469aecf87.png",
 						"description": "热门文章与资讯推荐",
 						"suffix": false,
@@ -59,7 +59,7 @@
 					{
 						"title": "ReadHub",
 						"ori_url": "https://readhub.cn/",
-						"url": "https://rss.lxyq.link//news/readhub",
+						"url": "https://rss.hylove.top//news/readhub",
 						"icon": "https://img.fre123.com/i/2023/12/05/656f410bee9c5.png",
 						"description": "全球科技新闻聚合",
 						"suffix": false,
@@ -68,7 +68,7 @@
 					{
 						"title": "抽屉热榜",
 						"ori_url": "https://dig.chouti.com/",
-						"url": "https://rss.lxyq.link//news/chouti",
+						"url": "https://rss.hylove.top//news/chouti",
 						"icon": "https://img.fre123.com/i/2023/12/07/65716d24e228f.png",
 						"description": "热门内容，一网打尽",
 						"suffix": false,
@@ -77,7 +77,7 @@
 					{
 						"title": "百度热搜",
 						"ori_url": "https://top.baidu.com/board",
-						"url": "https://rss.lxyq.link//news/baidu",
+						"url": "https://rss.hylove.top//news/baidu",
 						"icon": "https://img.fre123.com/i/2023/12/05/656f27c6a0285.png",
 						"description": "百度热搜以数亿用户海量的真实数据为基础，通过专业的数据挖掘方法，计算关键词的热搜指数，旨在建立权威、全面、热门、时效的各类关键词排行榜，引领热词阅读时代。",
 						"suffix": false,
@@ -86,7 +86,7 @@
 					{
 						"title": "新浪新闻",
 						"ori_url": "https://www.sina.com.cn/",
-						"url": "https://rss.lxyq.link//news/xin_lang_xin_wen",
+						"url": "https://rss.hylove.top//news/xin_lang_xin_wen",
 						"icon": "https://img.fre123.com/i/2023/12/05/656f27339b3b8.png",
 						"description": "中文新闻综合门户",
 						"suffix": false,
@@ -95,7 +95,7 @@
 					{
 						"title": "网易热榜",
 						"ori_url": "https://news.163.com/",
-						"url": "https://rss.lxyq.link//news/163_news",
+						"url": "https://rss.hylove.top//news/163_news",
 						"icon": "https://img.fre123.com/i/2023/12/07/6570a591763a0.jpg",
 						"description": "新闻与资讯平台",
 						"suffix": false,
@@ -104,7 +104,7 @@
 					{
 						"title": "知乎热榜",
 						"ori_url": "https://www.zhihu.com/billboard",
-						"url": "https://rss.lxyq.link//news/zhihu_news",
+						"url": "https://rss.hylove.top//news/zhihu_news",
 						"icon": "https://img.fre123.com/i/2023/12/05/656f2f1be65bf.png",
 						"description": "知识问答与热门话题",
 						"suffix": false,
@@ -113,7 +113,7 @@
 					{
 						"title": "哔哩哔哩",
 						"ori_url": "https://www.bilibili.com/v/popular/all/",
-						"url": "https://rss.lxyq.link//news/bilibili",
+						"url": "https://rss.hylove.top//news/bilibili",
 						"icon": "https://img.fre123.com/i/2023/12/06/656f51c78c7db.png",
 						"description": "弹幕视频，二次元文化",
 						"suffix": false,
@@ -122,7 +122,7 @@
 					{
 						"title": "36氪",
 						"ori_url": "https://36kr.com/",
-						"url": "https://rss.lxyq.link//news/36kr",
+						"url": "https://rss.hylove.top//news/36kr",
 						"icon": "https://img.fre123.com/i/2023/12/05/656f27b9ecfcb.png",
 						"description": "创业与科技新闻，洞察商业价值",
 						"suffix": false,
@@ -131,7 +131,7 @@
 					{
 						"title": "爱范儿",
 						"ori_url": "https://www.ifanr.com/",
-						"url": "https://rss.lxyq.link//news/ifanr",
+						"url": "https://rss.hylove.top//news/ifanr",
 						"icon": "https://img.fre123.com/i/2023/12/05/656f28335cfd0.png",
 						"description": "科技与数码生活，热爱创新",
 						"suffix": false,
@@ -140,7 +140,7 @@
 					{
 						"title": "IT之家",
 						"ori_url": "https://www.ithome.com/list/",
-						"url": "https://rss.lxyq.link//news/ithome",
+						"url": "https://rss.hylove.top//news/ithome",
 						"icon": "https://img.fre123.com/i/2023/12/05/656f2746dca0f.png",
 						"description": "科技新闻与评测专家",
 						"suffix": false,
@@ -149,7 +149,7 @@
 					{
 						"title": "澎湃新闻",
 						"ori_url": "https://www.thepaper.cn/",
-						"url": "https://rss.lxyq.link//news/thepaper",
+						"url": "https://rss.hylove.top//news/thepaper",
 						"icon": "https://img.fre123.com/i/2023/12/05/656f27acb144c.png",
 						"description": "独立、深度、观点",
 						"suffix": false,
@@ -158,7 +158,7 @@
 					{
 						"title": "虎嗅资讯",
 						"ori_url": "https://www.huxiu.com/article/",
-						"url": "https://rss.lxyq.link//news/huxiu",
+						"url": "https://rss.hylove.top//news/huxiu",
 						"icon": "https://img.fre123.com/i/2023/12/05/656f277d17855.png",
 						"description": "商业观察与创新洞察",
 						"suffix": false,
@@ -169,14 +169,14 @@
 			{
 				"upper_right_corner": {
 					"title": "技术资讯汇总>>>",
-					"url": "https://rss.lxyq.link//tech"
+					"url": "https://rss.hylove.top//tech"
 				},
 				"tab_name": "技术资讯",
 				"details": [
 					{
 						"title": "Hacker News",
 						"ori_url": "https://news.ycombinator.com/",
-						"url": "https://rss.lxyq.link//tech/ycombinator",
+						"url": "https://rss.hylove.top//tech/ycombinator",
 						"icon": "https://img.fre123.com/i/2023/12/12/657738fb0da11.png",
 						"description": "程序员和创业者的热门新闻网站",
 						"suffix": false,
@@ -185,7 +185,7 @@
 					{
 						"title": "Github",
 						"ori_url": "https://github.com",
-						"url": "https://rss.lxyq.link//tech/github_trending",
+						"url": "https://rss.hylove.top//tech/github_trending",
 						"icon": "https://img.fre123.com/i/2023/12/12/65773615a03a5.png",
 						"description": "全球最大的代码托管平台，共享开源项目",
 						"suffix": false,
@@ -194,7 +194,7 @@
 					{
 						"title": "Stack Overflow",
 						"ori_url": "https://stackoverflow.com/",
-						"url": "https://rss.lxyq.link//tech/stackoverflow",
+						"url": "https://rss.hylove.top//tech/stackoverflow",
 						"icon": "https://img.fre123.com/i/2023/12/12/65773ed583ad3.png",
 						"description": "开发者问答社区，解决编程难题",
 						"suffix": false,
@@ -203,7 +203,7 @@
 					{
 						"title": "V2EX",
 						"ori_url": "https://www.v2ex.com/?tab=hot",
-						"url": "https://rss.lxyq.link//tech/v2ex",
+						"url": "https://rss.hylove.top//tech/v2ex",
 						"icon": "https://img.fre123.com/i/2023/12/12/657733214ec3f.png",
 						"description": "程序员社区，分享与讨论",
 						"suffix": false,
@@ -212,7 +212,7 @@
 					{
 						"title": "DEV",
 						"ori_url": "https://dev.to/",
-						"url": "https://rss.lxyq.link//tech/dev_to",
+						"url": "https://rss.hylove.top//tech/dev_to",
 						"icon": "https://img.fre123.com/i/2023/12/12/65773605a7d3f.png",
 						"description": "开发者社区，探索编程世界",
 						"suffix": false,
@@ -221,7 +221,7 @@
 					{
 						"title": "掘金",
 						"ori_url": "https://juejin.cn/hot/articles",
-						"url": "https://rss.lxyq.link//tech/juejin_trending_all_weekly",
+						"url": "https://rss.hylove.top//tech/juejin_trending_all_weekly",
 						"icon": "https://img.fre123.com/i/2023/12/12/6577329c73a89.png",
 						"description": "技术社区，发现优质内容",
 						"suffix": false,
@@ -230,7 +230,7 @@
 					{
 						"title": "博客园",
 						"ori_url": "https://www.cnblogs.com/aggsite/topviews",
-						"url": "https://rss.lxyq.link//tech/cnblogs_topviews",
+						"url": "https://rss.hylove.top//tech/cnblogs_topviews",
 						"icon": "https://img.fre123.com/i/2023/12/12/65773305be49d.png",
 						"description": "程序员社区，知识交流平台",
 						"suffix": false,
@@ -239,7 +239,7 @@
 					{
 						"title": "CSDN",
 						"ori_url": "https://blog.csdn.net/rank/list",
-						"url": "https://rss.lxyq.link//tech/csdnnews",
+						"url": "https://rss.hylove.top//tech/csdnnews",
 						"icon": "https://img.fre123.com/i/2023/12/12/65773339badda.png",
 						"description": "IT技术社区，知识传播平台",
 						"suffix": false,
@@ -248,7 +248,7 @@
 					{
 						"title": "开源中国",
 						"ori_url": "https://www.oschina.net/news",
-						"url": "https://rss.lxyq.link//tech/oschina_news",
+						"url": "https://rss.hylove.top//tech/oschina_news",
 						"icon": "https://img.fre123.com/i/2023/12/12/65773357604e7.png",
 						"description": "开源技术社区，共享创新精神",
 						"suffix": false,
@@ -257,7 +257,7 @@
 					{
 						"title": "Segmentfault",
 						"ori_url": "https://segmentfault.com/news",
-						"url": "https://rss.lxyq.link//tech/segmentfault_news",
+						"url": "https://rss.hylove.top//tech/segmentfault_news",
 						"icon": "https://img.fre123.com/i/2023/12/12/6577354f59e5d.png",
 						"description": "开发者问答社区，解决问题互助",
 						"suffix": false,
@@ -266,7 +266,7 @@
 					{
 						"title": "InfoQ",
 						"ori_url": "https://www.infoq.cn/",
-						"url": "https://rss.lxyq.link//tech/infoq",
+						"url": "https://rss.hylove.top//tech/infoq",
 						"icon": "https://img.fre123.com/i/2023/12/12/65773588b7b52.png",
 						"description": "技术资讯平台，深度洞察行业动态",
 						"suffix": false,
@@ -275,7 +275,7 @@
 					{
 						"title": "机器之心",
 						"ori_url": "https://www.jiqizhixin.com/",
-						"url": "https://rss.lxyq.link//tech/jiqizhixin",
+						"url": "https://rss.hylove.top//tech/jiqizhixin",
 						"icon": "https://img.fre123.com/i/2023/12/12/657741a779223.png",
 						"description": "人工智能科技媒体，探索智能世界",
 						"suffix": false,
@@ -284,7 +284,7 @@
 					{
 						"title": "量子位",
 						"ori_url": "https://www.qbitai.com/category/%e8%b5%84%e8%ae%af",
-						"url": "https://rss.lxyq.link//tech/qbitai",
+						"url": "https://rss.hylove.top//tech/qbitai",
 						"icon": "https://img.fre123.com/i/2023/12/12/6577368408291.png",
 						"description": "科技资讯平台，前沿科技动态解读",
 						"suffix": false,
@@ -293,7 +293,7 @@
 					{
 						"title": "湾区日报",
 						"ori_url": "https://www.wanqu.co/",
-						"url": "https://rss.lxyq.link//tech/wanqu",
+						"url": "https://rss.hylove.top//tech/wanqu",
 						"icon": "https://img.fre123.com/i/2023/12/12/65773eb7cded4.png",
 						"description": "科技创新资讯，关注湾区科技动态",
 						"suffix": false,
@@ -302,7 +302,7 @@
 					{
 						"title": "小众软件",
 						"ori_url": "https://www.appinn.com/",
-						"url": "https://rss.lxyq.link//tech/appinn",
+						"url": "https://rss.hylove.top//tech/appinn",
 						"icon": "https://img.fre123.com/i/2023/12/12/65773dd163b37.jpeg",
 						"description": "探索独特应用，发现小众精品软件",
 						"suffix": false,
@@ -313,13 +313,13 @@
 			{
 				"upper_right_corner": {
 					"title": "精选周刊大全>>>",
-					"url": "https://rss.lxyq.link//weekly"
+					"url": "https://rss.hylove.top//weekly"
 				},
 				"tab_name": "技术周刊",
 				"details": [
 					{
 						"title": "阮一峰的周刊",
-						"url": "https://rss.lxyq.link//weekly/ruanyifeng_weekly",
+						"url": "https://rss.hylove.top//weekly/ruanyifeng_weekly",
 						"icon": "https://img.fre123.com/i/2023/12/07/6570a316b2e86.jpeg",
 						"description": "这里记录每周值得分享的科技内容，周五发布",
 						"suffix": true,
@@ -327,7 +327,7 @@
 					},
 					{
 						"title": "老胡的信息周刊",
-						"url": "https://rss.lxyq.link//weekly/howie6879_weekly",
+						"url": "https://rss.hylove.top//weekly/howie6879_weekly",
 						"icon": "https://img.fre123.com/i/2023/12/07/6570a33fcae2f.jpeg",
 						"description": "记录老胡每周看到的优质资源，包含项目、软件、资料、网站",
 						"suffix": true,
@@ -335,7 +335,7 @@
 					},
 					{
 						"title": "HelloGitHub",
-						"url": "https://rss.lxyq.link//weekly/hellogithub",
+						"url": "https://rss.hylove.top//weekly/hellogithub",
 						"icon": "https://img.fre123.com/i/2023/12/05/656f22c38002e.png",
 						"description": "「HelloGitHub 月刊」分享 GitHub 上有趣、入门级的开源项目，每月 28 号发布最新一期",
 						"suffix": true,
@@ -343,7 +343,7 @@
 					},
 					{
 						"title": "独立开发变现周刊",
-						"url": "https://rss.lxyq.link//weekly/ezindie",
+						"url": "https://rss.hylove.top//weekly/ezindie",
 						"icon": "https://img.fre123.com/i/2023/12/05/656f421fa8770.png",
 						"description": "独立开发变现相关的技术、工具、交流等，彼此促进成长，快速落地各自的产品，实现持续盈利",
 						"suffix": true,
@@ -351,7 +351,7 @@
 					},
 					{
 						"title": "二丫讲梵",
-						"url": "https://rss.lxyq.link//weekly/eryajf",
+						"url": "https://rss.hylove.top//weekly/eryajf",
 						"icon": "https://img.fre123.com/i/2023/12/05/656f225463402.png",
 						"description": "周刊内容以运维技术和Go语言周边为主，辅以GitHub上优秀项目或他人优秀经验",
 						"suffix": true,
@@ -359,7 +359,7 @@
 					},
 					{
 						"title": "AIGC Weekly",
-						"url": "https://rss.lxyq.link//weekly/aigc_weekly",
+						"url": "https://rss.hylove.top//weekly/aigc_weekly",
 						"icon": "https://img.fre123.com/i/2023/12/05/656f1e30d4262.ico",
 						"description": "每周一更新，主要介绍上周AIGC领域发布的一些产品以及值得关注的研究成果",
 						"suffix": true,
@@ -367,7 +367,7 @@
 					},
 					{
 						"title": "小棉袄的百味人生",
-						"url": "https://rss.lxyq.link//weekly/haikuoshijie",
+						"url": "https://rss.hylove.top//weekly/haikuoshijie",
 						"icon": "https://img.fre123.com/i/2023/12/05/656f25ba8b44f.png",
 						"description": "小棉袄的博客，嗅觉浏览器、海阔视界开发者的博客",
 						"suffix": true,
@@ -375,23 +375,23 @@
 					},
 					{
 						"title": "不死鸟月刊分享",
-						"url": "https://rss.lxyq.link//weekly/businiaofenxiang",
+						"url": "https://rss.hylove.top//weekly/businiaofenxiang",
 						"icon": "https://img.fre123.com/i/2023/12/05/656f21aa7baaf.png",
 						"description": "分享为王",
 						"suffix": true,
 						"is_show": true
 					},
 					{
-						"title": "1Link.Fun",
-						"url": "https://rss.lxyq.link//weekly/1link_fun",
+						"title": "1hylove.Fun",
+						"url": "https://rss.hylove.top//weekly/1hylove_fun",
 						"icon": "https://img.fre123.com/i/2023/12/05/656f20f645b6e.png",
-						"description": "1Link.Fun 科技周刊，每周更新 10 条有趣的链接",
+						"description": "1hylove.Fun 科技周刊，每周更新 10 条有趣的链接",
 						"suffix": true,
 						"is_show": true
 					},
 					{
 						"title": "Go语言爱好者周刊",
-						"url": "https://rss.lxyq.link//weekly/studygolang",
+						"url": "https://rss.hylove.top//weekly/studygolang",
 						"icon": "https://img.fre123.com/i/2023/12/05/656f227ae1a30.png",
 						"description": "记录每周值得分享的 Go 语言相关内容，周日发布",
 						"suffix": true,
@@ -400,7 +400,7 @@
 
 					{
 						"title": "破茧日报",
-						"url": "https://rss.lxyq.link//weekly/guozh",
+						"url": "https://rss.hylove.top//weekly/guozh",
 						"icon": "https://img.fre123.com/i/2023/12/05/656f2385d1ec1.jpeg",
 						"description": "破茧日报，老郭种树",
 						"suffix": true,
@@ -408,7 +408,7 @@
 					},
 					{
 						"title": "老司机 iOS 周报",
-						"url": "https://rss.lxyq.link//weekly/lao_si_ji_ios_zhou_kan",
+						"url": "https://rss.hylove.top//weekly/lao_si_ji_ios_zhou_kan",
 						"icon": "https://img.fre123.com/i/2023/12/05/656f228744f01.png",
 						"description": "对于 iOS 开发者有价值的信息",
 						"suffix": true,
@@ -416,7 +416,7 @@
 					},
 					{
 						"title": "MDH 前端周刊",
-						"url": "https://rss.lxyq.link//weekly/mdh_weekly",
+						"url": "https://rss.hylove.top//weekly/mdh_weekly",
 						"icon": "https://img.fre123.com/i/2023/12/05/656f234394894.png",
 						"description": "前端技术周刊",
 						"suffix": true,
@@ -425,7 +425,7 @@
 
 					{
 						"title": "Python 潮流周刊",
-						"url": "https://rss.lxyq.link//weekly/pythoncat_weekly",
+						"url": "https://rss.hylove.top//weekly/pythoncat_weekly",
 						"icon": "https://img.fre123.com/i/2023/12/05/656f23ae79f38.png",
 						"description": "Python技术周刊",
 						"suffix": true,
@@ -433,7 +433,7 @@
 					},
 					{
 						"title": "Web 技术周刊",
-						"url": "https://rss.lxyq.link//weekly/fe_weekly",
+						"url": "https://rss.hylove.top//weekly/fe_weekly",
 						"icon": "https://img.fre123.com/i/2023/12/05/656f2543dff40.png",
 						"description": "汇总平时看到的好文章，前端技术 & 产品研发为主",
 						"suffix": true,
@@ -453,9 +453,9 @@
 				"upper_right_corner": {},
 				"details": [
 					{
-						"title": "好戏vip蓝光影院",
-						"url": "https://haoxi.vip",
-						"icon": "https://ldbbs.ldmnq.com/bbs/topic/images/2023-11/13fd1dd3-3695-4147-8d55-c9a133e3f283.png",
+						"title": "三集电影",
+						"url": "https://www.3jdy.com/",
+						"icon": "https://www.3jdy.com/mxtheme/images/logo.png",
 						"description": "简洁、高清无广告，蓝光源，强烈推荐影视站点",
 						"suffix": true,
 						"is_show": true
@@ -471,7 +471,7 @@
 					{
 						"title": "往往影视-蓝光自建源",
 						"url": "https://www.wwys.pro/",
-						"icon": "https://www.wwys.pro/img/hei.png",
+						"icon": "https://img0.baidu.com/it/u=2794165731,1851354812&fm=253&fmt=auto&app=138&f=PNG?w=500&h=500",
 						"description": "提供免费最新电影、电视剧、动漫等优质视频资源。",
 						"suffix": false,
 						"is_show": true
@@ -503,23 +503,23 @@
 					{
 						"title": "可可影视_最新Netflix新剧",
 						"url": "https://www.keke1.app/",
-						"icon": "https://static.vukfnqr.com/images/p/keke/logo_horizontal.png?ver=231126",
+						"icon": "https://61.147.93.155:15001/vod_pc_static_kkdy/images/favicon.ico?ver=240716",
 						"description": "提供免费最新电影、电视剧、动漫等优质视频资源。",
 						"suffix": false,
 						"is_show": true
 					},
 					{
-						"title": "荔枝电影网-高清免费",
-						"url": "https://www.wclyzz.com/",
+						"title": "电影生活-影视专属站点",
+						"url": "https://dianying.life/",
 						"icon": "http://p2.music.126.net/_maMFcRbjX5Pgy-jZTf6cg==/109951163674078407.jpg?param=140y140",
 						"description": "提供免费最新电影、电视剧、动漫等优质视频资源。",
 						"suffix": false,
 						"is_show": true
 					}, 
 					{
-						"title": "蛋蛋剧 - 高清蓝光影视免费",
-						"url": "https://dandanju.me/",
-						"icon": "https://dandanju.me/favicon.ico",
+						"title": "红狐狸影院 - 高清蓝光影视免费",
+						"url": "https://honghuli.com/",
+						"icon": "https://honghuli.com/mxtheme/images/favicon.png",
 						"description": "提供免费最新电影、电视剧、动漫等优质视频资源。",
 						"suffix": false,
 						"is_show": true
@@ -541,9 +541,9 @@
 						"is_show": true
 					},
 					{
-						"title": "电视家影院-热门影视",
-						"url": "https://www.dianshijia.cc/",
-						"icon": "https://www.dianshijia.cc/upload/mxprocms/20230924-1/57fa178ac702be4e625970163305997e.png",
+						"title": "影视大全-热门影视",
+						"url": "https://www.bdajg.com/",
+						"icon": "https://www.bdajg.com/favicon.ico",
 						"description": "提供免费最新电影、电视剧、动漫等优质视频资源。",
 						"suffix": false,
 						"is_show": true
@@ -581,9 +581,9 @@
 						"is_show": true
 					},
 					{
-						"title": "555影院",
-						"url": "https://555ys.cc/",
-						"icon": "https://555ys.cc/upload/mxprocms/20231224-1/663803c66ed20290e6fbda130e17d65a.png",
+						"title": "6080影视",
+						"url": "https://www.80yy3.com/",
+						"icon": "https://edu-image.nosdn.127.net/E4789315155514D7814B2420CDBC4DDF.png",
 						"description": "一个提供各类高清电影、电视剧等资源的影视导航网站。",
 						"suffix": false,
 						"is_show": true
@@ -629,9 +629,9 @@
 						"is_show": true
 					},
 					{
-						"title": "8K影视",
-						"url": "http://www.8kvod.com/",
-						"icon": "http://www.8kvod.com/template/mytheme/statics/image/20210121/188e68bdf.png",
+						"title": "鱼塘社-影视",
+						"url": "https://tv.yutangshe.com/",
+						"icon": "https://tv.yutangshe.com/upload/mxprocms/20231106-1/8d081d1d4e12c2e2eae045785ed473d3.png",
 						"description": "8K影视之光，高清在线播放",
 						"suffix": false,
 						"is_show": true
@@ -645,9 +645,9 @@
 						"is_show": true
 					},
 					{
-						"title": "O先生的影视库",
-						"url": "https://www.osirmovie.com/",
-						"icon": "https://www.osirmovie.com/template/xiaozhuti/img/ioc.png",
+						"title": "泥巴影院",
+						"url": "https://www.nbtvv.com/",
+						"icon": "https://www.nbtvv.com/upload/mxcms/20231129-1/ac66d0c041733179076da8806b340b86.png",
 						"description": "各种影视合集聚集地，在线播放",
 						"suffix": false,
 						"is_show": true
@@ -661,9 +661,9 @@
 						"is_show": true
 					},
 					{
-						"title": "真不卡影院 - 免费电影",
-						"url": "https://bktg.net/",
-						"icon": "https://www.hggyyds.com/favicon.ico",
+						"title": "河狸影视",
+						"url": "https://www.heli888.cc/",
+						"icon": "https://www.heli888.cc/upload/mxcms/20240124-1/85852ab86fa42e4b6a0e1744acbd9977.png",
 						"description": "提供免费最新电影、电视剧、动漫等优质视频资源。",
 						"suffix": false,
 						"is_show": true
@@ -838,8 +838,8 @@
 					},
 					{
 						"title": "爱看机器人",
-						"url": "https://www.aikanbot.com/",
-						"icon": "https://www.aikanbot.com/resources/logo.svg",
+						"url": "https://v.ikanbot.com/",
+						"icon": "https://adh.hylove.top/static/picture/img_663c43d0d6106.ico",
 						"description": "一个提供高清电影、电视剧等在线观看服务的平台，还提供资源下载服务。",
 						"suffix": false,
 						"is_show": true
@@ -855,7 +855,7 @@
 					{
 						"title": "好趣网----电视直播网站",
 						"url": "http://tv.haoqu99.com/",
-						"icon": "http://tv.haoqu99.com/favicon.ico",
+						"icon": "https://api.iowen.cn/favicon/tv.haoqu99.com/.png",
 						"description": "电视直播网站",
 						"suffix": false,
 						"is_show": true
@@ -863,7 +863,7 @@
 					{
 						"title": "电视眼-网络直播",
 						"url": "http://www.tvyan.com/",
-						"icon": "http://www.tvyan.com/favicon.ico",
+						"icon": "https://api.iowen.cn/favicon/tvyan.com/.png",
 						"description": "全网影视直播排行榜及地址",
 						"suffix": false,
 						"is_show": true
@@ -1548,7 +1548,7 @@
 					{
 						"title": "书趣阁",
 						"url": "https://wap.ishuquge.net/",
-						"icon": "https://wap.ishuquge.net/favicon.ico",
+						"icon": "https://img0.baidu.com/it/u=344704784,1838488455&fm=253&fmt=auto&app=138&f=JPEG?w=456&h=456",
 						"description": "免费全本小说在线观看，观看小说搜索第一站点",
 						"suffix": false,
 						"is_show": true
@@ -1556,7 +1556,7 @@
 					{
 						"title": "书格",
 						"url": "https://www.shuge.org/",
-						"icon": "https://txcdn.shuge.org/wp-content/uploads/2018/06/shugeorg-icon.png",
+						"icon": "https://www.shuge.org/wp-content/uploads/2018/06/shugeorg-icon.png",
 						"description": "书格是一个自由开放的在线古籍图书馆。致力于开放式分享、介绍、推荐有价值的古籍善本、字画，并鼓励将文化艺术作品数字化归档。",
 						"suffix": false,
 						"is_show": true
@@ -1847,8 +1847,8 @@
 					},
 					{
 						"title": "什么值得读-互联网人",
-						"url": "https://www.shenmezhidedu.com/",
-						"icon": "https://www.shenmezhidedu.com/wp-content/uploads/2020/02/cropped-2020022005321023-32x32.png",
+						"url": "https://www.smzdk.top/",
+						"icon": "https://api.iowen.cn/favicon/tophub.today.png",
 						"description": "提供家庭教育方面的各类资料、书籍和工具的在线平台。",
 						"suffix": false,
 						"is_show": true
@@ -1856,7 +1856,7 @@
 						{
 						"title": "无名图书",
 						"url": "https://www.book123.info/",
-						"icon": "https://www.book123.info/apple-touch-icon.png",
+						"icon": "http://t14.baidu.com/it/u=6638138,3633805358&fm=224&app=112&f=JPEG?w=359&h=500",
 						"description": "提供包括小说、漫画、文学等在内的各类图书资源的在线下载和阅读平台。",
 						"suffix": false,
 						"is_show": true
@@ -1886,10 +1886,10 @@
 							"is_show": true
 						},
 						{
-							"title": "书阁星球屋-盐选精读",
-							"url": "https://yx.cbge.top/",
-							"icon": "https://yx.cbge.top/wp-content/themes/baolog-0.4.3/logo.ico",
-							"description": "盐选书阁，还原阅读本质。",
+							"title": "国家图书馆-读者云门户",
+							"url": "http://read.nlc.cn/yuewen/index",
+							"icon": "http://read.nlc.cn/static/style/images/gutu_logo.jpg",
+							"description": "国家级图书藏品，千万好书等你来读",
 							"suffix": false,
 							"is_show": true
 						}
@@ -2057,7 +2057,7 @@
 				"details": [
 					{
 						"title": "小白の音乐播放器",
-						"url": "https://music.huangyong.link/",
+						"url": "https://music.huangyong.hylove/",
 						"icon": "http://p1.music.126.net/WpZYSUKPZxnvf-_FuBw57g==/109951169136584705.jpg?param=140y140",
 						"description": "一款免费简约的歌单列表在线音乐播放器，小白自建",
 						"suffix": false,
@@ -2074,7 +2074,7 @@
 					{
 						"title": "MyFreeMP3",
 						"url": "https://tools.liumingye.cn/music/#/",
-						"icon": "https://tools.liumingye.cn/favicon.ico",
+						"icon": "https://img1.baidu.com/it/u=3187382006,346047900&fm=253&fmt=auto&app=138&f=PNG?w=500&h=500",
 						"description": "myfreeMP3音乐播放列表，有些可下载",
 						"suffix": false,
 						"is_show": true
@@ -2412,7 +2412,7 @@
 					},
 					{
 						"title": "苹果专区",
-						"url": "https://rss.lxyq.link//#软件工具_苹果专区",
+						"url": "https://rss.hylove.top//#软件工具_苹果专区",
 						"icon": "https://img.fre123.com/i/2024/01/07/6599953104813.png",
 						"description": "MacOS 软件下载网站大全，持续更新！",
 						"suffix": false,
@@ -2420,7 +2420,7 @@
 					},
 					{
 						"title": "微软专区",
-						"url": "https://rss.lxyq.link//#软件工具_微软专区",
+						"url": "https://rss.hylove.top//#软件工具_微软专区",
 						"icon": "https://img.fre123.com/i/2024/01/07/65999562dfc0b.png",
 						"description": "Windows 软件下载网站大全，持续更新！",
 						"suffix": false,
@@ -2437,7 +2437,7 @@
 						{
 						"title": "软仓丨RuanCang.Net",
 						"url": "https://www.ruancang.net/",
-						"icon": "http://img.ruancang.net/win/cang-yuan.svg",
+						"icon": "https://www.ruancang.net/logo.png",
 						"description": "网资源分享、免费软件下载",
 						"suffix": false,
 						"is_show": true
@@ -2445,7 +2445,7 @@
 						{
 						"title": "异星软件空间",
 						"url": "https://www.yxssp.com/",
-						"icon": "https://www.yxssp.com/wp-content/uploads/2017/12/yx250.png",
+						"icon": "https://www.yxssp.com/wp-content/uploads/2024/06/cropped-yx520-32x32.png",
 						"description": "分享绿色软件、提供技术支持",
 						"suffix": false,
 						"is_show": true
@@ -2485,7 +2485,7 @@
 						{
 						"title": "绿盒下载站",
 						"url": "http://www.42xz.com/",
-						"icon": "https://www.42xz3.com/favicon.ico",
+						"icon": "https://api.iowen.cn/favicon/42xz.com.png",
 						"description": "提供优秀绿色软件下载服务",
 						"suffix": false,
 						"is_show": true
@@ -2734,7 +2734,7 @@
 					{
 						"title": "夸克资源合集系列",
 						"url": "http://www.yikeye.fun/11he.html ",
-						"icon": "http://lixinyuanqi.ysepan.com/favicon.ico",
+						"icon": "https://img2.baidu.com/it/u=2643412644,3748249414&fm=253&fmt=auto&app=120&f=JPEG?w=604&h=500",
 						"description": "提供各种夸克资源的合集下载链接。",
 						"suffix": false,
 						"is_show": true
@@ -3199,7 +3199,7 @@
 					{
 						"title": "Github",
 						"url": "https://github.com/",
-						"icon": "https://nav.lxyq.link/images/logos/github.png",
+						"icon": "https://nav.hylove.top/images/logos/github.png",
 						"description": "面向开源及私有软件项目的托管平台。",
 						"suffix": false,
 						"is_show": true
@@ -3222,7 +3222,7 @@
 					},
 					{
 						"title": "即时工具",
-						"url": "https://www.67tool.com/?from=itab.link",
+						"url": "https://www.67tool.com/?from=itab.hylove",
 						"icon": "https://www.67tool.com/favicon.ico",
 						"description": "集成了多种实用的在线工具和应用的平台导航",
 						"suffix": false,
@@ -3421,7 +3421,7 @@
 					{
 						"title": "Github",
 						"url": "https://github.com/",
-						"icon": "https://nav.lxyq.link/images/logos/github.png",
+						"icon": "https://nav.hylove.top/images/logos/github.png",
 						"description": "全球最大的开源社区，Github本站托管平台！",
 						"suffix": false,
 						"is_show": true
@@ -3563,7 +3563,7 @@
 					{
 						"title": "Github",
 						"url": "https://github.com/",
-						"icon": "https://nav.lxyq.link/images/logos/github.png",
+						"icon": "https://nav.hylove.top/images/logos/github.png",
 						"description": "面向开源及私有软件项目的托管平台。",
 						"suffix": false,
 						"is_show": true
@@ -3655,7 +3655,7 @@
 				"details": [
 					{
 						"title": "小白のAI起始页",
-						"url": "https://aigc.lxyq.link/",
+						"url": "https://aigc.hylove.top/",
 						"icon": "https://www.ainav.cn/wp-content/uploads/2023/08/A64C0CA2-D82C-C464-7E76-4B313CE446AA.png",
 						"description": "专业的AI起始引导页。",
 						"suffix": false,
@@ -3663,16 +3663,16 @@
 					},
 					{
 						"title": "小白のAIGC导航",
-						"url": "https://ai.lxyq.link/",
-						"icon": "https://ai.lxyq.link/assets/images/bt.png",
+						"url": "https://ai.hylove.top",
+						"icon": "https://ai.hylove.top/assets/images/bt.png",
 						"description": "专业的AIGC各种大模型导航网站，小白自建！",
 						"suffix": false,
 						"is_show": true
 					},
 					{
 						"title": "小白のChatgpt导航网址",
-						"url": "https://ai.huangyong.link/#/home",
-						"icon": "https://www.ai-collection.cn/wp-content/uploads/2022/05/5e613-www.synthesia.io.png",
+						"url": "https://ainav.hylove.top",
+						"icon": "https://ainav.hylove.top/favicon.ico",
 						"description": "专业的chatgpt各种大模型导航网站，小白自建！",
 						"suffix": false,
 						"is_show": true
@@ -3695,7 +3695,7 @@
 					},
 					{
 						"title": "奕心-AI",
-						"url": "https://link3.cc/loveai",
+						"url": "https://hylove3.cc/loveai",
 						"icon": "http://p1.music.126.net/A514bNqtuivvuppEiXkibQ==/1407374889022377.jpg?param=140y140",
 						"description": "探索AI世界前沿，研究快速探索AI技巧，小白自建！",
 						"suffix": false,
@@ -3767,7 +3767,7 @@
 					},
 					{
 						"title": "AIGC知识库|首页",
-						"url": "https://svfdbeddg6y.feishu.cn/docx/UybjdSnKDood9ixMDAtcB02ynLg?from=from_copylink",
+						"url": "https://svfdbeddg6y.feishu.cn/docx/UybjdSnKDood9ixMDAtcB02ynLg?from=from_copyhylove",
 						"icon": "https://www.ainav.cn/wp-content/uploads/2023/05/b8132-www.feishu.cn.png",
 						"description": "专业的AIGC知识库，小白自建。",
 						"suffix": false,
@@ -3872,7 +3872,7 @@
 					{
 						"title": "ChatGPT 引导语知识库",
 						"url": "https://prompts.fresns.cn/",
-						"icon": "https://cdn.fresns.cn/wiki/chatgpt/logo.png",
+						"icon": "https://assets.fresns.cn/prompts/logo.png",
 						"description": "这里汇集了丰富的 ChatGPT 引导语、创意写作灵感与实用技巧。让我们帮助您激发无限创意，提升写作效率与质量。",
 						"suffix": false,
 						"is_show": true
@@ -4849,7 +4849,7 @@
 								{
 									"title": "中国国家博物馆VR",
 									"url": "https://www.chnmuseum.cn/Portals/0/web/vr/",
-									"icon": "https://www.chnmuseum.cn/Portals/0/web/vr/ui/logo2.png",
+									"icon": "https://img2.baidu.com/it/u=872650235,1632729972&fm=253&fmt=auto&app=138&f=JPEG?w=500&h=666",
 									"description": "用VR技术实现虚拟博物馆观看，云上展览",
 									"suffix": false,
 									"is_show": true
@@ -4881,7 +4881,7 @@
 								{
 								"title": "今天吃啥呀？",
 								"url": "http://guozhivip.com/eat/",
-								"icon": "http://guozhivip.com/images/ic.ico",
+								"icon": "https://api.iowen.cn/favicon/guozhivip.com.png",
 								"description": "结合了推荐和抽选两种模式的美食决策神器",
 								"suffix": false,
 								"is_show": true
@@ -4920,8 +4920,8 @@
 								},
 								{
 									"title": "人生重开模拟器",
-									"url": "https://static.oschina.net/trytry/life-restart/view/",
-									"icon": "https://nav.lxyq.link/images/logos/github.png",
+									"url": "https://life.aizhancloud.cn/",
+									"icon": "https://life.aizhancloud.cn/favicon.ico",
 									"description": "让你在虚拟世界中重新选择人生道路",
 									"suffix": false,
 									"is_show": true
@@ -5009,7 +5009,7 @@
 						"details": [
 							{
 								"title": "小白Nav-一站式综合资源共享平台",
-								"url": "http://hav.lxyq.link/",
+								"url": "http://hav.hylove.top/",
 								"icon": "https://img01.anheyu.com/useruploads/156/2024/01/19/65a950d00703f.png",
 								"description": "一站式免费综合资源共享平台，2024新年快乐，勇往直前！",
 								"suffix": false,
@@ -5127,7 +5127,7 @@
 						"details": [
 							{
 								"title": "励心缘起的の主页",
-								"url": "https://home.lxyq.link/",
+								"url": "https://home.hylove.top/",
 								"icon": "https://img01.anheyu.com/useruploads/156/2023/05/04/64537b1db9a27.jpg",
 								"description": "不惧未来之变局，不负此生之芳华！",
 								"suffix": false,
@@ -5206,7 +5206,7 @@
 							},
 							{
 								"title": "小白の引导页",
-								"url": "https://lead.lxyq.link/",
+								"url": "https://lead.hylove.top/",
 								"icon": "https://img01.anheyu.com/useruploads/156/2023/07/23/64bcc07b319fa.png",
 								"description": "不惧未来之变局，不负此生之芳华！",
 								"suffix": false,
@@ -5214,7 +5214,7 @@
 							},
 							{
 								"title": "小白のAI起始页",
-								"url": "https://aigc.lxyq.link/",
+								"url": "https://aigc.hylove.top/",
 								"icon": "https://img01.anheyu.com/useruploads/156/2023/07/23/64bcc07b319fa.png",
 								"description": "不惧未来之变局，不负此生之芳华！",
 								"suffix": false,
@@ -5238,7 +5238,7 @@
 							},
 							{
 								"title": "励心缘起-网址导航",
-								"url": "https://nav.lxyq.link/",
+								"url": "https://nav.hylove.top/",
 								"icon": "https://s2.loli.net/2023/04/25/O4mwutrZ193oJDb.png",
 								"description": "超300T云盘资源库，这里有你想要！",
 								"suffix": false,
